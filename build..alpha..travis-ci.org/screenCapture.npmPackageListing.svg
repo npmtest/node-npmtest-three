@@ -1,749 +1,761 @@
-<svg height="11934" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="11934" fill="#555" width="720"></rect>
+<svg height="12126" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="12126" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 21:40:43 +0000 12027817 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 21:40:43 +0000     1081 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 21:40:43 +0000     2713 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 21:40:43 +0000  1026434 bytes  build/three.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 21:40:43 +0000   503128 bytes  build/three.min.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 21:40:43 +0000   990455 bytes  build/three.module.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 21:40:43 +0000     2007 bytes  examples/fonts/LICENSE</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 21:40:43 +0000       85 bytes  examples/fonts/README</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 21:40:43 +0000    10695 bytes  examples/fonts/droid/NOTICE</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 21:40:43 +0000      692 bytes  examples/fonts/droid/README.txt</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 21:40:43 +0000   329885 bytes  examples/fonts/droid/droid_sans_bold.typeface.js\</tspan>
+<tspan x="10" y="26">  0.  2017-04-22 11:12:59 +0000 12914645 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 11:12:59 +0000     1081 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 11:12:59 +0000      366 bytes  bower.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 11:12:59 +0000  1039390 bytes  build/three.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 11:12:59 +0000   510005 bytes  build/three.min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 11:12:59 +0000  1003049 bytes  build/three.module.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 11:12:59 +0000     2007 bytes  examples/fonts/LICENSE</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 11:12:59 +0000       85 bytes  examples/fonts/README</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 11:12:59 +0000    10695 bytes  examples/fonts/droid/NOTICE</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 11:12:59 +0000      692 bytes  examples/fonts/droid/README.txt</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 11:12:59 +0000   329885 bytes  examples/fonts/droid/droid_sans_bold.typeface.js\</tspan>
 <tspan x="10" y="202">on</tspan>
-<tspan x="10" y="218"> 11.  2017-04-17 21:40:43 +0000   190569 bytes  examples/fonts/droid/droid_sans_mono_regular.typ\</tspan>
+<tspan x="10" y="218"> 11.  2017-04-22 11:12:59 +0000   190569 bytes  examples/fonts/droid/droid_sans_mono_regular.typ\</tspan>
 <tspan x="10" y="234">eface.json</tspan>
-<tspan x="10" y="250"> 12.  2017-04-17 21:40:43 +0000   319895 bytes  examples/fonts/droid/droid_sans_regular.typeface\</tspan>
+<tspan x="10" y="250"> 12.  2017-04-22 11:12:59 +0000   319895 bytes  examples/fonts/droid/droid_sans_regular.typeface\</tspan>
 <tspan x="10" y="266">.json</tspan>
-<tspan x="10" y="282"> 13.  2017-04-17 21:40:43 +0000   485403 bytes  examples/fonts/droid/droid_serif_bold.typeface.j\</tspan>
+<tspan x="10" y="282"> 13.  2017-04-22 11:12:59 +0000   485403 bytes  examples/fonts/droid/droid_serif_bold.typeface.j\</tspan>
 <tspan x="10" y="298">son</tspan>
-<tspan x="10" y="314"> 14.  2017-04-17 21:40:43 +0000   477058 bytes  examples/fonts/droid/droid_serif_regular.typefac\</tspan>
+<tspan x="10" y="314"> 14.  2017-04-22 11:12:59 +0000   477058 bytes  examples/fonts/droid/droid_serif_regular.typefac\</tspan>
 <tspan x="10" y="330">e.json</tspan>
-<tspan x="10" y="346"> 15.  2017-04-17 21:40:43 +0000   649318 bytes  examples/fonts/gentilis_bold.typeface.json</tspan>
-<tspan x="10" y="362"> 16.  2017-04-17 21:40:43 +0000   627529 bytes  examples/fonts/gentilis_regular.typeface.json</tspan>
-<tspan x="10" y="378"> 17.  2017-04-17 21:40:43 +0000    61632 bytes  examples/fonts/helvetiker_bold.typeface.json</tspan>
-<tspan x="10" y="394"> 18.  2017-04-17 21:40:43 +0000    63182 bytes  examples/fonts/helvetiker_regular.typeface.json</tspan>
-<tspan x="10" y="410"> 19.  2017-04-17 21:40:43 +0000   112249 bytes  examples/fonts/optimer_bold.typeface.json</tspan>
-<tspan x="10" y="426"> 20.  2017-04-17 21:40:43 +0000   110666 bytes  examples/fonts/optimer_regular.typeface.json</tspan>
-<tspan x="10" y="442"> 21.  2017-04-17 21:40:43 +0000    18068 bytes  examples/fonts/ttf/kenpixel.ttf</tspan>
-<tspan x="10" y="458"> 22.  2017-04-17 21:40:43 +0000     2746 bytes  examples/js/AnimationClipCreator.js</tspan>
-<tspan x="10" y="474"> 23.  2017-04-17 21:40:43 +0000     3606 bytes  examples/js/BlendCharacter.js</tspan>
-<tspan x="10" y="490"> 24.  2017-04-17 21:40:43 +0000     4318 bytes  examples/js/BlendCharacterGui.js</tspan>
-<tspan x="10" y="506"> 25.  2017-04-17 21:40:43 +0000     3707 bytes  examples/js/BufferGeometryUtils.js</tspan>
-<tspan x="10" y="522"> 26.  2017-04-17 21:40:43 +0000     9316 bytes  examples/js/Car.js</tspan>
-<tspan x="10" y="538"> 27.  2017-04-17 21:40:43 +0000     6058 bytes  examples/js/Cloth.js</tspan>
-<tspan x="10" y="554"> 28.  2017-04-17 21:40:43 +0000    13262 bytes  examples/js/ConvexObjectBreaker.js</tspan>
-<tspan x="10" y="570"> 29.  2017-04-17 21:40:43 +0000     8945 bytes  examples/js/CurveExtras.js</tspan>
-<tspan x="10" y="586"> 30.  2017-04-17 21:40:43 +0000     2076 bytes  examples/js/Detector.js</tspan>
-<tspan x="10" y="602"> 31.  2017-04-17 21:40:43 +0000    10461 bytes  examples/js/GPUComputationRenderer.js</tspan>
-<tspan x="10" y="618"> 32.  2017-04-17 21:40:43 +0000    16005 bytes  examples/js/GPUParticleSystem.js</tspan>
-<tspan x="10" y="634"> 33.  2017-04-17 21:40:43 +0000     1390 bytes  examples/js/Gyroscope.js</tspan>
-<tspan x="10" y="650"> 34.  2017-04-17 21:40:43 +0000     2252 bytes  examples/js/ImprovedNoise.js</tspan>
-<tspan x="10" y="666"> 35.  2017-04-17 21:40:43 +0000     5465 bytes  examples/js/MD2Character.js</tspan>
-<tspan x="10" y="682"> 36.  2017-04-17 21:40:43 +0000    12477 bytes  examples/js/MD2CharacterComplex.js</tspan>
-<tspan x="10" y="698"> 37.  2017-04-17 21:40:43 +0000    34440 bytes  examples/js/MarchingCubes.js</tspan>
-<tspan x="10" y="714"> 38.  2017-04-17 21:40:43 +0000     9452 bytes  examples/js/Mirror.js</tspan>
-<tspan x="10" y="730"> 39.  2017-04-17 21:40:43 +0000     1405 bytes  examples/js/MorphAnimMesh.js</tspan>
-<tspan x="10" y="746"> 40.  2017-04-17 21:40:43 +0000     1332 bytes  examples/js/MorphAnimation.js</tspan>
-<tspan x="10" y="762"> 41.  2017-04-17 21:40:43 +0000    15100 bytes  examples/js/Ocean.js</tspan>
-<tspan x="10" y="778"> 42.  2017-04-17 21:40:43 +0000    46076 bytes  examples/js/Octree.js</tspan>
-<tspan x="10" y="794"> 43.  2017-04-17 21:40:43 +0000      424 bytes  examples/js/PRNG.js</tspan>
-<tspan x="10" y="810"> 44.  2017-04-17 21:40:43 +0000     6610 bytes  examples/js/ParametricGeometries.js</tspan>
-<tspan x="10" y="826"> 45.  2017-04-17 21:40:43 +0000    13772 bytes  examples/js/RollerCoaster.js</tspan>
-<tspan x="10" y="842"> 46.  2017-04-17 21:40:43 +0000     6767 bytes  examples/js/ShaderGodRays.js</tspan>
-<tspan x="10" y="858"> 47.  2017-04-17 21:40:43 +0000    18596 bytes  examples/js/ShaderSkin.js</tspan>
-<tspan x="10" y="874"> 48.  2017-04-17 21:40:43 +0000     9320 bytes  examples/js/ShaderTerrain.js</tspan>
-<tspan x="10" y="890"> 49.  2017-04-17 21:40:43 +0000     7341 bytes  examples/js/ShaderToon.js</tspan>
-<tspan x="10" y="906"> 50.  2017-04-17 21:40:43 +0000    13600 bytes  examples/js/SimplexNoise.js</tspan>
-<tspan x="10" y="922"> 51.  2017-04-17 21:40:43 +0000     7769 bytes  examples/js/SkyShader.js</tspan>
-<tspan x="10" y="938"> 52.  2017-04-17 21:40:43 +0000     5419 bytes  examples/js/TimelinerController.js</tspan>
-<tspan x="10" y="954"> 53.  2017-04-17 21:40:43 +0000    12610 bytes  examples/js/TypedArrayUtils.js</tspan>
-<tspan x="10" y="970"> 54.  2017-04-17 21:40:43 +0000     2668 bytes  examples/js/UCSCharacter.js</tspan>
-<tspan x="10" y="986"> 55.  2017-04-17 21:40:43 +0000    12943 bytes  examples/js/Volume.js</tspan>
-<tspan x="10" y="1002"> 56.  2017-04-17 21:40:43 +0000     6114 bytes  examples/js/VolumeSlice.js</tspan>
-<tspan x="10" y="1018"> 57.  2017-04-17 21:40:43 +0000    10917 bytes  examples/js/WaterShader.js</tspan>
-<tspan x="10" y="1034"> 58.  2017-04-17 21:40:43 +0000     9176 bytes  examples/js/animation/CCDIKSolver.js</tspan>
-<tspan x="10" y="1050"> 59.  2017-04-17 21:40:43 +0000    25553 bytes  examples/js/animation/MMDPhysics.js</tspan>
-<tspan x="10" y="1066"> 60.  2017-04-17 21:40:43 +0000     6175 bytes  examples/js/cameras/CinematicCamera.js</tspan>
-<tspan x="10" y="1082"> 61.  2017-04-17 21:40:43 +0000     4936 bytes  examples/js/cameras/CombinedCamera.js</tspan>
-<tspan x="10" y="1098"> 62.  2017-04-17 21:40:43 +0000     2811 bytes  examples/js/controls/DeviceOrientationControls.j\</tspan>
-<tspan x="10" y="1114">s</tspan>
-<tspan x="10" y="1130"> 63.  2017-04-17 21:40:43 +0000     4113 bytes  examples/js/controls/DragControls.js</tspan>
-<tspan x="10" y="1146"> 64.  2017-04-17 21:40:43 +0000     7251 bytes  examples/js/controls/EditorControls.js</tspan>
-<tspan x="10" y="1162"> 65.  2017-04-17 21:40:43 +0000     6556 bytes  examples/js/controls/FirstPersonControls.js</tspan>
-<tspan x="10" y="1178"> 66.  2017-04-17 21:40:43 +0000     7152 bytes  examples/js/controls/FlyControls.js</tspan>
-<tspan x="10" y="1194"> 67.  2017-04-17 21:40:43 +0000    22439 bytes  examples/js/controls/OrbitControls.js</tspan>
-<tspan x="10" y="1210"> 68.  2017-04-17 21:40:43 +0000    14031 bytes  examples/js/controls/OrthographicTrackballContro\</tspan>
-<tspan x="10" y="1226">ls.js</tspan>
-<tspan x="10" y="1242"> 69.  2017-04-17 21:40:43 +0000     1402 bytes  examples/js/controls/PointerLockControls.js</tspan>
-<tspan x="10" y="1258"> 70.  2017-04-17 21:40:43 +0000    14057 bytes  examples/js/controls/TrackballControls.js</tspan>
-<tspan x="10" y="1274"> 71.  2017-04-17 21:40:43 +0000    33257 bytes  examples/js/controls/TransformControls.js</tspan>
-<tspan x="10" y="1290"> 72.  2017-04-17 21:40:43 +0000     2834 bytes  examples/js/controls/VRControls.js</tspan>
-<tspan x="10" y="1306"> 73.  2017-04-17 21:40:43 +0000      934 bytes  examples/js/crossfade/gui.js</tspan>
-<tspan x="10" y="1322"> 74.  2017-04-17 21:40:43 +0000     2913 bytes  examples/js/crossfade/scenes.js</tspan>
-<tspan x="10" y="1338"> 75.  2017-04-17 21:40:43 +0000     3732 bytes  examples/js/crossfade/transition.js</tspan>
-<tspan x="10" y="1354"> 76.  2017-04-17 21:40:43 +0000     1732 bytes  examples/js/curves/NURBSCurve.js</tspan>
-<tspan x="10" y="1370"> 77.  2017-04-17 21:40:43 +0000     1404 bytes  examples/js/curves/NURBSSurface.js</tspan>
-<tspan x="10" y="1386"> 78.  2017-04-17 21:40:43 +0000     7982 bytes  examples/js/curves/NURBSUtils.js</tspan>
-<tspan x="10" y="1402"> 79.  2017-04-17 21:40:43 +0000     3911 bytes  examples/js/effects/AnaglyphEffect.js</tspan>
-<tspan x="10" y="1418"> 80.  2017-04-17 21:40:43 +0000     6714 bytes  examples/js/effects/AsciiEffect.js</tspan>
-<tspan x="10" y="1434"> 81.  2017-04-17 21:40:43 +0000    14879 bytes  examples/js/effects/OutlineEffect.js</tspan>
-<tspan x="10" y="1450"> 82.  2017-04-17 21:40:43 +0000     2067 bytes  examples/js/effects/ParallaxBarrierEffect.js</tspan>
-<tspan x="10" y="1466"> 83.  2017-04-17 21:40:43 +0000     3343 bytes  examples/js/effects/PeppersGhostEffect.js</tspan>
-<tspan x="10" y="1482"> 84.  2017-04-17 21:40:43 +0000     1159 bytes  examples/js/effects/StereoEffect.js</tspan>
-<tspan x="10" y="1498"> 85.  2017-04-17 21:40:43 +0000    10999 bytes  examples/js/effects/VREffect.js</tspan>
-<tspan x="10" y="1514"> 86.  2017-04-17 21:40:43 +0000     3993 bytes  examples/js/exporters/MMDExporter.js</tspan>
-<tspan x="10" y="1530"> 87.  2017-04-17 21:40:43 +0000     5007 bytes  examples/js/exporters/OBJExporter.js</tspan>
-<tspan x="10" y="1546"> 88.  2017-04-17 21:40:43 +0000     2355 bytes  examples/js/exporters/STLBinaryExporter.js</tspan>
-<tspan x="10" y="1562"> 89.  2017-04-17 21:40:43 +0000     1478 bytes  examples/js/exporters/STLExporter.js</tspan>
-<tspan x="10" y="1578"> 90.  2017-04-17 21:40:43 +0000      904 bytes  examples/js/exporters/TypedGeometryExporter.js</tspan>
-<tspan x="10" y="1594"> 91.  2017-04-17 21:40:43 +0000     3965 bytes  examples/js/geometries/ConvexGeometry.js</tspan>
-<tspan x="10" y="1610"> 92.  2017-04-17 21:40:43 +0000     6882 bytes  examples/js/geometries/DecalGeometry.js</tspan>
-<tspan x="10" y="1626"> 93.  2017-04-17 21:40:43 +0000    18330 bytes  examples/js/geometries/TeapotBufferGeometry.js</tspan>
-<tspan x="10" y="1642"> 94.  2017-04-17 21:40:43 +0000     1860 bytes  examples/js/geometries/hilbert2D.js</tspan>
-<tspan x="10" y="1658"> 95.  2017-04-17 21:40:43 +0000     3341 bytes  examples/js/geometries/hilbert3D.js</tspan>
-<tspan x="10" y="1674"> 96.  2017-04-17 21:40:43 +0000  1845086 bytes  examples/js/libs/ammo.js</tspan>
-<tspan x="10" y="1690"> 97.  2017-04-17 21:40:43 +0000    57342 bytes  examples/js/libs/dat.gui.min.js</tspan>
-<tspan x="10" y="1706"> 98.  2017-04-17 21:40:43 +0000    20023 bytes  examples/js/libs/earcut.js</tspan>
-<tspan x="10" y="1722"> 99.  2017-04-17 21:40:43 +0000     6943 bytes  examples/js/libs/inflate.min.js</tspan>
-<tspan x="10" y="1738">100.  2017-04-17 21:40:43 +0000    75490 bytes  examples/js/libs/jszip.min.js</tspan>
-<tspan x="10" y="1754">101.  2017-04-17 21:40:43 +0000   135014 bytes  examples/js/libs/mmdparser.min.js</tspan>
-<tspan x="10" y="1770">102.  2017-04-17 21:40:43 +0000    14828 bytes  examples/js/libs/msgpack-js.js</tspan>
-<tspan x="10" y="1786">103.  2017-04-17 21:40:43 +0000   130600 bytes  examples/js/libs/o3dgc.js</tspan>
-<tspan x="10" y="1802">104.  2017-04-17 21:40:43 +0000   126684 bytes  examples/js/libs/opentype.min.js</tspan>
-<tspan x="10" y="1818">105.  2017-04-17 21:40:43 +0000     8594 bytes  examples/js/libs/pnltri.min.js</tspan>
-<tspan x="10" y="1834">106.  2017-04-17 21:40:43 +0000     1855 bytes  examples/js/libs/stats.min.js</tspan>
-<tspan x="10" y="1850">107.  2017-04-17 21:40:43 +0000     1493 bytes  examples/js/libs/system.min.js</tspan>
-<tspan x="10" y="1866">108.  2017-04-17 21:40:43 +0000    49781 bytes  examples/js/libs/timeliner_gui.min.js</tspan>
-<tspan x="10" y="1882">109.  2017-04-17 21:40:43 +0000     4882 bytes  examples/js/libs/tween.min.js</tspan>
-<tspan x="10" y="1898">110.  2017-04-17 21:40:43 +0000    24528 bytes  examples/js/libs/zlib_and_gzip.min.js</tspan>
-<tspan x="10" y="1914">111.  2017-04-17 21:40:43 +0000   211516 bytes  examples/js/lights/RectAreaLightUniformsLib.js</tspan>
-<tspan x="10" y="1930">112.  2017-04-17 21:40:43 +0000    12570 bytes  examples/js/loaders/3MFLoader.js</tspan>
-<tspan x="10" y="1946">113.  2017-04-17 21:40:43 +0000    10815 bytes  examples/js/loaders/AMFLoader.js</tspan>
-<tspan x="10" y="1962">114.  2017-04-17 21:40:43 +0000    24172 bytes  examples/js/loaders/AWDLoader.js</tspan>
-<tspan x="10" y="1978">115.  2017-04-17 21:40:43 +0000     6978 bytes  examples/js/loaders/AssimpJSONLoader.js</tspan>
-<tspan x="10" y="1994">116.  2017-04-17 21:40:43 +0000    54693 bytes  examples/js/loaders/AssimpLoader.js</tspan>
-<tspan x="10" y="2010">117.  2017-04-17 21:40:43 +0000     8723 bytes  examples/js/loaders/BVHLoader.js</tspan>
-<tspan x="10" y="2026">118.  2017-04-17 21:40:43 +0000     4790 bytes  examples/js/loaders/BabylonLoader.js</tspan>
-<tspan x="10" y="2042">119.  2017-04-17 21:40:43 +0000    20321 bytes  examples/js/loaders/BinaryLoader.js</tspan>
-<tspan x="10" y="2058">120.  2017-04-17 21:40:43 +0000   100825 bytes  examples/js/loaders/ColladaLoader.js</tspan>
-<tspan x="10" y="2074">121.  2017-04-17 21:40:43 +0000    29926 bytes  examples/js/loaders/ColladaLoader2.js</tspan>
-<tspan x="10" y="2090">122.  2017-04-17 21:40:43 +0000     5924 bytes  examples/js/loaders/DDSLoader.js</tspan>
-<tspan x="10" y="2106">123.  2017-04-17 21:40:43 +0000    69396 bytes  examples/js/loaders/FBXLoader.js</tspan>
-<tspan x="10" y="2122">124.  2017-04-17 21:40:43 +0000   100527 bytes  examples/js/loaders/FBXLoader2.js</tspan>
-<tspan x="10" y="2138">125.  2017-04-17 21:40:43 +0000    46897 bytes  examples/js/loaders/GLTFLoader.js</tspan>
-<tspan x="10" y="2154">126.  2017-04-17 21:40:43 +0000     5304 bytes  examples/js/loaders/HDRCubeTextureLoader.js</tspan>
-<tspan x="10" y="2170">127.  2017-04-17 21:40:43 +0000     1630 bytes  examples/js/loaders/KMZLoader.js</tspan>
-<tspan x="10" y="2186">128.  2017-04-17 21:40:43 +0000    11082 bytes  examples/js/loaders/MD2Loader.js</tspan>
-<tspan x="10" y="2202">129.  2017-04-17 21:40:43 +0000    60591 bytes  examples/js/loaders/MMDLoader.js</tspan>
-<tspan x="10" y="2218">130.  2017-04-17 21:40:43 +0000    10843 bytes  examples/js/loaders/MTLLoader.js</tspan>
-<tspan x="10" y="2234">131.  2017-04-17 21:40:43 +0000    12619 bytes  examples/js/loaders/NRRDLoader.js</tspan>
-<tspan x="10" y="2250">132.  2017-04-17 21:40:43 +0000    19266 bytes  examples/js/loaders/OBJLoader.js</tspan>
-<tspan x="10" y="2266">133.  2017-04-17 21:40:43 +0000     7200 bytes  examples/js/loaders/PCDLoader.js</tspan>
-<tspan x="10" y="2282">134.  2017-04-17 21:40:43 +0000     6785 bytes  examples/js/loaders/PDBLoader.js</tspan>
-<tspan x="10" y="2298">135.  2017-04-17 21:40:43 +0000    10636 bytes  examples/js/loaders/PLYLoader.js</tspan>
-<tspan x="10" y="2314">136.  2017-04-17 21:40:43 +0000     5779 bytes  examples/js/loaders/PVRLoader.js</tspan>
-<tspan x="10" y="2330">137.  2017-04-17 21:40:43 +0000     3064 bytes  examples/js/loaders/PlayCanvasLoader.js</tspan>
-<tspan x="10" y="2346">138.  2017-04-17 21:40:43 +0000     9546 bytes  examples/js/loaders/RGBELoader.js</tspan>
-<tspan x="10" y="2362">139.  2017-04-17 21:40:43 +0000     7004 bytes  examples/js/loaders/STLLoader.js</tspan>
-<tspan x="10" y="2378">140.  2017-04-17 21:40:43 +0000      683 bytes  examples/js/loaders/SVGLoader.js</tspan>
-<tspan x="10" y="2394">141.  2017-04-17 21:40:43 +0000    11658 bytes  examples/js/loaders/TGALoader.js</tspan>
-<tspan x="10" y="2410">142.  2017-04-17 21:40:43 +0000     3929 bytes  examples/js/loaders/TTFLoader.js</tspan>
-<tspan x="10" y="2426">143.  2017-04-17 21:40:43 +0000    18325 bytes  examples/js/loaders/UTF8Loader.js</tspan>
-<tspan x="10" y="2442">144.  2017-04-17 21:40:43 +0000    24777 bytes  examples/js/loaders/VRMLLoader.js</tspan>
-<tspan x="10" y="2458">145.  2017-04-17 21:40:43 +0000    25026 bytes  examples/js/loaders/VTKLoader.js</tspan>
-<tspan x="10" y="2474">146.  2017-04-17 21:40:43 +0000     9598 bytes  examples/js/loaders/collada/Animation.js</tspan>
-<tspan x="10" y="2490">147.  2017-04-17 21:40:43 +0000     3969 bytes  examples/js/loaders/collada/AnimationHandler.js</tspan>
-<tspan x="10" y="2506">148.  2017-04-17 21:40:43 +0000     4318 bytes  examples/js/loaders/collada/KeyFrameAnimation.js</tspan>
-<tspan x="10" y="2522">149.  2017-04-17 21:40:43 +0000     5211 bytes  examples/js/loaders/ctm/CTMLoader.js</tspan>
-<tspan x="10" y="2538">150.  2017-04-17 21:40:43 +0000      339 bytes  examples/js/loaders/ctm/CTMWorker.js</tspan>
-<tspan x="10" y="2554">151.  2017-04-17 21:40:43 +0000    17289 bytes  examples/js/loaders/ctm/ctm.js</tspan>
-<tspan x="10" y="2570">152.  2017-04-17 21:40:43 +0000      881 bytes  examples/js/loaders/ctm/license/OpenCTM.txt</tspan>
-<tspan x="10" y="2586">153.  2017-04-17 21:40:43 +0000     1056 bytes  examples/js/loaders/ctm/license/js-lzma.txt</tspan>
-<tspan x="10" y="2602">154.  2017-04-17 21:40:43 +0000     1056 bytes  examples/js/loaders/ctm/license/js-openctm.txt</tspan>
-<tspan x="10" y="2618">155.  2017-04-17 21:40:43 +0000    12703 bytes  examples/js/loaders/ctm/lzma.js</tspan>
-<tspan x="10" y="2634">156.  2017-04-17 21:40:43 +0000    24245 bytes  examples/js/loaders/deprecated/SceneLoader.js</tspan>
-<tspan x="10" y="2650">157.  2017-04-17 21:40:43 +0000    57837 bytes  examples/js/loaders/sea3d/SEA3D.js</tspan>
-<tspan x="10" y="2666">158.  2017-04-17 21:40:43 +0000    21043 bytes  examples/js/loaders/sea3d/SEA3DDeflate.js</tspan>
-<tspan x="10" y="2682">159.  2017-04-17 21:40:43 +0000    16038 bytes  examples/js/loaders/sea3d/SEA3DLZMA.js</tspan>
-<tspan x="10" y="2698">160.  2017-04-17 21:40:43 +0000    13788 bytes  examples/js/loaders/sea3d/SEA3DLegacy.js</tspan>
-<tspan x="10" y="2714">161.  2017-04-17 21:40:43 +0000    69687 bytes  examples/js/loaders/sea3d/SEA3DLoader.js</tspan>
-<tspan x="10" y="2730">162.  2017-04-17 21:40:43 +0000     2711 bytes  examples/js/loaders/sea3d/o3dgc/SEA3DGC.js</tspan>
-<tspan x="10" y="2746">163.  2017-04-17 21:40:43 +0000     9425 bytes  examples/js/loaders/sea3d/physics/SEA3DAmmo.js</tspan>
-<tspan x="10" y="2762">164.  2017-04-17 21:40:43 +0000    13282 bytes  examples/js/loaders/sea3d/physics/SEA3DAmmoLoade\</tspan>
-<tspan x="10" y="2778">r.js</tspan>
-<tspan x="10" y="2794">165.  2017-04-17 21:40:43 +0000     8045 bytes  examples/js/loaders/sea3d/physics/SEA3DRigidBody\</tspan>
-<tspan x="10" y="2810">.js</tspan>
-<tspan x="10" y="2826">166.  2017-04-17 21:40:43 +0000     1222 bytes  examples/js/math/ColorConverter.js</tspan>
-<tspan x="10" y="2842">167.  2017-04-17 21:40:43 +0000    13058 bytes  examples/js/math/Lut.js</tspan>
-<tspan x="10" y="2858">168.  2017-04-17 21:40:43 +0000    22622 bytes  examples/js/modifiers/BufferSubdivisionModifier.\</tspan>
-<tspan x="10" y="2874">js</tspan>
-<tspan x="10" y="2890">169.  2017-04-17 21:40:43 +0000      750 bytes  examples/js/modifiers/ExplodeModifier.js</tspan>
-<tspan x="10" y="2906">170.  2017-04-17 21:40:43 +0000     9798 bytes  examples/js/modifiers/SimplifyModifier.js</tspan>
-<tspan x="10" y="2922">171.  2017-04-17 21:40:43 +0000     8617 bytes  examples/js/modifiers/SubdivisionModifier.js</tspan>
-<tspan x="10" y="2938">172.  2017-04-17 21:40:43 +0000     4803 bytes  examples/js/modifiers/TessellateModifier.js</tspan>
-<tspan x="10" y="2954">173.  2017-04-17 21:40:43 +0000      948 bytes  examples/js/nodes/AttributeNode.js</tspan>
-<tspan x="10" y="2970">174.  2017-04-17 21:40:43 +0000     1678 bytes  examples/js/nodes/ConstNode.js</tspan>
-<tspan x="10" y="2986">175.  2017-04-17 21:40:43 +0000     1206 bytes  examples/js/nodes/FunctionCallNode.js</tspan>
-<tspan x="10" y="3002">176.  2017-04-17 21:40:43 +0000     3986 bytes  examples/js/nodes/FunctionNode.js</tspan>
-<tspan x="10" y="3018">177.  2017-04-17 21:40:43 +0000     2281 bytes  examples/js/nodes/GLNode.js</tspan>
-<tspan x="10" y="3034">178.  2017-04-17 21:40:43 +0000     1058 bytes  examples/js/nodes/InputNode.js</tspan>
-<tspan x="10" y="3050">179.  2017-04-17 21:40:43 +0000     4148 bytes  examples/js/nodes/NodeBuilder.js</tspan>
-<tspan x="10" y="3066">180.  2017-04-17 21:40:43 +0000     4268 bytes  examples/js/nodes/NodeLib.js</tspan>
-<tspan x="10" y="3082">181.  2017-04-17 21:40:43 +0000    11191 bytes  examples/js/nodes/NodeMaterial.js</tspan>
-<tspan x="10" y="3098">182.  2017-04-17 21:40:43 +0000      630 bytes  examples/js/nodes/RawNode.js</tspan>
-<tspan x="10" y="3114">183.  2017-04-17 21:40:43 +0000     3346 bytes  examples/js/nodes/TempNode.js</tspan>
-<tspan x="10" y="3130">184.  2017-04-17 21:40:43 +0000      565 bytes  examples/js/nodes/VarNode.js</tspan>
-<tspan x="10" y="3146">185.  2017-04-17 21:40:43 +0000     2761 bytes  examples/js/nodes/accessors/CameraNode.js</tspan>
-<tspan x="10" y="3162">186.  2017-04-17 21:40:43 +0000      815 bytes  examples/js/nodes/accessors/ColorsNode.js</tspan>
-<tspan x="10" y="3178">187.  2017-04-17 21:40:43 +0000      645 bytes  examples/js/nodes/accessors/LightNode.js</tspan>
-<tspan x="10" y="3194">188.  2017-04-17 21:40:43 +0000     1255 bytes  examples/js/nodes/accessors/NormalNode.js</tspan>
-<tspan x="10" y="3210">189.  2017-04-17 21:40:43 +0000     1774 bytes  examples/js/nodes/accessors/PositionNode.js</tspan>
-<tspan x="10" y="3226">190.  2017-04-17 21:40:43 +0000     1646 bytes  examples/js/nodes/accessors/ReflectNode.js</tspan>
-<tspan x="10" y="3242">191.  2017-04-17 21:40:43 +0000      760 bytes  examples/js/nodes/accessors/ScreenUVNode.js</tspan>
-<tspan x="10" y="3258">192.  2017-04-17 21:40:43 +0000      764 bytes  examples/js/nodes/accessors/UVNode.js</tspan>
-<tspan x="10" y="3274">193.  2017-04-17 21:40:43 +0000      399 bytes  examples/js/nodes/inputs/ColorNode.js</tspan>
-<tspan x="10" y="3290">194.  2017-04-17 21:40:43 +0000     1515 bytes  examples/js/nodes/inputs/CubeTextureNode.js</tspan>
-<tspan x="10" y="3306">195.  2017-04-17 21:40:43 +0000      480 bytes  examples/js/nodes/inputs/FloatNode.js</tspan>
-<tspan x="10" y="3322">196.  2017-04-17 21:40:43 +0000      498 bytes  examples/js/nodes/inputs/IntNode.js</tspan>
-<tspan x="10" y="3338">197.  2017-04-17 21:40:43 +0000      318 bytes  examples/js/nodes/inputs/Matrix4Node.js</tspan>
-<tspan x="10" y="3354">198.  2017-04-17 21:40:43 +0000     1386 bytes  examples/js/nodes/inputs/MirrorNode.js</tspan>
-<tspan x="10" y="3370">199.  2017-04-17 21:40:43 +0000      542 bytes  examples/js/nodes/inputs/ScreenNode.js</tspan>
-<tspan x="10" y="3386">200.  2017-04-17 21:40:43 +0000     1661 bytes  examples/js/nodes/inputs/TextureNode.js</tspan>
-<tspan x="10" y="3402">201.  2017-04-17 21:40:43 +0000      400 bytes  examples/js/nodes/inputs/Vector2Node.js</tspan>
-<tspan x="10" y="3418">202.  2017-04-17 21:40:43 +0000      430 bytes  examples/js/nodes/inputs/Vector3Node.js</tspan>
-<tspan x="10" y="3434">203.  2017-04-17 21:40:43 +0000      422 bytes  examples/js/nodes/inputs/Vector4Node.js</tspan>
-<tspan x="10" y="3450">204.  2017-04-17 21:40:43 +0000     8004 bytes  examples/js/nodes/materials/PhongNode.js</tspan>
-<tspan x="10" y="3466">205.  2017-04-17 21:40:43 +0000      594 bytes  examples/js/nodes/materials/PhongNodeMaterial.js</tspan>
-<tspan x="10" y="3482">206.  2017-04-17 21:40:43 +0000    10329 bytes  examples/js/nodes/materials/StandardNode.js</tspan>
-<tspan x="10" y="3498">207.  2017-04-17 21:40:43 +0000      644 bytes  examples/js/nodes/materials/StandardNodeMaterial\</tspan>
-<tspan x="10" y="3514">.js</tspan>
-<tspan x="10" y="3530">208.  2017-04-17 21:40:43 +0000     1767 bytes  examples/js/nodes/math/Math1Node.js</tspan>
-<tspan x="10" y="3546">209.  2017-04-17 21:40:43 +0000     2147 bytes  examples/js/nodes/math/Math2Node.js</tspan>
-<tspan x="10" y="3562">210.  2017-04-17 21:40:43 +0000     1849 bytes  examples/js/nodes/math/Math3Node.js</tspan>
-<tspan x="10" y="3578">211.  2017-04-17 21:40:43 +0000     1139 bytes  examples/js/nodes/math/OperatorNode.js</tspan>
-<tspan x="10" y="3594">212.  2017-04-17 21:40:43 +0000      665 bytes  examples/js/nodes/postprocessing/NodePass.js</tspan>
-<tspan x="10" y="3610">213.  2017-04-17 21:40:43 +0000     3730 bytes  examples/js/nodes/utils/BlurNode.js</tspan>
-<tspan x="10" y="3626">214.  2017-04-17 21:40:43 +0000     1465 bytes  examples/js/nodes/utils/BumpNode.js</tspan>
-<tspan x="10" y="3642">215.  2017-04-17 21:40:43 +0000     1583 bytes  examples/js/nodes/utils/ColorAdjustmentNode.js</tspan>
-<tspan x="10" y="3658">216.  2017-04-17 21:40:43 +0000     1270 bytes  examples/js/nodes/utils/JoinNode.js</tspan>
-<tspan x="10" y="3674">217.  2017-04-17 21:40:43 +0000      526 bytes  examples/js/nodes/utils/LuminanceNode.js</tspan>
-<tspan x="10" y="3690">218.  2017-04-17 21:40:43 +0000      500 bytes  examples/js/nodes/utils/NoiseNode.js</tspan>
-<tspan x="10" y="3706">219.  2017-04-17 21:40:43 +0000     1227 bytes  examples/js/nodes/utils/NormalMapNode.js</tspan>
-<tspan x="10" y="3722">220.  2017-04-17 21:40:43 +0000      495 bytes  examples/js/nodes/utils/ResolutionNode.js</tspan>
-<tspan x="10" y="3738">221.  2017-04-17 21:40:43 +0000     2038 bytes  examples/js/nodes/utils/RoughnessToBlinnExponent\</tspan>
-<tspan x="10" y="3754">Node.js</tspan>
-<tspan x="10" y="3770">222.  2017-04-17 21:40:43 +0000     1449 bytes  examples/js/nodes/utils/SwitchNode.js</tspan>
-<tspan x="10" y="3786">223.  2017-04-17 21:40:43 +0000      450 bytes  examples/js/nodes/utils/TimerNode.js</tspan>
-<tspan x="10" y="3802">224.  2017-04-17 21:40:43 +0000     1238 bytes  examples/js/nodes/utils/VelocityNode.js</tspan>
-<tspan x="10" y="3818">225.  2017-04-17 21:40:43 +0000     2010 bytes  examples/js/objects/ShadowMesh.js</tspan>
-<tspan x="10" y="3834">226.  2017-04-17 21:40:43 +0000     6044 bytes  examples/js/pmrem/PMREMCubeUVPacker.js</tspan>
-<tspan x="10" y="3850">227.  2017-04-17 21:40:43 +0000    10094 bytes  examples/js/pmrem/PMREMGenerator.js</tspan>
-<tspan x="10" y="3866">228.  2017-04-17 21:40:43 +0000     8912 bytes  examples/js/postprocessing/AdaptiveToneMappingPa\</tspan>
-<tspan x="10" y="3882">ss.js</tspan>
-<tspan x="10" y="3898">229.  2017-04-17 21:40:43 +0000     3644 bytes  examples/js/postprocessing/BloomPass.js</tspan>
-<tspan x="10" y="3914">230.  2017-04-17 21:40:43 +0000     2625 bytes  examples/js/postprocessing/BokehPass.js</tspan>
-<tspan x="10" y="3930">231.  2017-04-17 21:40:43 +0000      925 bytes  examples/js/postprocessing/ClearPass.js</tspan>
-<tspan x="10" y="3946">232.  2017-04-17 21:40:43 +0000     1557 bytes  examples/js/postprocessing/CubeTexturePass.js</tspan>
-<tspan x="10" y="3962">233.  2017-04-17 21:40:43 +0000     1567 bytes  examples/js/postprocessing/DotScreenPass.js</tspan>
-<tspan x="10" y="3978">234.  2017-04-17 21:40:43 +0000     3432 bytes  examples/js/postprocessing/EffectComposer.js</tspan>
-<tspan x="10" y="3994">235.  2017-04-17 21:40:43 +0000     1662 bytes  examples/js/postprocessing/FilmPass.js</tspan>
-<tspan x="10" y="4010">236.  2017-04-17 21:40:43 +0000     3206 bytes  examples/js/postprocessing/GlitchPass.js</tspan>
-<tspan x="10" y="4026">237.  2017-04-17 21:40:43 +0000     2036 bytes  examples/js/postprocessing/MaskPass.js</tspan>
-<tspan x="10" y="4042">238.  2017-04-17 21:40:43 +0000    18320 bytes  examples/js/postprocessing/OutlinePass.js</tspan>
-<tspan x="10" y="4058">239.  2017-04-17 21:40:43 +0000     1334 bytes  examples/js/postprocessing/RenderPass.js</tspan>
-<tspan x="10" y="4074">240.  2017-04-17 21:40:43 +0000    49135 bytes  examples/js/postprocessing/SMAAPass.js</tspan>
-<tspan x="10" y="4090">241.  2017-04-17 21:40:43 +0000     5502 bytes  examples/js/postprocessing/SSAARenderPass.js</tspan>
-<tspan x="10" y="4106">242.  2017-04-17 21:40:43 +0000     1602 bytes  examples/js/postprocessing/SavePass.js</tspan>
-<tspan x="10" y="4122">243.  2017-04-17 21:40:43 +0000     1414 bytes  examples/js/postprocessing/ShaderPass.js</tspan>
-<tspan x="10" y="4138">244.  2017-04-17 21:40:43 +0000     3541 bytes  examples/js/postprocessing/TAARenderPass.js</tspan>
-<tspan x="10" y="4154">245.  2017-04-17 21:40:43 +0000     1523 bytes  examples/js/postprocessing/TexturePass.js</tspan>
-<tspan x="10" y="4170">246.  2017-04-17 21:40:43 +0000    11348 bytes  examples/js/postprocessing/UnrealBloomPass.js</tspan>
-<tspan x="10" y="4186">247.  2017-04-17 21:40:43 +0000     2300 bytes  examples/js/renderers/CSS2DRenderer.js</tspan>
-<tspan x="10" y="4202">248.  2017-04-17 21:40:43 +0000     5969 bytes  examples/js/renderers/CSS3DRenderer.js</tspan>
-<tspan x="10" y="4218">249.  2017-04-17 21:40:43 +0000    26199 bytes  examples/js/renderers/CanvasRenderer.js</tspan>
-<tspan x="10" y="4234">250.  2017-04-17 21:40:43 +0000    21008 bytes  examples/js/renderers/Projector.js</tspan>
-<tspan x="10" y="4250">251.  2017-04-17 21:40:43 +0000     5456 bytes  examples/js/renderers/RaytracingRenderer.js</tspan>
-<tspan x="10" y="4266">252.  2017-04-17 21:40:43 +0000    12876 bytes  examples/js/renderers/RaytracingWorker.js</tspan>
-<tspan x="10" y="4282">253.  2017-04-17 21:40:43 +0000    12022 bytes  examples/js/renderers/SVGRenderer.js</tspan>
-<tspan x="10" y="4298">254.  2017-04-17 21:40:43 +0000    37764 bytes  examples/js/renderers/SoftwareRenderer.js</tspan>
-<tspan x="10" y="4314">255.  2017-04-17 21:40:43 +0000    57012 bytes  examples/js/renderers/WebGLDeferredRenderer.js</tspan>
-<tspan x="10" y="4330">256.  2017-04-17 21:40:43 +0000      376 bytes  examples/js/shaders/BasicShader.js</tspan>
-<tspan x="10" y="4346">257.  2017-04-17 21:40:43 +0000     1278 bytes  examples/js/shaders/BleachBypassShader.js</tspan>
-<tspan x="10" y="4362">258.  2017-04-17 21:40:43 +0000      815 bytes  examples/js/shaders/BlendShader.js</tspan>
-<tspan x="10" y="4378">259.  2017-04-17 21:40:43 +0000     5264 bytes  examples/js/shaders/BokehShader.js</tspan>
-<tspan x="10" y="4394">260.  2017-04-17 21:40:43 +0000     9707 bytes  examples/js/shaders/BokehShader2.js</tspan>
-<tspan x="10" y="4410">261.  2017-04-17 21:40:43 +0000     1107 bytes  examples/js/shaders/BrightnessContrastShader.js</tspan>
-<tspan x="10" y="4426">262.  2017-04-17 21:40:43 +0000      846 bytes  examples/js/shaders/ColorCorrectionShader.js</tspan>
-<tspan x="10" y="4442">263.  2017-04-17 21:40:43 +0000      729 bytes  examples/js/shaders/ColorifyShader.js</tspan>
-<tspan x="10" y="4458">264.  2017-04-17 21:40:43 +0000     1918 bytes  examples/js/shaders/ConvolutionShader.js</tspan>
-<tspan x="10" y="4474">265.  2017-04-17 21:40:43 +0000      622 bytes  examples/js/shaders/CopyShader.js</tspan>
-<tspan x="10" y="4490">266.  2017-04-17 21:40:43 +0000      982 bytes  examples/js/shaders/DOFMipMapShader.js</tspan>
-<tspan x="10" y="4506">267.  2017-04-17 21:40:43 +0000     2799 bytes  examples/js/shaders/DigitalGlitch.js</tspan>
-<tspan x="10" y="4522">268.  2017-04-17 21:40:43 +0000     1263 bytes  examples/js/shaders/DotScreenShader.js</tspan>
-<tspan x="10" y="4538">269.  2017-04-17 21:40:43 +0000     3119 bytes  examples/js/shaders/EdgeShader.js</tspan>
-<tspan x="10" y="4554">270.  2017-04-17 21:40:43 +0000     1609 bytes  examples/js/shaders/EdgeShader2.js</tspan>
-<tspan x="10" y="4570">271.  2017-04-17 21:40:43 +0000     2857 bytes  examples/js/shaders/FXAAShader.js</tspan>
-<tspan x="10" y="4586">272.  2017-04-17 21:40:43 +0000     2428 bytes  examples/js/shaders/FilmShader.js</tspan>
-<tspan x="10" y="4602">273.  2017-04-17 21:40:43 +0000     2451 bytes  examples/js/shaders/FocusShader.js</tspan>
-<tspan x="10" y="4618">274.  2017-04-17 21:40:43 +0000     2061 bytes  examples/js/shaders/FresnelShader.js</tspan>
-<tspan x="10" y="4634">275.  2017-04-17 21:40:43 +0000      665 bytes  examples/js/shaders/GammaCorrectionShader.js</tspan>
-<tspan x="10" y="4650">276.  2017-04-17 21:40:43 +0000     1617 bytes  examples/js/shaders/HorizontalBlurShader.js</tspan>
-<tspan x="10" y="4666">277.  2017-04-17 21:40:43 +0000     1653 bytes  examples/js/shaders/HorizontalTiltShiftShader.js</tspan>
-<tspan x="10" y="4682">278.  2017-04-17 21:40:43 +0000     1563 bytes  examples/js/shaders/HueSaturationShader.js</tspan>
-<tspan x="10" y="4698">279.  2017-04-17 21:40:43 +0000     1088 bytes  examples/js/shaders/KaleidoShader.js</tspan>
-<tspan x="10" y="4714">280.  2017-04-17 21:40:43 +0000     1317 bytes  examples/js/shaders/LuminosityHighPassShader.js</tspan>
-<tspan x="10" y="4730">281.  2017-04-17 21:40:43 +0000      690 bytes  examples/js/shaders/LuminosityShader.js</tspan>
-<tspan x="10" y="4746">282.  2017-04-17 21:40:43 +0000      995 bytes  examples/js/shaders/MirrorShader.js</tspan>
-<tspan x="10" y="4762">283.  2017-04-17 21:40:43 +0000     1032 bytes  examples/js/shaders/NormalMapShader.js</tspan>
-<tspan x="10" y="4778">284.  2017-04-17 21:40:43 +0000    11791 bytes  examples/js/shaders/OceanShaders.js</tspan>
-<tspan x="10" y="4794">285.  2017-04-17 21:40:43 +0000     5300 bytes  examples/js/shaders/ParallaxShader.js</tspan>
-<tspan x="10" y="4810">286.  2017-04-17 21:40:43 +0000     1086 bytes  examples/js/shaders/RGBShiftShader.js</tspan>
-<tspan x="10" y="4826">287.  2017-04-17 21:40:43 +0000    15562 bytes  examples/js/shaders/SMAAShader.js</tspan>
-<tspan x="10" y="4842">288.  2017-04-17 21:40:43 +0000     5568 bytes  examples/js/shaders/SSAOShader.js</tspan>
-<tspan x="10" y="4858">289.  2017-04-17 21:40:43 +0000      999 bytes  examples/js/shaders/SepiaShader.js</tspan>
-<tspan x="10" y="4874">290.  2017-04-17 21:40:43 +0000      898 bytes  examples/js/shaders/TechnicolorShader.js</tspan>
-<tspan x="10" y="4890">291.  2017-04-17 21:40:43 +0000     1652 bytes  examples/js/shaders/ToneMapShader.js</tspan>
-<tspan x="10" y="4906">292.  2017-04-17 21:40:43 +0000     1323 bytes  examples/js/shaders/TriangleBlurShader.js</tspan>
-<tspan x="10" y="4922">293.  2017-04-17 21:40:43 +0000      748 bytes  examples/js/shaders/UnpackDepthRGBAShader.js</tspan>
-<tspan x="10" y="4938">294.  2017-04-17 21:40:43 +0000     1615 bytes  examples/js/shaders/VerticalBlurShader.js</tspan>
-<tspan x="10" y="4954">295.  2017-04-17 21:40:43 +0000     1651 bytes  examples/js/shaders/VerticalTiltShiftShader.js</tspan>
-<tspan x="10" y="4970">296.  2017-04-17 21:40:43 +0000     1268 bytes  examples/js/shaders/VignetteShader.js</tspan>
-<tspan x="10" y="4986">297.  2017-04-17 21:40:43 +0000     6142 bytes  examples/js/utils/GeometryUtils.js</tspan>
-<tspan x="10" y="5002">298.  2017-04-17 21:40:43 +0000     3541 bytes  examples/js/utils/ImageUtils.js</tspan>
-<tspan x="10" y="5018">299.  2017-04-17 21:40:43 +0000     5405 bytes  examples/js/utils/ShadowMapViewer.js</tspan>
-<tspan x="10" y="5034">300.  2017-04-17 21:40:43 +0000     2329 bytes  examples/js/utils/UVsDebug.js</tspan>
-<tspan x="10" y="5050">301.  2017-04-17 21:40:43 +0000     2541 bytes  examples/js/vr/PaintViveController.js</tspan>
-<tspan x="10" y="5066">302.  2017-04-17 21:40:43 +0000     3132 bytes  examples/js/vr/ViveController.js</tspan>
-<tspan x="10" y="5082">303.  2017-04-17 21:40:43 +0000     2405 bytes  examples/js/vr/WebVR.js</tspan>
-<tspan x="10" y="5098">304.  2017-04-17 21:40:43 +0000     3286 bytes  package.json</tspan>
-<tspan x="10" y="5114">305.  2017-04-17 21:40:43 +0000    36405 bytes  src/Three.Legacy.js</tspan>
-<tspan x="10" y="5130">306.  2017-04-17 21:40:43 +0000     9046 bytes  src/Three.js</tspan>
-<tspan x="10" y="5146">307.  2017-04-17 21:40:43 +0000    12373 bytes  src/animation/AnimationAction.js</tspan>
-<tspan x="10" y="5162">308.  2017-04-17 21:40:43 +0000     7581 bytes  src/animation/AnimationClip.js</tspan>
-<tspan x="10" y="5178">309.  2017-04-17 21:40:43 +0000    16373 bytes  src/animation/AnimationMixer.js</tspan>
-<tspan x="10" y="5194">310.  2017-04-17 21:40:43 +0000     9246 bytes  src/animation/AnimationObjectGroup.js</tspan>
-<tspan x="10" y="5210">311.  2017-04-17 21:40:43 +0000     2979 bytes  src/animation/AnimationUtils.js</tspan>
-<tspan x="10" y="5226">312.  2017-04-17 21:40:43 +0000     3243 bytes  src/animation/KeyframeTrack.js</tspan>
-<tspan x="10" y="5242">313.  2017-04-17 21:40:43 +0000      635 bytes  src/animation/KeyframeTrackConstructor.js</tspan>
-<tspan x="10" y="5258">314.  2017-04-17 21:40:43 +0000     7187 bytes  src/animation/KeyframeTrackPrototype.js</tspan>
-<tspan x="10" y="5274">315.  2017-04-17 21:40:43 +0000    13787 bytes  src/animation/PropertyBinding.js</tspan>
-<tspan x="10" y="5290">316.  2017-04-17 21:40:43 +0000     4122 bytes  src/animation/PropertyMixer.js</tspan>
-<tspan x="10" y="5306">317.  2017-04-17 21:40:43 +0000     1011 bytes  src/animation/tracks/BooleanKeyframeTrack.js</tspan>
-<tspan x="10" y="5322">318.  2017-04-17 21:40:43 +0000      856 bytes  src/animation/tracks/ColorKeyframeTrack.js</tspan>
-<tspan x="10" y="5338">319.  2017-04-17 21:40:43 +0000      717 bytes  src/animation/tracks/NumberKeyframeTrack.js</tspan>
-<tspan x="10" y="5354">320.  2017-04-17 21:40:43 +0000     1127 bytes  src/animation/tracks/QuaternionKeyframeTrack.js</tspan>
-<tspan x="10" y="5370">321.  2017-04-17 21:40:43 +0000      860 bytes  src/animation/tracks/StringKeyframeTrack.js</tspan>
-<tspan x="10" y="5386">322.  2017-04-17 21:40:43 +0000      721 bytes  src/animation/tracks/VectorKeyframeTrack.js</tspan>
-<tspan x="10" y="5402">323.  2017-04-17 21:40:43 +0000     4568 bytes  src/audio/Audio.js</tspan>
-<tspan x="10" y="5418">324.  2017-04-17 21:40:43 +0000      705 bytes  src/audio/AudioAnalyser.js</tspan>
-<tspan x="10" y="5434">325.  2017-04-17 21:40:43 +0000      289 bytes  src/audio/AudioContext.js</tspan>
-<tspan x="10" y="5450">326.  2017-04-17 21:40:43 +0000     2844 bytes  src/audio/AudioListener.js</tspan>
-<tspan x="10" y="5466">327.  2017-04-17 21:40:43 +0000     1468 bytes  src/audio/PositionalAudio.js</tspan>
-<tspan x="10" y="5482">328.  2017-04-17 21:40:43 +0000     1563 bytes  src/cameras/Camera.js</tspan>
-<tspan x="10" y="5498">329.  2017-04-17 21:40:43 +0000     2743 bytes  src/cameras/CubeCamera.js</tspan>
-<tspan x="10" y="5514">330.  2017-04-17 21:40:43 +0000     2830 bytes  src/cameras/OrthographicCamera.js</tspan>
-<tspan x="10" y="5530">331.  2017-04-17 21:40:43 +0000     5304 bytes  src/cameras/PerspectiveCamera.js</tspan>
-<tspan x="10" y="5546">332.  2017-04-17 21:40:43 +0000     2465 bytes  src/cameras/StereoCamera.js</tspan>
-<tspan x="10" y="5562">333.  2017-04-17 21:40:43 +0000     4349 bytes  src/constants.js</tspan>
-<tspan x="10" y="5578">334.  2017-04-17 21:40:43 +0000     8301 bytes  src/core/BufferAttribute.js</tspan>
-<tspan x="10" y="5594">335.  2017-04-17 21:40:43 +0000    20969 bytes  src/core/BufferGeometry.js</tspan>
-<tspan x="10" y="5610">336.  2017-04-17 21:40:43 +0000      946 bytes  src/core/Clock.js</tspan>
-<tspan x="10" y="5626">337.  2017-04-17 21:40:43 +0000     5040 bytes  src/core/DirectGeometry.js</tspan>
-<tspan x="10" y="5642">338.  2017-04-17 21:40:43 +0000     1545 bytes  src/core/EventDispatcher.js</tspan>
-<tspan x="10" y="5658">339.  2017-04-17 21:40:43 +0000     1259 bytes  src/core/Face3.js</tspan>
-<tspan x="10" y="5674">340.  2017-04-17 21:40:43 +0000    27981 bytes  src/core/Geometry.js</tspan>
-<tspan x="10" y="5690">341.  2017-04-17 21:40:43 +0000      749 bytes  src/core/InstancedBufferAttribute.js</tspan>
-<tspan x="10" y="5706">342.  2017-04-17 21:40:43 +0000     1233 bytes  src/core/InstancedBufferGeometry.js</tspan>
-<tspan x="10" y="5722">343.  2017-04-17 21:40:43 +0000      771 bytes  src/core/InstancedInterleavedBuffer.js</tspan>
-<tspan x="10" y="5738">344.  2017-04-17 21:40:43 +0000     1730 bytes  src/core/InterleavedBuffer.js</tspan>
-<tspan x="10" y="5754">345.  2017-04-17 21:40:43 +0000     2194 bytes  src/core/InterleavedBufferAttribute.js</tspan>
-<tspan x="10" y="5770">346.  2017-04-17 21:40:43 +0000      512 bytes  src/core/Layers.js</tspan>
-<tspan x="10" y="5786">347.  2017-04-17 21:40:43 +0000    13221 bytes  src/core/Object3D.js</tspan>
-<tspan x="10" y="5802">348.  2017-04-17 21:40:43 +0000     2676 bytes  src/core/Raycaster.js</tspan>
-<tspan x="10" y="5818">349.  2017-04-17 21:40:43 +0000      397 bytes  src/core/Uniform.js</tspan>
-<tspan x="10" y="5834">350.  2017-04-17 21:40:43 +0000      846 bytes  src/extras/SceneUtils.js</tspan>
-<tspan x="10" y="5850">351.  2017-04-17 21:40:43 +0000    17123 bytes  src/extras/ShapeUtils.js</tspan>
-<tspan x="10" y="5866">352.  2017-04-17 21:40:43 +0000     7783 bytes  src/extras/core/Curve.js</tspan>
-<tspan x="10" y="5882">353.  2017-04-17 21:40:43 +0000     4920 bytes  src/extras/core/CurvePath.js</tspan>
-<tspan x="10" y="5898">354.  2017-04-17 21:40:43 +0000     3545 bytes  src/extras/core/Font.js</tspan>
-<tspan x="10" y="5914">355.  2017-04-17 21:40:43 +0000     1260 bytes  src/extras/core/Interpolations.js</tspan>
-<tspan x="10" y="5930">356.  2017-04-17 21:40:43 +0000      499 bytes  src/extras/core/Path.js</tspan>
-<tspan x="10" y="5946">357.  2017-04-17 21:40:43 +0000     3021 bytes  src/extras/core/PathPrototype.js</tspan>
-<tspan x="10" y="5962">358.  2017-04-17 21:40:43 +0000     1123 bytes  src/extras/core/Shape.js</tspan>
-<tspan x="10" y="5978">359.  2017-04-17 21:40:43 +0000     6015 bytes  src/extras/core/ShapePath.js</tspan>
-<tspan x="10" y="5994">360.  2017-04-17 21:40:43 +0000      347 bytes  src/extras/curves/ArcCurve.js</tspan>
-<tspan x="10" y="6010">361.  2017-04-17 21:40:43 +0000     4380 bytes  src/extras/curves/CatmullRomCurve3.js</tspan>
-<tspan x="10" y="6026">362.  2017-04-17 21:40:43 +0000      640 bytes  src/extras/curves/CubicBezierCurve.js</tspan>
-<tspan x="10" y="6042">363.  2017-04-17 21:40:43 +0000      690 bytes  src/extras/curves/CubicBezierCurve3.js</tspan>
-<tspan x="10" y="6058">364.  2017-04-17 21:40:43 +0000     1698 bytes  src/extras/curves/EllipseCurve.js</tspan>
-<tspan x="10" y="6074">365.  2017-04-17 21:40:43 +0000      763 bytes  src/extras/curves/LineCurve.js</tspan>
-<tspan x="10" y="6090">366.  2017-04-17 21:40:43 +0000      536 bytes  src/extras/curves/LineCurve3.js</tspan>
-<tspan x="10" y="6106">367.  2017-04-17 21:40:43 +0000      631 bytes  src/extras/curves/QuadraticBezierCurve.js</tspan>
-<tspan x="10" y="6122">368.  2017-04-17 21:40:43 +0000      679 bytes  src/extras/curves/QuadraticBezierCurve3.js</tspan>
-<tspan x="10" y="6138">369.  2017-04-17 21:40:43 +0000     1058 bytes  src/extras/curves/SplineCurve.js</tspan>
-<tspan x="10" y="6154">370.  2017-04-17 21:40:43 +0000      496 bytes  src/extras/objects/ImmediateRenderObject.js</tspan>
-<tspan x="10" y="6170">371.  2017-04-17 21:40:43 +0000     6295 bytes  src/extras/objects/MorphBlendMesh.js</tspan>
-<tspan x="10" y="6186">372.  2017-04-17 21:40:43 +0000     4922 bytes  src/geometries/BoxGeometry.js</tspan>
-<tspan x="10" y="6202">373.  2017-04-17 21:40:43 +0000     2609 bytes  src/geometries/CircleGeometry.js</tspan>
-<tspan x="10" y="6218">374.  2017-04-17 21:40:43 +0000     1516 bytes  src/geometries/ConeGeometry.js</tspan>
-<tspan x="10" y="6234">375.  2017-04-17 21:40:43 +0000     6730 bytes  src/geometries/CylinderGeometry.js</tspan>
-<tspan x="10" y="6250">376.  2017-04-17 21:40:43 +0000     2171 bytes  src/geometries/DodecahedronGeometry.js</tspan>
-<tspan x="10" y="6266">377.  2017-04-17 21:40:43 +0000     2492 bytes  src/geometries/EdgesGeometry.js</tspan>
-<tspan x="10" y="6282">378.  2017-04-17 21:40:43 +0000    15413 bytes  src/geometries/ExtrudeGeometry.js</tspan>
-<tspan x="10" y="6298">379.  2017-04-17 21:40:43 +0000     1646 bytes  src/geometries/Geometries.js</tspan>
-<tspan x="10" y="6314">380.  2017-04-17 21:40:43 +0000     1661 bytes  src/geometries/IcosahedronGeometry.js</tspan>
-<tspan x="10" y="6330">381.  2017-04-17 21:40:43 +0000     4330 bytes  src/geometries/LatheGeometry.js</tspan>
-<tspan x="10" y="6346">382.  2017-04-17 21:40:43 +0000     1320 bytes  src/geometries/OctahedronGeometry.js</tspan>
-<tspan x="10" y="6362">383.  2017-04-17 21:40:43 +0000     2296 bytes  src/geometries/ParametricGeometry.js</tspan>
-<tspan x="10" y="6378">384.  2017-04-17 21:40:43 +0000     2804 bytes  src/geometries/PlaneGeometry.js</tspan>
-<tspan x="10" y="6394">385.  2017-04-17 21:40:43 +0000     6831 bytes  src/geometries/PolyhedronGeometry.js</tspan>
-<tspan x="10" y="6410">386.  2017-04-17 21:40:43 +0000     3483 bytes  src/geometries/RingGeometry.js</tspan>
-<tspan x="10" y="6426">387.  2017-04-17 21:40:43 +0000     3550 bytes  src/geometries/ShapeGeometry.js</tspan>
-<tspan x="10" y="6442">388.  2017-04-17 21:40:43 +0000     3705 bytes  src/geometries/SphereGeometry.js</tspan>
-<tspan x="10" y="6458">389.  2017-04-17 21:40:43 +0000     1278 bytes  src/geometries/TetrahedronGeometry.js</tspan>
-<tspan x="10" y="6474">390.  2017-04-17 21:40:43 +0000     1574 bytes  src/geometries/TextGeometry.js</tspan>
-<tspan x="10" y="6490">391.  2017-04-17 21:40:43 +0000     3247 bytes  src/geometries/TorusGeometry.js</tspan>
-<tspan x="10" y="6506">392.  2017-04-17 21:40:43 +0000     5021 bytes  src/geometries/TorusKnotGeometry.js</tspan>
-<tspan x="10" y="6522">393.  2017-04-17 21:40:43 +0000     4960 bytes  src/geometries/TubeGeometry.js</tspan>
-<tspan x="10" y="6538">394.  2017-04-17 21:40:43 +0000     3737 bytes  src/geometries/WireframeGeometry.js</tspan>
-<tspan x="10" y="6554">395.  2017-04-17 21:40:43 +0000     3098 bytes  src/helpers/ArrowHelper.js</tspan>
-<tspan x="10" y="6570">396.  2017-04-17 21:40:43 +0000     1080 bytes  src/helpers/AxisHelper.js</tspan>
-<tspan x="10" y="6586">397.  2017-04-17 21:40:43 +0000     2255 bytes  src/helpers/BoxHelper.js</tspan>
-<tspan x="10" y="6602">398.  2017-04-17 21:40:43 +0000     4685 bytes  src/helpers/CameraHelper.js</tspan>
-<tspan x="10" y="6618">399.  2017-04-17 21:40:43 +0000     2251 bytes  src/helpers/DirectionalLightHelper.js</tspan>
-<tspan x="10" y="6634">400.  2017-04-17 21:40:43 +0000     2583 bytes  src/helpers/FaceNormalsHelper.js</tspan>
-<tspan x="10" y="6650">401.  2017-04-17 21:40:43 +0000     1585 bytes  src/helpers/GridHelper.js</tspan>
-<tspan x="10" y="6666">402.  2017-04-17 21:40:43 +0000     2202 bytes  src/helpers/HemisphereLightHelper.js</tspan>
-<tspan x="10" y="6682">403.  2017-04-17 21:40:43 +0000     1843 bytes  src/helpers/PointLightHelper.js</tspan>
-<tspan x="10" y="6698">404.  2017-04-17 21:40:43 +0000     2292 bytes  src/helpers/PolarGridHelper.js</tspan>
-<tspan x="10" y="6714">405.  2017-04-17 21:40:43 +0000     2922 bytes  src/helpers/RectAreaLightHelper.js</tspan>
-<tspan x="10" y="6730">406.  2017-04-17 21:40:43 +0000     3004 bytes  src/helpers/SkeletonHelper.js</tspan>
-<tspan x="10" y="6746">407.  2017-04-17 21:40:43 +0000     2208 bytes  src/helpers/SpotLightHelper.js</tspan>
-<tspan x="10" y="6762">408.  2017-04-17 21:40:43 +0000     3383 bytes  src/helpers/VertexNormalsHelper.js</tspan>
-<tspan x="10" y="6778">409.  2017-04-17 21:40:43 +0000      392 bytes  src/lights/AmbientLight.js</tspan>
-<tspan x="10" y="6794">410.  2017-04-17 21:40:43 +0000      866 bytes  src/lights/DirectionalLight.js</tspan>
-<tspan x="10" y="6810">411.  2017-04-17 21:40:43 +0000      456 bytes  src/lights/DirectionalLightShadow.js</tspan>
-<tspan x="10" y="6826">412.  2017-04-17 21:40:43 +0000      780 bytes  src/lights/HemisphereLight.js</tspan>
-<tspan x="10" y="6842">413.  2017-04-17 21:40:43 +0000     1360 bytes  src/lights/Light.js</tspan>
-<tspan x="10" y="6858">414.  2017-04-17 21:40:43 +0000     1017 bytes  src/lights/LightShadow.js</tspan>
-<tspan x="10" y="6874">415.  2017-04-17 21:40:43 +0000     1436 bytes  src/lights/PointLight.js</tspan>
-<tspan x="10" y="6890">416.  2017-04-17 21:40:43 +0000     1093 bytes  src/lights/RectAreaLight.js</tspan>
-<tspan x="10" y="6906">417.  2017-04-17 21:40:43 +0000      455 bytes  src/lights/RectAreaLightShadow.js</tspan>
-<tspan x="10" y="6922">418.  2017-04-17 21:40:43 +0000     1714 bytes  src/lights/SpotLight.js</tspan>
-<tspan x="10" y="6938">419.  2017-04-17 21:40:43 +0000      875 bytes  src/lights/SpotLightShadow.js</tspan>
-<tspan x="10" y="6954">420.  2017-04-17 21:40:43 +0000      878 bytes  src/loaders/AnimationLoader.js</tspan>
-<tspan x="10" y="6970">421.  2017-04-17 21:40:43 +0000      779 bytes  src/loaders/AudioLoader.js</tspan>
-<tspan x="10" y="6986">422.  2017-04-17 21:40:43 +0000     2315 bytes  src/loaders/BufferGeometryLoader.js</tspan>
-<tspan x="10" y="7002">423.  2017-04-17 21:40:43 +0000      549 bytes  src/loaders/Cache.js</tspan>
-<tspan x="10" y="7018">424.  2017-04-17 21:40:43 +0000     2716 bytes  src/loaders/CompressedTextureLoader.js</tspan>
-<tspan x="10" y="7034">425.  2017-04-17 21:40:43 +0000     1179 bytes  src/loaders/CubeTextureLoader.js</tspan>
-<tspan x="10" y="7050">426.  2017-04-17 21:40:43 +0000     2141 bytes  src/loaders/DataTextureLoader.js</tspan>
-<tspan x="10" y="7066">427.  2017-04-17 21:40:43 +0000     4131 bytes  src/loaders/FileLoader.js</tspan>
-<tspan x="10" y="7082">428.  2017-04-17 21:40:43 +0000      965 bytes  src/loaders/FontLoader.js</tspan>
-<tspan x="10" y="7098">429.  2017-04-17 21:40:43 +0000     1574 bytes  src/loaders/ImageLoader.js</tspan>
-<tspan x="10" y="7114">430.  2017-04-17 21:40:43 +0000    12031 bytes  src/loaders/JSONLoader.js</tspan>
-<tspan x="10" y="7130">431.  2017-04-17 21:40:43 +0000     8708 bytes  src/loaders/Loader.js</tspan>
-<tspan x="10" y="7146">432.  2017-04-17 21:40:43 +0000     1024 bytes  src/loaders/LoadingManager.js</tspan>
-<tspan x="10" y="7162">433.  2017-04-17 21:40:43 +0000     5999 bytes  src/loaders/MaterialLoader.js</tspan>
-<tspan x="10" y="7178">434.  2017-04-17 21:40:43 +0000    17026 bytes  src/loaders/ObjectLoader.js</tspan>
-<tspan x="10" y="7194">435.  2017-04-17 21:40:43 +0000     1275 bytes  src/loaders/TextureLoader.js</tspan>
-<tspan x="10" y="7210">436.  2017-04-17 21:40:43 +0000     1065 bytes  src/materials/LineBasicMaterial.js</tspan>
-<tspan x="10" y="7226">437.  2017-04-17 21:40:43 +0000     1093 bytes  src/materials/LineDashedMaterial.js</tspan>
-<tspan x="10" y="7242">438.  2017-04-17 21:40:43 +0000     8925 bytes  src/materials/Material.js</tspan>
-<tspan x="10" y="7258">439.  2017-04-17 21:40:43 +0000      988 bytes  src/materials/Materials.js</tspan>
-<tspan x="10" y="7274">440.  2017-04-17 21:40:43 +0000     2675 bytes  src/materials/MeshBasicMaterial.js</tspan>
-<tspan x="10" y="7290">441.  2017-04-17 21:40:43 +0000     1824 bytes  src/materials/MeshDepthMaterial.js</tspan>
-<tspan x="10" y="7306">442.  2017-04-17 21:40:43 +0000     3017 bytes  src/materials/MeshLambertMaterial.js</tspan>
-<tspan x="10" y="7322">443.  2017-04-17 21:40:43 +0000     2026 bytes  src/materials/MeshNormalMaterial.js</tspan>
-<tspan x="10" y="7338">444.  2017-04-17 21:40:43 +0000     3989 bytes  src/materials/MeshPhongMaterial.js</tspan>
-<tspan x="10" y="7354">445.  2017-04-17 21:40:43 +0000     1036 bytes  src/materials/MeshPhysicalMaterial.js</tspan>
-<tspan x="10" y="7370">446.  2017-04-17 21:40:43 +0000     4039 bytes  src/materials/MeshStandardMaterial.js</tspan>
-<tspan x="10" y="7386">447.  2017-04-17 21:40:43 +0000      790 bytes  src/materials/MeshToonMaterial.js</tspan>
-<tspan x="10" y="7402">448.  2017-04-17 21:40:43 +0000     1122 bytes  src/materials/MultiMaterial.js</tspan>
-<tspan x="10" y="7418">449.  2017-04-17 21:40:43 +0000     1046 bytes  src/materials/PointsMaterial.js</tspan>
-<tspan x="10" y="7434">450.  2017-04-17 21:40:43 +0000      448 bytes  src/materials/RawShaderMaterial.js</tspan>
-<tspan x="10" y="7450">451.  2017-04-17 21:40:43 +0000     3143 bytes  src/materials/ShaderMaterial.js</tspan>
-<tspan x="10" y="7466">452.  2017-04-17 21:40:43 +0000     1036 bytes  src/materials/ShadowMaterial.js</tspan>
-<tspan x="10" y="7482">453.  2017-04-17 21:40:43 +0000      926 bytes  src/materials/SpriteMaterial.js</tspan>
-<tspan x="10" y="7498">454.  2017-04-17 21:40:43 +0000     3910 bytes  src/math/Box2.js</tspan>
-<tspan x="10" y="7514">455.  2017-04-17 21:40:43 +0000     9829 bytes  src/math/Box3.js</tspan>
-<tspan x="10" y="7530">456.  2017-04-17 21:40:43 +0000    11827 bytes  src/math/Color.js</tspan>
-<tspan x="10" y="7546">457.  2017-04-17 21:40:43 +0000     1109 bytes  src/math/Cylindrical.js</tspan>
-<tspan x="10" y="7562">458.  2017-04-17 21:40:43 +0000     5393 bytes  src/math/Euler.js</tspan>
-<tspan x="10" y="7578">459.  2017-04-17 21:40:43 +0000     4022 bytes  src/math/Frustum.js</tspan>
-<tspan x="10" y="7594">460.  2017-04-17 21:40:43 +0000     4725 bytes  src/math/Interpolant.js</tspan>
-<tspan x="10" y="7610">461.  2017-04-17 21:40:43 +0000     2278 bytes  src/math/Line3.js</tspan>
-<tspan x="10" y="7626">462.  2017-04-17 21:40:43 +0000     2819 bytes  src/math/Math.js</tspan>
-<tspan x="10" y="7642">463.  2017-04-17 21:40:43 +0000     4718 bytes  src/math/Matrix3.js</tspan>
-<tspan x="10" y="7658">464.  2017-04-17 21:40:43 +0000    20421 bytes  src/math/Matrix4.js</tspan>
-<tspan x="10" y="7674">465.  2017-04-17 21:40:43 +0000     4647 bytes  src/math/Plane.js</tspan>
-<tspan x="10" y="7690">466.  2017-04-17 21:40:43 +0000    10991 bytes  src/math/Quaternion.js</tspan>
-<tspan x="10" y="7706">467.  2017-04-17 21:40:43 +0000    11010 bytes  src/math/Ray.js</tspan>
-<tspan x="10" y="7722">468.  2017-04-17 21:40:43 +0000     3157 bytes  src/math/Sphere.js</tspan>
-<tspan x="10" y="7738">469.  2017-04-17 21:40:43 +0000     1531 bytes  src/math/Spherical.js</tspan>
-<tspan x="10" y="7754">470.  2017-04-17 21:40:43 +0000     5272 bytes  src/math/Triangle.js</tspan>
-<tspan x="10" y="7770">471.  2017-04-17 21:40:43 +0000     6651 bytes  src/math/Vector2.js</tspan>
-<tspan x="10" y="7786">472.  2017-04-17 21:40:43 +0000    12920 bytes  src/math/Vector3.js</tspan>
-<tspan x="10" y="7802">473.  2017-04-17 21:40:43 +0000    11066 bytes  src/math/Vector4.js</tspan>
-<tspan x="10" y="7818">474.  2017-04-17 21:40:43 +0000     3198 bytes  src/math/interpolants/CubicInterpolant.js</tspan>
-<tspan x="10" y="7834">475.  2017-04-17 21:40:43 +0000      622 bytes  src/math/interpolants/DiscreteInterpolant.js</tspan>
-<tspan x="10" y="7850">476.  2017-04-17 21:40:43 +0000      849 bytes  src/math/interpolants/LinearInterpolant.js</tspan>
-<tspan x="10" y="7866">477.  2017-04-17 21:40:43 +0000      947 bytes  src/math/interpolants/QuaternionLinearInterpolan\</tspan>
-<tspan x="10" y="7882">t.js</tspan>
-<tspan x="10" y="7898">478.  2017-04-17 21:40:43 +0000      386 bytes  src/objects/Bone.js</tspan>
-<tspan x="10" y="7914">479.  2017-04-17 21:40:43 +0000      284 bytes  src/objects/Group.js</tspan>
-<tspan x="10" y="7930">480.  2017-04-17 21:40:43 +0000     2786 bytes  src/objects/LOD.js</tspan>
-<tspan x="10" y="7946">481.  2017-04-17 21:40:43 +0000     2561 bytes  src/objects/LensFlare.js</tspan>
-<tspan x="10" y="7962">482.  2017-04-17 21:40:43 +0000     5046 bytes  src/objects/Line.js</tspan>
-<tspan x="10" y="7978">483.  2017-04-17 21:40:43 +0000      361 bytes  src/objects/LineSegments.js</tspan>
-<tspan x="10" y="7994">484.  2017-04-17 21:40:43 +0000     8137 bytes  src/objects/Mesh.js</tspan>
-<tspan x="10" y="8010">485.  2017-04-17 21:40:43 +0000     3194 bytes  src/objects/Points.js</tspan>
-<tspan x="10" y="8026">486.  2017-04-17 21:40:43 +0000     3947 bytes  src/objects/Skeleton.js</tspan>
-<tspan x="10" y="8042">487.  2017-04-17 21:40:43 +0000     3684 bytes  src/objects/SkinnedMesh.js</tspan>
-<tspan x="10" y="8058">488.  2017-04-17 21:40:43 +0000     1157 bytes  src/objects/Sprite.js</tspan>
-<tspan x="10" y="8074">489.  2017-04-17 21:40:43 +0000     1432 bytes  src/polyfills.js</tspan>
-<tspan x="10" y="8090">490.  2017-04-17 21:40:43 +0000     4067 bytes  src/renderers/WebGL2Renderer.js</tspan>
-<tspan x="10" y="8106">491.  2017-04-17 21:40:43 +0000     2345 bytes  src/renderers/WebGLRenderTarget.js</tspan>
-<tspan x="10" y="8122">492.  2017-04-17 21:40:43 +0000      579 bytes  src/renderers/WebGLRenderTargetCube.js</tspan>
-<tspan x="10" y="8138">493.  2017-04-17 21:40:43 +0000    69840 bytes  src/renderers/WebGLRenderer.js</tspan>
-<tspan x="10" y="8154">494.  2017-04-17 21:40:43 +0000    11992 bytes  src/renderers/shaders/ShaderChunk.js</tspan>
-<tspan x="10" y="8170">495.  2017-04-17 21:40:43 +0000       78 bytes  src/renderers/shaders/ShaderChunk/alphamap_fragm\</tspan>
-<tspan x="10" y="8186">ent.glsl</tspan>
-<tspan x="10" y="8202">496.  2017-04-17 21:40:43 +0000       58 bytes  src/renderers/shaders/ShaderChunk/alphamap_pars_\</tspan>
-<tspan x="10" y="8218">fragment.glsl</tspan>
-<tspan x="10" y="8234">497.  2017-04-17 21:40:43 +0000       70 bytes  src/renderers/shaders/ShaderChunk/alphatest_frag\</tspan>
-<tspan x="10" y="8250">ment.glsl</tspan>
-<tspan x="10" y="8266">498.  2017-04-17 21:40:43 +0000      417 bytes  src/renderers/shaders/ShaderChunk/aomap_fragment\</tspan>
-<tspan x="10" y="8282">.glsl</tspan>
-<tspan x="10" y="8298">499.  2017-04-17 21:40:43 +0000       82 bytes  src/renderers/shaders/ShaderChunk/aomap_pars_fra\</tspan>
-<tspan x="10" y="8314">gment.glsl</tspan>
-<tspan x="10" y="8330">500.  2017-04-17 21:40:43 +0000       38 bytes  src/renderers/shaders/ShaderChunk/begin_vertex.g\</tspan>
-<tspan x="10" y="8346">lsl</tspan>
-<tspan x="10" y="8362">501.  2017-04-17 21:40:43 +0000       37 bytes  src/renderers/shaders/ShaderChunk/beginnormal_ve\</tspan>
-<tspan x="10" y="8378">rtex.glsl</tspan>
-<tspan x="10" y="8394">502.  2017-04-17 21:40:43 +0000    13310 bytes  src/renderers/shaders/ShaderChunk/bsdfs.glsl</tspan>
-<tspan x="10" y="8410">503.  2017-04-17 21:40:43 +0000     1041 bytes  src/renderers/shaders/ShaderChunk/bumpmap_pars_f\</tspan>
-<tspan x="10" y="8426">ragment.glsl</tspan>
-<tspan x="10" y="8442">504.  2017-04-17 21:40:43 +0000      490 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
-<tspan x="10" y="8458">s_fragment.glsl</tspan>
-<tspan x="10" y="8474">505.  2017-04-17 21:40:43 +0000      178 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
-<tspan x="10" y="8490">s_pars_fragment.glsl</tspan>
-<tspan x="10" y="8506">506.  2017-04-17 21:40:43 +0000      111 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
-<tspan x="10" y="8522">s_pars_vertex.glsl</tspan>
-<tspan x="10" y="8538">507.  2017-04-17 21:40:43 +0000      118 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
-<tspan x="10" y="8554">s_vertex.glsl</tspan>
-<tspan x="10" y="8570">508.  2017-04-17 21:40:43 +0000       54 bytes  src/renderers/shaders/ShaderChunk/color_fragment\</tspan>
-<tspan x="10" y="8586">.glsl</tspan>
-<tspan x="10" y="8602">509.  2017-04-17 21:40:43 +0000       48 bytes  src/renderers/shaders/ShaderChunk/color_pars_fra\</tspan>
-<tspan x="10" y="8618">gment.glsl</tspan>
-<tspan x="10" y="8634">510.  2017-04-17 21:40:43 +0000       47 bytes  src/renderers/shaders/ShaderChunk/color_pars_ver\</tspan>
-<tspan x="10" y="8650">tex.glsl</tspan>
-<tspan x="10" y="8666">511.  2017-04-17 21:40:43 +0000       50 bytes  src/renderers/shaders/ShaderChunk/color_vertex.g\</tspan>
-<tspan x="10" y="8682">lsl</tspan>
-<tspan x="10" y="8698">512.  2017-04-17 21:40:43 +0000     2300 bytes  src/renderers/shaders/ShaderChunk/common.glsl</tspan>
-<tspan x="10" y="8714">513.  2017-04-17 21:40:43 +0000     4325 bytes  src/renderers/shaders/ShaderChunk/cube_uv_reflec\</tspan>
-<tspan x="10" y="8730">tion_fragment.glsl</tspan>
-<tspan x="10" y="8746">514.  2017-04-17 21:40:43 +0000      113 bytes  src/renderers/shaders/ShaderChunk/defaultnormal_\</tspan>
-<tspan x="10" y="8762">vertex.glsl</tspan>
-<tspan x="10" y="8778">515.  2017-04-17 21:40:43 +0000      139 bytes  src/renderers/shaders/ShaderChunk/displacementma\</tspan>
-<tspan x="10" y="8794">p_pars_vertex.glsl</tspan>
-<tspan x="10" y="8810">516.  2017-04-17 21:40:43 +0000      140 bytes  src/renderers/shaders/ShaderChunk/displacementma\</tspan>
-<tspan x="10" y="8826">p_vertex.glsl</tspan>
-<tspan x="10" y="8842">517.  2017-04-17 21:40:43 +0000      200 bytes  src/renderers/shaders/ShaderChunk/emissivemap_fr\</tspan>
-<tspan x="10" y="8858">agment.glsl</tspan>
-<tspan x="10" y="8874">518.  2017-04-17 21:40:43 +0000       64 bytes  src/renderers/shaders/ShaderChunk/emissivemap_pa\</tspan>
-<tspan x="10" y="8890">rs_fragment.glsl</tspan>
-<tspan x="10" y="8906">519.  2017-04-17 21:40:43 +0000       54 bytes  src/renderers/shaders/ShaderChunk/encodings_frag\</tspan>
-<tspan x="10" y="8922">ment.glsl</tspan>
-<tspan x="10" y="8938">520.  2017-04-17 21:40:43 +0000     3249 bytes  src/renderers/shaders/ShaderChunk/encodings_pars\</tspan>
-<tspan x="10" y="8954">_fragment.glsl</tspan>
-<tspan x="10" y="8970">521.  2017-04-17 21:40:43 +0000     1653 bytes  src/renderers/shaders/ShaderChunk/envmap_fragmen\</tspan>
-<tspan x="10" y="8986">t.glsl</tspan>
-<tspan x="10" y="9002">522.  2017-04-17 21:40:43 +0000      588 bytes  src/renderers/shaders/ShaderChunk/envmap_pars_fr\</tspan>
+<tspan x="10" y="346"> 15.  2017-04-22 11:12:59 +0000   649318 bytes  examples/fonts/gentilis_bold.typeface.json</tspan>
+<tspan x="10" y="362"> 16.  2017-04-22 11:12:59 +0000   627529 bytes  examples/fonts/gentilis_regular.typeface.json</tspan>
+<tspan x="10" y="378"> 17.  2017-04-22 11:12:59 +0000    61632 bytes  examples/fonts/helvetiker_bold.typeface.json</tspan>
+<tspan x="10" y="394"> 18.  2017-04-22 11:12:59 +0000    63182 bytes  examples/fonts/helvetiker_regular.typeface.json</tspan>
+<tspan x="10" y="410"> 19.  2017-04-22 11:12:59 +0000   112249 bytes  examples/fonts/optimer_bold.typeface.json</tspan>
+<tspan x="10" y="426"> 20.  2017-04-22 11:12:59 +0000   110666 bytes  examples/fonts/optimer_regular.typeface.json</tspan>
+<tspan x="10" y="442"> 21.  2017-04-22 11:12:59 +0000    18068 bytes  examples/fonts/ttf/kenpixel.ttf</tspan>
+<tspan x="10" y="458"> 22.  2017-04-22 11:12:59 +0000     2746 bytes  examples/js/AnimationClipCreator.js</tspan>
+<tspan x="10" y="474"> 23.  2017-04-22 11:12:59 +0000     3707 bytes  examples/js/BufferGeometryUtils.js</tspan>
+<tspan x="10" y="490"> 24.  2017-04-22 11:12:59 +0000     9262 bytes  examples/js/Car.js</tspan>
+<tspan x="10" y="506"> 25.  2017-04-22 11:12:59 +0000     6056 bytes  examples/js/Cloth.js</tspan>
+<tspan x="10" y="522"> 26.  2017-04-22 11:12:59 +0000    13262 bytes  examples/js/ConvexObjectBreaker.js</tspan>
+<tspan x="10" y="538"> 27.  2017-04-22 11:12:59 +0000     9360 bytes  examples/js/CurveExtras.js</tspan>
+<tspan x="10" y="554"> 28.  2017-04-22 11:12:59 +0000     2076 bytes  examples/js/Detector.js</tspan>
+<tspan x="10" y="570"> 29.  2017-04-22 11:12:59 +0000    10461 bytes  examples/js/GPUComputationRenderer.js</tspan>
+<tspan x="10" y="586"> 30.  2017-04-22 11:12:59 +0000    15957 bytes  examples/js/GPUParticleSystem.js</tspan>
+<tspan x="10" y="602"> 31.  2017-04-22 11:12:59 +0000     1390 bytes  examples/js/Gyroscope.js</tspan>
+<tspan x="10" y="618"> 32.  2017-04-22 11:12:59 +0000     2252 bytes  examples/js/ImprovedNoise.js</tspan>
+<tspan x="10" y="634"> 33.  2017-04-22 11:12:59 +0000     5465 bytes  examples/js/MD2Character.js</tspan>
+<tspan x="10" y="650"> 34.  2017-04-22 11:12:59 +0000    12477 bytes  examples/js/MD2CharacterComplex.js</tspan>
+<tspan x="10" y="666"> 35.  2017-04-22 11:12:59 +0000    34440 bytes  examples/js/MarchingCubes.js</tspan>
+<tspan x="10" y="682"> 36.  2017-04-22 11:12:59 +0000     6397 bytes  examples/js/Mirror.js</tspan>
+<tspan x="10" y="698"> 37.  2017-04-22 11:12:59 +0000      249 bytes  examples/js/MirrorRTT.js</tspan>
+<tspan x="10" y="714"> 38.  2017-04-22 11:12:59 +0000     1405 bytes  examples/js/MorphAnimMesh.js</tspan>
+<tspan x="10" y="730"> 39.  2017-04-22 11:12:59 +0000    15100 bytes  examples/js/Ocean.js</tspan>
+<tspan x="10" y="746"> 40.  2017-04-22 11:12:59 +0000    46076 bytes  examples/js/Octree.js</tspan>
+<tspan x="10" y="762"> 41.  2017-04-22 11:12:59 +0000      424 bytes  examples/js/PRNG.js</tspan>
+<tspan x="10" y="778"> 42.  2017-04-22 11:12:59 +0000     7058 bytes  examples/js/ParametricGeometries.js</tspan>
+<tspan x="10" y="794"> 43.  2017-04-22 11:12:59 +0000    21701 bytes  examples/js/QuickHull.js</tspan>
+<tspan x="10" y="810"> 44.  2017-04-22 11:12:59 +0000    13780 bytes  examples/js/RollerCoaster.js</tspan>
+<tspan x="10" y="826"> 45.  2017-04-22 11:12:59 +0000     6767 bytes  examples/js/ShaderGodRays.js</tspan>
+<tspan x="10" y="842"> 46.  2017-04-22 11:12:59 +0000    18596 bytes  examples/js/ShaderSkin.js</tspan>
+<tspan x="10" y="858"> 47.  2017-04-22 11:12:59 +0000     9320 bytes  examples/js/ShaderTerrain.js</tspan>
+<tspan x="10" y="874"> 48.  2017-04-22 11:12:59 +0000     7341 bytes  examples/js/ShaderToon.js</tspan>
+<tspan x="10" y="890"> 49.  2017-04-22 11:12:59 +0000    13600 bytes  examples/js/SimplexNoise.js</tspan>
+<tspan x="10" y="906"> 50.  2017-04-22 11:12:59 +0000     7694 bytes  examples/js/SkyShader.js</tspan>
+<tspan x="10" y="922"> 51.  2017-04-22 11:12:59 +0000     5419 bytes  examples/js/TimelinerController.js</tspan>
+<tspan x="10" y="938"> 52.  2017-04-22 11:12:59 +0000    12610 bytes  examples/js/TypedArrayUtils.js</tspan>
+<tspan x="10" y="954"> 53.  2017-04-22 11:12:59 +0000     2645 bytes  examples/js/UCSCharacter.js</tspan>
+<tspan x="10" y="970"> 54.  2017-04-22 11:12:59 +0000    12943 bytes  examples/js/Volume.js</tspan>
+<tspan x="10" y="986"> 55.  2017-04-22 11:12:59 +0000     6114 bytes  examples/js/VolumeSlice.js</tspan>
+<tspan x="10" y="1002"> 56.  2017-04-22 11:12:59 +0000    11326 bytes  examples/js/WaterShader.js</tspan>
+<tspan x="10" y="1018"> 57.  2017-04-22 11:12:59 +0000     9176 bytes  examples/js/animation/CCDIKSolver.js</tspan>
+<tspan x="10" y="1034"> 58.  2017-04-22 11:12:59 +0000    25553 bytes  examples/js/animation/MMDPhysics.js</tspan>
+<tspan x="10" y="1050"> 59.  2017-04-22 11:12:59 +0000     6175 bytes  examples/js/cameras/CinematicCamera.js</tspan>
+<tspan x="10" y="1066"> 60.  2017-04-22 11:12:59 +0000     5904 bytes  examples/js/cameras/CombinedCamera.js</tspan>
+<tspan x="10" y="1082"> 61.  2017-04-22 11:12:59 +0000     2811 bytes  examples/js/controls/DeviceOrientationControls.j\</tspan>
+<tspan x="10" y="1098">s</tspan>
+<tspan x="10" y="1114"> 62.  2017-04-22 11:12:59 +0000     4177 bytes  examples/js/controls/DragControls.js</tspan>
+<tspan x="10" y="1130"> 63.  2017-04-22 11:12:59 +0000     7251 bytes  examples/js/controls/EditorControls.js</tspan>
+<tspan x="10" y="1146"> 64.  2017-04-22 11:12:59 +0000     6556 bytes  examples/js/controls/FirstPersonControls.js</tspan>
+<tspan x="10" y="1162"> 65.  2017-04-22 11:12:59 +0000     7152 bytes  examples/js/controls/FlyControls.js</tspan>
+<tspan x="10" y="1178"> 66.  2017-04-22 11:12:59 +0000    22617 bytes  examples/js/controls/OrbitControls.js</tspan>
+<tspan x="10" y="1194"> 67.  2017-04-22 11:12:59 +0000    14031 bytes  examples/js/controls/OrthographicTrackballContro\</tspan>
+<tspan x="10" y="1210">ls.js</tspan>
+<tspan x="10" y="1226"> 68.  2017-04-22 11:12:59 +0000     1402 bytes  examples/js/controls/PointerLockControls.js</tspan>
+<tspan x="10" y="1242"> 69.  2017-04-22 11:12:59 +0000    14057 bytes  examples/js/controls/TrackballControls.js</tspan>
+<tspan x="10" y="1258"> 70.  2017-04-22 11:12:59 +0000    33257 bytes  examples/js/controls/TransformControls.js</tspan>
+<tspan x="10" y="1274"> 71.  2017-04-22 11:12:59 +0000     2471 bytes  examples/js/controls/VRControls.js</tspan>
+<tspan x="10" y="1290"> 72.  2017-04-22 11:12:59 +0000      934 bytes  examples/js/crossfade/gui.js</tspan>
+<tspan x="10" y="1306"> 73.  2017-04-22 11:12:59 +0000     2913 bytes  examples/js/crossfade/scenes.js</tspan>
+<tspan x="10" y="1322"> 74.  2017-04-22 11:12:59 +0000     3732 bytes  examples/js/crossfade/transition.js</tspan>
+<tspan x="10" y="1338"> 75.  2017-04-22 11:12:59 +0000     1976 bytes  examples/js/curves/NURBSCurve.js</tspan>
+<tspan x="10" y="1354"> 76.  2017-04-22 11:12:59 +0000     1404 bytes  examples/js/curves/NURBSSurface.js</tspan>
+<tspan x="10" y="1370"> 77.  2017-04-22 11:12:59 +0000     7982 bytes  examples/js/curves/NURBSUtils.js</tspan>
+<tspan x="10" y="1386"> 78.  2017-04-22 11:12:59 +0000     3911 bytes  examples/js/effects/AnaglyphEffect.js</tspan>
+<tspan x="10" y="1402"> 79.  2017-04-22 11:12:59 +0000     6714 bytes  examples/js/effects/AsciiEffect.js</tspan>
+<tspan x="10" y="1418"> 80.  2017-04-22 11:12:59 +0000    13029 bytes  examples/js/effects/OutlineEffect.js</tspan>
+<tspan x="10" y="1434"> 81.  2017-04-22 11:12:59 +0000     2067 bytes  examples/js/effects/ParallaxBarrierEffect.js</tspan>
+<tspan x="10" y="1450"> 82.  2017-04-22 11:12:59 +0000     3343 bytes  examples/js/effects/PeppersGhostEffect.js</tspan>
+<tspan x="10" y="1466"> 83.  2017-04-22 11:12:59 +0000     1159 bytes  examples/js/effects/StereoEffect.js</tspan>
+<tspan x="10" y="1482"> 84.  2017-04-22 11:12:59 +0000    11035 bytes  examples/js/effects/VREffect.js</tspan>
+<tspan x="10" y="1498"> 85.  2017-04-22 11:12:59 +0000     3993 bytes  examples/js/exporters/MMDExporter.js</tspan>
+<tspan x="10" y="1514"> 86.  2017-04-22 11:12:59 +0000     5153 bytes  examples/js/exporters/OBJExporter.js</tspan>
+<tspan x="10" y="1530"> 87.  2017-04-22 11:12:59 +0000     2355 bytes  examples/js/exporters/STLBinaryExporter.js</tspan>
+<tspan x="10" y="1546"> 88.  2017-04-22 11:12:59 +0000     1612 bytes  examples/js/exporters/STLExporter.js</tspan>
+<tspan x="10" y="1562"> 89.  2017-04-22 11:12:59 +0000      904 bytes  examples/js/exporters/TypedGeometryExporter.js</tspan>
+<tspan x="10" y="1578"> 90.  2017-04-22 11:12:59 +0000     1834 bytes  examples/js/geometries/ConvexGeometry.js</tspan>
+<tspan x="10" y="1594"> 91.  2017-04-22 11:12:59 +0000     9018 bytes  examples/js/geometries/DecalGeometry.js</tspan>
+<tspan x="10" y="1610"> 92.  2017-04-22 11:12:59 +0000    18330 bytes  examples/js/geometries/TeapotBufferGeometry.js</tspan>
+<tspan x="10" y="1626"> 93.  2017-04-22 11:12:59 +0000     1860 bytes  examples/js/geometries/hilbert2D.js</tspan>
+<tspan x="10" y="1642"> 94.  2017-04-22 11:12:59 +0000     3341 bytes  examples/js/geometries/hilbert3D.js</tspan>
+<tspan x="10" y="1658"> 95.  2017-04-22 11:12:59 +0000  1845086 bytes  examples/js/libs/ammo.js</tspan>
+<tspan x="10" y="1674"> 96.  2017-04-22 11:12:59 +0000    57342 bytes  examples/js/libs/dat.gui.min.js</tspan>
+<tspan x="10" y="1690"> 97.  2017-04-22 11:12:59 +0000    20023 bytes  examples/js/libs/earcut.js</tspan>
+<tspan x="10" y="1706"> 98.  2017-04-22 11:12:59 +0000     6943 bytes  examples/js/libs/inflate.min.js</tspan>
+<tspan x="10" y="1722"> 99.  2017-04-22 11:12:59 +0000    75490 bytes  examples/js/libs/jszip.min.js</tspan>
+<tspan x="10" y="1738">100.  2017-04-22 11:12:59 +0000   135014 bytes  examples/js/libs/mmdparser.min.js</tspan>
+<tspan x="10" y="1754">101.  2017-04-22 11:12:59 +0000    14828 bytes  examples/js/libs/msgpack-js.js</tspan>
+<tspan x="10" y="1770">102.  2017-04-22 11:12:59 +0000   130600 bytes  examples/js/libs/o3dgc.js</tspan>
+<tspan x="10" y="1786">103.  2017-04-22 11:12:59 +0000   126684 bytes  examples/js/libs/opentype.min.js</tspan>
+<tspan x="10" y="1802">104.  2017-04-22 11:12:59 +0000     8594 bytes  examples/js/libs/pnltri.min.js</tspan>
+<tspan x="10" y="1818">105.  2017-04-22 11:12:59 +0000     1855 bytes  examples/js/libs/stats.min.js</tspan>
+<tspan x="10" y="1834">106.  2017-04-22 11:12:59 +0000     1493 bytes  examples/js/libs/system.min.js</tspan>
+<tspan x="10" y="1850">107.  2017-04-22 11:12:59 +0000    49781 bytes  examples/js/libs/timeliner_gui.min.js</tspan>
+<tspan x="10" y="1866">108.  2017-04-22 11:12:59 +0000     4882 bytes  examples/js/libs/tween.min.js</tspan>
+<tspan x="10" y="1882">109.  2017-04-22 11:12:59 +0000    24528 bytes  examples/js/libs/zlib_and_gzip.min.js</tspan>
+<tspan x="10" y="1898">110.  2017-04-22 11:12:59 +0000   211516 bytes  examples/js/lights/RectAreaLightUniformsLib.js</tspan>
+<tspan x="10" y="1914">111.  2017-04-22 11:12:59 +0000    12586 bytes  examples/js/loaders/3MFLoader.js</tspan>
+<tspan x="10" y="1930">112.  2017-04-22 11:12:59 +0000    10815 bytes  examples/js/loaders/AMFLoader.js</tspan>
+<tspan x="10" y="1946">113.  2017-04-22 11:12:59 +0000    24172 bytes  examples/js/loaders/AWDLoader.js</tspan>
+<tspan x="10" y="1962">114.  2017-04-22 11:12:59 +0000     6978 bytes  examples/js/loaders/AssimpJSONLoader.js</tspan>
+<tspan x="10" y="1978">115.  2017-04-22 11:12:59 +0000    54687 bytes  examples/js/loaders/AssimpLoader.js</tspan>
+<tspan x="10" y="1994">116.  2017-04-22 11:12:59 +0000     8723 bytes  examples/js/loaders/BVHLoader.js</tspan>
+<tspan x="10" y="2010">117.  2017-04-22 11:12:59 +0000     4790 bytes  examples/js/loaders/BabylonLoader.js</tspan>
+<tspan x="10" y="2026">118.  2017-04-22 11:12:59 +0000    20321 bytes  examples/js/loaders/BinaryLoader.js</tspan>
+<tspan x="10" y="2042">119.  2017-04-22 11:12:59 +0000   100872 bytes  examples/js/loaders/ColladaLoader.js</tspan>
+<tspan x="10" y="2058">120.  2017-04-22 11:12:59 +0000    29966 bytes  examples/js/loaders/ColladaLoader2.js</tspan>
+<tspan x="10" y="2074">121.  2017-04-22 11:12:59 +0000     5924 bytes  examples/js/loaders/DDSLoader.js</tspan>
+<tspan x="10" y="2090">122.  2017-04-22 11:12:59 +0000    11394 bytes  examples/js/loaders/DRACOLoader.js</tspan>
+<tspan x="10" y="2106">123.  2017-04-22 11:12:59 +0000    69569 bytes  examples/js/loaders/FBXLoader.js</tspan>
+<tspan x="10" y="2122">124.  2017-04-22 11:12:59 +0000    97184 bytes  examples/js/loaders/FBXLoader2.js</tspan>
+<tspan x="10" y="2138">125.  2017-04-22 11:12:59 +0000    51408 bytes  examples/js/loaders/GLTF2Loader.js</tspan>
+<tspan x="10" y="2154">126.  2017-04-22 11:12:59 +0000    47947 bytes  examples/js/loaders/GLTFLoader.js</tspan>
+<tspan x="10" y="2170">127.  2017-04-22 11:12:59 +0000     5304 bytes  examples/js/loaders/HDRCubeTextureLoader.js</tspan>
+<tspan x="10" y="2186">128.  2017-04-22 11:12:59 +0000     1630 bytes  examples/js/loaders/KMZLoader.js</tspan>
+<tspan x="10" y="2202">129.  2017-04-22 11:12:59 +0000    11082 bytes  examples/js/loaders/MD2Loader.js</tspan>
+<tspan x="10" y="2218">130.  2017-04-22 11:12:59 +0000    60552 bytes  examples/js/loaders/MMDLoader.js</tspan>
+<tspan x="10" y="2234">131.  2017-04-22 11:12:59 +0000    10843 bytes  examples/js/loaders/MTLLoader.js</tspan>
+<tspan x="10" y="2250">132.  2017-04-22 11:12:59 +0000    12619 bytes  examples/js/loaders/NRRDLoader.js</tspan>
+<tspan x="10" y="2266">133.  2017-04-22 11:12:59 +0000    19203 bytes  examples/js/loaders/OBJLoader.js</tspan>
+<tspan x="10" y="2282">134.  2017-04-22 11:12:59 +0000    30742 bytes  examples/js/loaders/OBJLoader2.js</tspan>
+<tspan x="10" y="2298">135.  2017-04-22 11:12:59 +0000     7200 bytes  examples/js/loaders/PCDLoader.js</tspan>
+<tspan x="10" y="2314">136.  2017-04-22 11:12:59 +0000     6785 bytes  examples/js/loaders/PDBLoader.js</tspan>
+<tspan x="10" y="2330">137.  2017-04-22 11:12:59 +0000    10636 bytes  examples/js/loaders/PLYLoader.js</tspan>
+<tspan x="10" y="2346">138.  2017-04-22 11:12:59 +0000     5779 bytes  examples/js/loaders/PVRLoader.js</tspan>
+<tspan x="10" y="2362">139.  2017-04-22 11:12:59 +0000     3064 bytes  examples/js/loaders/PlayCanvasLoader.js</tspan>
+<tspan x="10" y="2378">140.  2017-04-22 11:12:59 +0000     9546 bytes  examples/js/loaders/RGBELoader.js</tspan>
+<tspan x="10" y="2394">141.  2017-04-22 11:12:59 +0000     7304 bytes  examples/js/loaders/STLLoader.js</tspan>
+<tspan x="10" y="2410">142.  2017-04-22 11:12:59 +0000      683 bytes  examples/js/loaders/SVGLoader.js</tspan>
+<tspan x="10" y="2426">143.  2017-04-22 11:12:59 +0000    11658 bytes  examples/js/loaders/TGALoader.js</tspan>
+<tspan x="10" y="2442">144.  2017-04-22 11:12:59 +0000     3929 bytes  examples/js/loaders/TTFLoader.js</tspan>
+<tspan x="10" y="2458">145.  2017-04-22 11:12:59 +0000    18325 bytes  examples/js/loaders/UTF8Loader.js</tspan>
+<tspan x="10" y="2474">146.  2017-04-22 11:12:59 +0000    24777 bytes  examples/js/loaders/VRMLLoader.js</tspan>
+<tspan x="10" y="2490">147.  2017-04-22 11:12:59 +0000    28267 bytes  examples/js/loaders/VTKLoader.js</tspan>
+<tspan x="10" y="2506">148.  2017-04-22 11:12:59 +0000    35973 bytes  examples/js/loaders/WWOBJLoader2.js</tspan>
+<tspan x="10" y="2522">149.  2017-04-22 11:12:59 +0000    45340 bytes  examples/js/loaders/XLoader.js</tspan>
+<tspan x="10" y="2538">150.  2017-04-22 11:12:59 +0000     9598 bytes  examples/js/loaders/collada/Animation.js</tspan>
+<tspan x="10" y="2554">151.  2017-04-22 11:12:59 +0000     3969 bytes  examples/js/loaders/collada/AnimationHandler.js</tspan>
+<tspan x="10" y="2570">152.  2017-04-22 11:12:59 +0000     4318 bytes  examples/js/loaders/collada/KeyFrameAnimation.js</tspan>
+<tspan x="10" y="2586">153.  2017-04-22 11:12:59 +0000     5257 bytes  examples/js/loaders/ctm/CTMLoader.js</tspan>
+<tspan x="10" y="2602">154.  2017-04-22 11:12:59 +0000      368 bytes  examples/js/loaders/ctm/CTMWorker.js</tspan>
+<tspan x="10" y="2618">155.  2017-04-22 11:12:59 +0000    17289 bytes  examples/js/loaders/ctm/ctm.js</tspan>
+<tspan x="10" y="2634">156.  2017-04-22 11:12:59 +0000      881 bytes  examples/js/loaders/ctm/license/OpenCTM.txt</tspan>
+<tspan x="10" y="2650">157.  2017-04-22 11:12:59 +0000     1056 bytes  examples/js/loaders/ctm/license/js-lzma.txt</tspan>
+<tspan x="10" y="2666">158.  2017-04-22 11:12:59 +0000     1056 bytes  examples/js/loaders/ctm/license/js-openctm.txt</tspan>
+<tspan x="10" y="2682">159.  2017-04-22 11:12:59 +0000    12703 bytes  examples/js/loaders/ctm/lzma.js</tspan>
+<tspan x="10" y="2698">160.  2017-04-22 11:12:59 +0000   668444 bytes  examples/js/loaders/draco_decoder.js</tspan>
+<tspan x="10" y="2714">161.  2017-04-22 11:12:59 +0000    57837 bytes  examples/js/loaders/sea3d/SEA3D.js</tspan>
+<tspan x="10" y="2730">162.  2017-04-22 11:12:59 +0000    21043 bytes  examples/js/loaders/sea3d/SEA3DDeflate.js</tspan>
+<tspan x="10" y="2746">163.  2017-04-22 11:12:59 +0000    16038 bytes  examples/js/loaders/sea3d/SEA3DLZMA.js</tspan>
+<tspan x="10" y="2762">164.  2017-04-22 11:12:59 +0000    13785 bytes  examples/js/loaders/sea3d/SEA3DLegacy.js</tspan>
+<tspan x="10" y="2778">165.  2017-04-22 11:12:59 +0000    69701 bytes  examples/js/loaders/sea3d/SEA3DLoader.js</tspan>
+<tspan x="10" y="2794">166.  2017-04-22 11:12:59 +0000     2711 bytes  examples/js/loaders/sea3d/o3dgc/SEA3DGC.js</tspan>
+<tspan x="10" y="2810">167.  2017-04-22 11:12:59 +0000     9425 bytes  examples/js/loaders/sea3d/physics/SEA3DAmmo.js</tspan>
+<tspan x="10" y="2826">168.  2017-04-22 11:12:59 +0000    13273 bytes  examples/js/loaders/sea3d/physics/SEA3DAmmoLoade\</tspan>
+<tspan x="10" y="2842">r.js</tspan>
+<tspan x="10" y="2858">169.  2017-04-22 11:12:59 +0000     8045 bytes  examples/js/loaders/sea3d/physics/SEA3DRigidBody\</tspan>
+<tspan x="10" y="2874">.js</tspan>
+<tspan x="10" y="2890">170.  2017-04-22 11:12:59 +0000     1222 bytes  examples/js/math/ColorConverter.js</tspan>
+<tspan x="10" y="2906">171.  2017-04-22 11:12:59 +0000    13058 bytes  examples/js/math/Lut.js</tspan>
+<tspan x="10" y="2922">172.  2017-04-22 11:12:59 +0000    22622 bytes  examples/js/modifiers/BufferSubdivisionModifier.\</tspan>
+<tspan x="10" y="2938">js</tspan>
+<tspan x="10" y="2954">173.  2017-04-22 11:12:59 +0000      750 bytes  examples/js/modifiers/ExplodeModifier.js</tspan>
+<tspan x="10" y="2970">174.  2017-04-22 11:12:59 +0000     9798 bytes  examples/js/modifiers/SimplifyModifier.js</tspan>
+<tspan x="10" y="2986">175.  2017-04-22 11:12:59 +0000     8617 bytes  examples/js/modifiers/SubdivisionModifier.js</tspan>
+<tspan x="10" y="3002">176.  2017-04-22 11:12:59 +0000     4803 bytes  examples/js/modifiers/TessellateModifier.js</tspan>
+<tspan x="10" y="3018">177.  2017-04-22 11:12:59 +0000      948 bytes  examples/js/nodes/AttributeNode.js</tspan>
+<tspan x="10" y="3034">178.  2017-04-22 11:12:59 +0000     1678 bytes  examples/js/nodes/ConstNode.js</tspan>
+<tspan x="10" y="3050">179.  2017-04-22 11:12:59 +0000     1206 bytes  examples/js/nodes/FunctionCallNode.js</tspan>
+<tspan x="10" y="3066">180.  2017-04-22 11:12:59 +0000     3986 bytes  examples/js/nodes/FunctionNode.js</tspan>
+<tspan x="10" y="3082">181.  2017-04-22 11:12:59 +0000     2281 bytes  examples/js/nodes/GLNode.js</tspan>
+<tspan x="10" y="3098">182.  2017-04-22 11:12:59 +0000     1058 bytes  examples/js/nodes/InputNode.js</tspan>
+<tspan x="10" y="3114">183.  2017-04-22 11:12:59 +0000     4148 bytes  examples/js/nodes/NodeBuilder.js</tspan>
+<tspan x="10" y="3130">184.  2017-04-22 11:12:59 +0000     4268 bytes  examples/js/nodes/NodeLib.js</tspan>
+<tspan x="10" y="3146">185.  2017-04-22 11:12:59 +0000    11191 bytes  examples/js/nodes/NodeMaterial.js</tspan>
+<tspan x="10" y="3162">186.  2017-04-22 11:12:59 +0000      630 bytes  examples/js/nodes/RawNode.js</tspan>
+<tspan x="10" y="3178">187.  2017-04-22 11:12:59 +0000     3346 bytes  examples/js/nodes/TempNode.js</tspan>
+<tspan x="10" y="3194">188.  2017-04-22 11:12:59 +0000      565 bytes  examples/js/nodes/VarNode.js</tspan>
+<tspan x="10" y="3210">189.  2017-04-22 11:12:59 +0000     2761 bytes  examples/js/nodes/accessors/CameraNode.js</tspan>
+<tspan x="10" y="3226">190.  2017-04-22 11:12:59 +0000      815 bytes  examples/js/nodes/accessors/ColorsNode.js</tspan>
+<tspan x="10" y="3242">191.  2017-04-22 11:12:59 +0000      645 bytes  examples/js/nodes/accessors/LightNode.js</tspan>
+<tspan x="10" y="3258">192.  2017-04-22 11:12:59 +0000     1255 bytes  examples/js/nodes/accessors/NormalNode.js</tspan>
+<tspan x="10" y="3274">193.  2017-04-22 11:12:59 +0000     1774 bytes  examples/js/nodes/accessors/PositionNode.js</tspan>
+<tspan x="10" y="3290">194.  2017-04-22 11:12:59 +0000     1646 bytes  examples/js/nodes/accessors/ReflectNode.js</tspan>
+<tspan x="10" y="3306">195.  2017-04-22 11:12:59 +0000      760 bytes  examples/js/nodes/accessors/ScreenUVNode.js</tspan>
+<tspan x="10" y="3322">196.  2017-04-22 11:12:59 +0000      764 bytes  examples/js/nodes/accessors/UVNode.js</tspan>
+<tspan x="10" y="3338">197.  2017-04-22 11:12:59 +0000      399 bytes  examples/js/nodes/inputs/ColorNode.js</tspan>
+<tspan x="10" y="3354">198.  2017-04-22 11:12:59 +0000     1515 bytes  examples/js/nodes/inputs/CubeTextureNode.js</tspan>
+<tspan x="10" y="3370">199.  2017-04-22 11:12:59 +0000      480 bytes  examples/js/nodes/inputs/FloatNode.js</tspan>
+<tspan x="10" y="3386">200.  2017-04-22 11:12:59 +0000      498 bytes  examples/js/nodes/inputs/IntNode.js</tspan>
+<tspan x="10" y="3402">201.  2017-04-22 11:12:59 +0000      318 bytes  examples/js/nodes/inputs/Matrix4Node.js</tspan>
+<tspan x="10" y="3418">202.  2017-04-22 11:12:59 +0000     1340 bytes  examples/js/nodes/inputs/MirrorNode.js</tspan>
+<tspan x="10" y="3434">203.  2017-04-22 11:12:59 +0000      542 bytes  examples/js/nodes/inputs/ScreenNode.js</tspan>
+<tspan x="10" y="3450">204.  2017-04-22 11:12:59 +0000     1661 bytes  examples/js/nodes/inputs/TextureNode.js</tspan>
+<tspan x="10" y="3466">205.  2017-04-22 11:12:59 +0000      400 bytes  examples/js/nodes/inputs/Vector2Node.js</tspan>
+<tspan x="10" y="3482">206.  2017-04-22 11:12:59 +0000      430 bytes  examples/js/nodes/inputs/Vector3Node.js</tspan>
+<tspan x="10" y="3498">207.  2017-04-22 11:12:59 +0000      422 bytes  examples/js/nodes/inputs/Vector4Node.js</tspan>
+<tspan x="10" y="3514">208.  2017-04-22 11:12:59 +0000     8004 bytes  examples/js/nodes/materials/PhongNode.js</tspan>
+<tspan x="10" y="3530">209.  2017-04-22 11:12:59 +0000      594 bytes  examples/js/nodes/materials/PhongNodeMaterial.js</tspan>
+<tspan x="10" y="3546">210.  2017-04-22 11:12:59 +0000    10329 bytes  examples/js/nodes/materials/StandardNode.js</tspan>
+<tspan x="10" y="3562">211.  2017-04-22 11:12:59 +0000      644 bytes  examples/js/nodes/materials/StandardNodeMaterial\</tspan>
+<tspan x="10" y="3578">.js</tspan>
+<tspan x="10" y="3594">212.  2017-04-22 11:12:59 +0000     1767 bytes  examples/js/nodes/math/Math1Node.js</tspan>
+<tspan x="10" y="3610">213.  2017-04-22 11:12:59 +0000     2147 bytes  examples/js/nodes/math/Math2Node.js</tspan>
+<tspan x="10" y="3626">214.  2017-04-22 11:12:59 +0000     1849 bytes  examples/js/nodes/math/Math3Node.js</tspan>
+<tspan x="10" y="3642">215.  2017-04-22 11:12:59 +0000     1139 bytes  examples/js/nodes/math/OperatorNode.js</tspan>
+<tspan x="10" y="3658">216.  2017-04-22 11:12:59 +0000      665 bytes  examples/js/nodes/postprocessing/NodePass.js</tspan>
+<tspan x="10" y="3674">217.  2017-04-22 11:12:59 +0000     3730 bytes  examples/js/nodes/utils/BlurNode.js</tspan>
+<tspan x="10" y="3690">218.  2017-04-22 11:12:59 +0000     1465 bytes  examples/js/nodes/utils/BumpNode.js</tspan>
+<tspan x="10" y="3706">219.  2017-04-22 11:12:59 +0000     1583 bytes  examples/js/nodes/utils/ColorAdjustmentNode.js</tspan>
+<tspan x="10" y="3722">220.  2017-04-22 11:12:59 +0000     1270 bytes  examples/js/nodes/utils/JoinNode.js</tspan>
+<tspan x="10" y="3738">221.  2017-04-22 11:12:59 +0000      526 bytes  examples/js/nodes/utils/LuminanceNode.js</tspan>
+<tspan x="10" y="3754">222.  2017-04-22 11:12:59 +0000      500 bytes  examples/js/nodes/utils/NoiseNode.js</tspan>
+<tspan x="10" y="3770">223.  2017-04-22 11:12:59 +0000     1227 bytes  examples/js/nodes/utils/NormalMapNode.js</tspan>
+<tspan x="10" y="3786">224.  2017-04-22 11:12:59 +0000      495 bytes  examples/js/nodes/utils/ResolutionNode.js</tspan>
+<tspan x="10" y="3802">225.  2017-04-22 11:12:59 +0000     2038 bytes  examples/js/nodes/utils/RoughnessToBlinnExponent\</tspan>
+<tspan x="10" y="3818">Node.js</tspan>
+<tspan x="10" y="3834">226.  2017-04-22 11:12:59 +0000     1449 bytes  examples/js/nodes/utils/SwitchNode.js</tspan>
+<tspan x="10" y="3850">227.  2017-04-22 11:12:59 +0000      450 bytes  examples/js/nodes/utils/TimerNode.js</tspan>
+<tspan x="10" y="3866">228.  2017-04-22 11:12:59 +0000     1238 bytes  examples/js/nodes/utils/VelocityNode.js</tspan>
+<tspan x="10" y="3882">229.  2017-04-22 11:12:59 +0000     2010 bytes  examples/js/objects/ShadowMesh.js</tspan>
+<tspan x="10" y="3898">230.  2017-04-22 11:12:59 +0000     5990 bytes  examples/js/pmrem/PMREMCubeUVPacker.js</tspan>
+<tspan x="10" y="3914">231.  2017-04-22 11:12:59 +0000    10094 bytes  examples/js/pmrem/PMREMGenerator.js</tspan>
+<tspan x="10" y="3930">232.  2017-04-22 11:12:59 +0000     9508 bytes  examples/js/postprocessing/AdaptiveToneMappingPa\</tspan>
+<tspan x="10" y="3946">ss.js</tspan>
+<tspan x="10" y="3962">233.  2017-04-22 11:12:59 +0000     3744 bytes  examples/js/postprocessing/BloomPass.js</tspan>
+<tspan x="10" y="3978">234.  2017-04-22 11:12:59 +0000     2741 bytes  examples/js/postprocessing/BokehPass.js</tspan>
+<tspan x="10" y="3994">235.  2017-04-22 11:12:59 +0000      925 bytes  examples/js/postprocessing/ClearPass.js</tspan>
+<tspan x="10" y="4010">236.  2017-04-22 11:12:59 +0000     1557 bytes  examples/js/postprocessing/CubeTexturePass.js</tspan>
+<tspan x="10" y="4026">237.  2017-04-22 11:12:59 +0000     1567 bytes  examples/js/postprocessing/DotScreenPass.js</tspan>
+<tspan x="10" y="4042">238.  2017-04-22 11:12:59 +0000     3540 bytes  examples/js/postprocessing/EffectComposer.js</tspan>
+<tspan x="10" y="4058">239.  2017-04-22 11:12:59 +0000     1662 bytes  examples/js/postprocessing/FilmPass.js</tspan>
+<tspan x="10" y="4074">240.  2017-04-22 11:12:59 +0000     3206 bytes  examples/js/postprocessing/GlitchPass.js</tspan>
+<tspan x="10" y="4090">241.  2017-04-22 11:12:59 +0000     2036 bytes  examples/js/postprocessing/MaskPass.js</tspan>
+<tspan x="10" y="4106">242.  2017-04-22 11:12:59 +0000    18799 bytes  examples/js/postprocessing/OutlinePass.js</tspan>
+<tspan x="10" y="4122">243.  2017-04-22 11:12:59 +0000     1334 bytes  examples/js/postprocessing/RenderPass.js</tspan>
+<tspan x="10" y="4138">244.  2017-04-22 11:12:59 +0000    49325 bytes  examples/js/postprocessing/SMAAPass.js</tspan>
+<tspan x="10" y="4154">245.  2017-04-22 11:12:59 +0000     5566 bytes  examples/js/postprocessing/SSAARenderPass.js</tspan>
+<tspan x="10" y="4170">246.  2017-04-22 11:12:59 +0000     1571 bytes  examples/js/postprocessing/SavePass.js</tspan>
+<tspan x="10" y="4186">247.  2017-04-22 11:12:59 +0000     1414 bytes  examples/js/postprocessing/ShaderPass.js</tspan>
+<tspan x="10" y="4202">248.  2017-04-22 11:12:59 +0000     3685 bytes  examples/js/postprocessing/TAARenderPass.js</tspan>
+<tspan x="10" y="4218">249.  2017-04-22 11:12:59 +0000     1523 bytes  examples/js/postprocessing/TexturePass.js</tspan>
+<tspan x="10" y="4234">250.  2017-04-22 11:12:59 +0000    11524 bytes  examples/js/postprocessing/UnrealBloomPass.js</tspan>
+<tspan x="10" y="4250">251.  2017-04-22 11:12:59 +0000     2300 bytes  examples/js/renderers/CSS2DRenderer.js</tspan>
+<tspan x="10" y="4266">252.  2017-04-22 11:12:59 +0000     7054 bytes  examples/js/renderers/CSS3DRenderer.js</tspan>
+<tspan x="10" y="4282">253.  2017-04-22 11:12:59 +0000    26209 bytes  examples/js/renderers/CanvasRenderer.js</tspan>
+<tspan x="10" y="4298">254.  2017-04-22 11:12:59 +0000    22689 bytes  examples/js/renderers/Projector.js</tspan>
+<tspan x="10" y="4314">255.  2017-04-22 11:12:59 +0000     5456 bytes  examples/js/renderers/RaytracingRenderer.js</tspan>
+<tspan x="10" y="4330">256.  2017-04-22 11:12:59 +0000    12876 bytes  examples/js/renderers/RaytracingWorker.js</tspan>
+<tspan x="10" y="4346">257.  2017-04-22 11:12:59 +0000    12022 bytes  examples/js/renderers/SVGRenderer.js</tspan>
+<tspan x="10" y="4362">258.  2017-04-22 11:12:59 +0000    37712 bytes  examples/js/renderers/SoftwareRenderer.js</tspan>
+<tspan x="10" y="4378">259.  2017-04-22 11:12:59 +0000    56640 bytes  examples/js/renderers/WebGLDeferredRenderer.js</tspan>
+<tspan x="10" y="4394">260.  2017-04-22 11:12:59 +0000      376 bytes  examples/js/shaders/BasicShader.js</tspan>
+<tspan x="10" y="4410">261.  2017-04-22 11:12:59 +0000     1278 bytes  examples/js/shaders/BleachBypassShader.js</tspan>
+<tspan x="10" y="4426">262.  2017-04-22 11:12:59 +0000      815 bytes  examples/js/shaders/BlendShader.js</tspan>
+<tspan x="10" y="4442">263.  2017-04-22 11:12:59 +0000     5264 bytes  examples/js/shaders/BokehShader.js</tspan>
+<tspan x="10" y="4458">264.  2017-04-22 11:12:59 +0000     9707 bytes  examples/js/shaders/BokehShader2.js</tspan>
+<tspan x="10" y="4474">265.  2017-04-22 11:12:59 +0000     1107 bytes  examples/js/shaders/BrightnessContrastShader.js</tspan>
+<tspan x="10" y="4490">266.  2017-04-22 11:12:59 +0000      846 bytes  examples/js/shaders/ColorCorrectionShader.js</tspan>
+<tspan x="10" y="4506">267.  2017-04-22 11:12:59 +0000      729 bytes  examples/js/shaders/ColorifyShader.js</tspan>
+<tspan x="10" y="4522">268.  2017-04-22 11:12:59 +0000     1918 bytes  examples/js/shaders/ConvolutionShader.js</tspan>
+<tspan x="10" y="4538">269.  2017-04-22 11:12:59 +0000      622 bytes  examples/js/shaders/CopyShader.js</tspan>
+<tspan x="10" y="4554">270.  2017-04-22 11:12:59 +0000      982 bytes  examples/js/shaders/DOFMipMapShader.js</tspan>
+<tspan x="10" y="4570">271.  2017-04-22 11:12:59 +0000     2799 bytes  examples/js/shaders/DigitalGlitch.js</tspan>
+<tspan x="10" y="4586">272.  2017-04-22 11:12:59 +0000     1263 bytes  examples/js/shaders/DotScreenShader.js</tspan>
+<tspan x="10" y="4602">273.  2017-04-22 11:12:59 +0000     3119 bytes  examples/js/shaders/EdgeShader.js</tspan>
+<tspan x="10" y="4618">274.  2017-04-22 11:12:59 +0000     1609 bytes  examples/js/shaders/EdgeShader2.js</tspan>
+<tspan x="10" y="4634">275.  2017-04-22 11:12:59 +0000     2857 bytes  examples/js/shaders/FXAAShader.js</tspan>
+<tspan x="10" y="4650">276.  2017-04-22 11:12:59 +0000     2428 bytes  examples/js/shaders/FilmShader.js</tspan>
+<tspan x="10" y="4666">277.  2017-04-22 11:12:59 +0000     2451 bytes  examples/js/shaders/FocusShader.js</tspan>
+<tspan x="10" y="4682">278.  2017-04-22 11:12:59 +0000     2061 bytes  examples/js/shaders/FresnelShader.js</tspan>
+<tspan x="10" y="4698">279.  2017-04-22 11:12:59 +0000      665 bytes  examples/js/shaders/GammaCorrectionShader.js</tspan>
+<tspan x="10" y="4714">280.  2017-04-22 11:12:59 +0000     1617 bytes  examples/js/shaders/HorizontalBlurShader.js</tspan>
+<tspan x="10" y="4730">281.  2017-04-22 11:12:59 +0000     1653 bytes  examples/js/shaders/HorizontalTiltShiftShader.js</tspan>
+<tspan x="10" y="4746">282.  2017-04-22 11:12:59 +0000     1563 bytes  examples/js/shaders/HueSaturationShader.js</tspan>
+<tspan x="10" y="4762">283.  2017-04-22 11:12:59 +0000     1088 bytes  examples/js/shaders/KaleidoShader.js</tspan>
+<tspan x="10" y="4778">284.  2017-04-22 11:12:59 +0000     1317 bytes  examples/js/shaders/LuminosityHighPassShader.js</tspan>
+<tspan x="10" y="4794">285.  2017-04-22 11:12:59 +0000      690 bytes  examples/js/shaders/LuminosityShader.js</tspan>
+<tspan x="10" y="4810">286.  2017-04-22 11:12:59 +0000      995 bytes  examples/js/shaders/MirrorShader.js</tspan>
+<tspan x="10" y="4826">287.  2017-04-22 11:12:59 +0000     1032 bytes  examples/js/shaders/NormalMapShader.js</tspan>
+<tspan x="10" y="4842">288.  2017-04-22 11:12:59 +0000    11791 bytes  examples/js/shaders/OceanShaders.js</tspan>
+<tspan x="10" y="4858">289.  2017-04-22 11:12:59 +0000     5300 bytes  examples/js/shaders/ParallaxShader.js</tspan>
+<tspan x="10" y="4874">290.  2017-04-22 11:12:59 +0000     1086 bytes  examples/js/shaders/RGBShiftShader.js</tspan>
+<tspan x="10" y="4890">291.  2017-04-22 11:12:59 +0000    15562 bytes  examples/js/shaders/SMAAShader.js</tspan>
+<tspan x="10" y="4906">292.  2017-04-22 11:12:59 +0000     5568 bytes  examples/js/shaders/SSAOShader.js</tspan>
+<tspan x="10" y="4922">293.  2017-04-22 11:12:59 +0000      999 bytes  examples/js/shaders/SepiaShader.js</tspan>
+<tspan x="10" y="4938">294.  2017-04-22 11:12:59 +0000      898 bytes  examples/js/shaders/TechnicolorShader.js</tspan>
+<tspan x="10" y="4954">295.  2017-04-22 11:12:59 +0000     1752 bytes  examples/js/shaders/ToneMapShader.js</tspan>
+<tspan x="10" y="4970">296.  2017-04-22 11:12:59 +0000     1323 bytes  examples/js/shaders/TriangleBlurShader.js</tspan>
+<tspan x="10" y="4986">297.  2017-04-22 11:12:59 +0000      748 bytes  examples/js/shaders/UnpackDepthRGBAShader.js</tspan>
+<tspan x="10" y="5002">298.  2017-04-22 11:12:59 +0000     1615 bytes  examples/js/shaders/VerticalBlurShader.js</tspan>
+<tspan x="10" y="5018">299.  2017-04-22 11:12:59 +0000     1651 bytes  examples/js/shaders/VerticalTiltShiftShader.js</tspan>
+<tspan x="10" y="5034">300.  2017-04-22 11:12:59 +0000     1268 bytes  examples/js/shaders/VignetteShader.js</tspan>
+<tspan x="10" y="5050">301.  2017-04-22 11:12:59 +0000     6142 bytes  examples/js/utils/GeometryUtils.js</tspan>
+<tspan x="10" y="5066">302.  2017-04-22 11:12:59 +0000     3541 bytes  examples/js/utils/ImageUtils.js</tspan>
+<tspan x="10" y="5082">303.  2017-04-22 11:12:59 +0000     5405 bytes  examples/js/utils/ShadowMapViewer.js</tspan>
+<tspan x="10" y="5098">304.  2017-04-22 11:12:59 +0000     2329 bytes  examples/js/utils/UVsDebug.js</tspan>
+<tspan x="10" y="5114">305.  2017-04-22 11:12:59 +0000     2145 bytes  examples/js/vr/DaydreamController.js</tspan>
+<tspan x="10" y="5130">306.  2017-04-22 11:12:59 +0000     4250 bytes  examples/js/vr/PaintViveController.js</tspan>
+<tspan x="10" y="5146">307.  2017-04-22 11:12:59 +0000     3132 bytes  examples/js/vr/ViveController.js</tspan>
+<tspan x="10" y="5162">308.  2017-04-22 11:12:59 +0000     2909 bytes  examples/js/vr/WebVR.js</tspan>
+<tspan x="10" y="5178">309.  2017-04-22 11:12:59 +0000     3038 bytes  examples/js/vr/WebVRCamera.js</tspan>
+<tspan x="10" y="5194">310.  2017-04-22 11:12:59 +0000     3463 bytes  package.json</tspan>
+<tspan x="10" y="5210">311.  2017-04-22 11:12:59 +0000    37600 bytes  src/Three.Legacy.js</tspan>
+<tspan x="10" y="5226">312.  2017-04-22 11:12:59 +0000     9152 bytes  src/Three.js</tspan>
+<tspan x="10" y="5242">313.  2017-04-22 11:12:59 +0000    12494 bytes  src/animation/AnimationAction.js</tspan>
+<tspan x="10" y="5258">314.  2017-04-22 11:12:59 +0000     7566 bytes  src/animation/AnimationClip.js</tspan>
+<tspan x="10" y="5274">315.  2017-04-22 11:12:59 +0000    16194 bytes  src/animation/AnimationMixer.js</tspan>
+<tspan x="10" y="5290">316.  2017-04-22 11:12:59 +0000     9218 bytes  src/animation/AnimationObjectGroup.js</tspan>
+<tspan x="10" y="5306">317.  2017-04-22 11:12:59 +0000     3162 bytes  src/animation/AnimationUtils.js</tspan>
+<tspan x="10" y="5322">318.  2017-04-22 11:12:59 +0000     3243 bytes  src/animation/KeyframeTrack.js</tspan>
+<tspan x="10" y="5338">319.  2017-04-22 11:12:59 +0000      637 bytes  src/animation/KeyframeTrackConstructor.js</tspan>
+<tspan x="10" y="5354">320.  2017-04-22 11:12:59 +0000     7187 bytes  src/animation/KeyframeTrackPrototype.js</tspan>
+<tspan x="10" y="5370">321.  2017-04-22 11:12:59 +0000    14743 bytes  src/animation/PropertyBinding.js</tspan>
+<tspan x="10" y="5386">322.  2017-04-22 11:12:59 +0000     4102 bytes  src/animation/PropertyMixer.js</tspan>
+<tspan x="10" y="5402">323.  2017-04-22 11:12:59 +0000     1011 bytes  src/animation/tracks/BooleanKeyframeTrack.js</tspan>
+<tspan x="10" y="5418">324.  2017-04-22 11:12:59 +0000      856 bytes  src/animation/tracks/ColorKeyframeTrack.js</tspan>
+<tspan x="10" y="5434">325.  2017-04-22 11:12:59 +0000      717 bytes  src/animation/tracks/NumberKeyframeTrack.js</tspan>
+<tspan x="10" y="5450">326.  2017-04-22 11:12:59 +0000     1127 bytes  src/animation/tracks/QuaternionKeyframeTrack.js</tspan>
+<tspan x="10" y="5466">327.  2017-04-22 11:12:59 +0000      860 bytes  src/animation/tracks/StringKeyframeTrack.js</tspan>
+<tspan x="10" y="5482">328.  2017-04-22 11:12:59 +0000      721 bytes  src/animation/tracks/VectorKeyframeTrack.js</tspan>
+<tspan x="10" y="5498">329.  2017-04-22 11:12:59 +0000     4568 bytes  src/audio/Audio.js</tspan>
+<tspan x="10" y="5514">330.  2017-04-22 11:12:59 +0000      705 bytes  src/audio/AudioAnalyser.js</tspan>
+<tspan x="10" y="5530">331.  2017-04-22 11:12:59 +0000      289 bytes  src/audio/AudioContext.js</tspan>
+<tspan x="10" y="5546">332.  2017-04-22 11:12:59 +0000     2844 bytes  src/audio/AudioListener.js</tspan>
+<tspan x="10" y="5562">333.  2017-04-22 11:12:59 +0000     1468 bytes  src/audio/PositionalAudio.js</tspan>
+<tspan x="10" y="5578">334.  2017-04-22 11:12:59 +0000      398 bytes  src/cameras/ArrayCamera.js</tspan>
+<tspan x="10" y="5594">335.  2017-04-22 11:12:59 +0000     1219 bytes  src/cameras/Camera.js</tspan>
+<tspan x="10" y="5610">336.  2017-04-22 11:12:59 +0000     2791 bytes  src/cameras/CubeCamera.js</tspan>
+<tspan x="10" y="5626">337.  2017-04-22 11:12:59 +0000     2830 bytes  src/cameras/OrthographicCamera.js</tspan>
+<tspan x="10" y="5642">338.  2017-04-22 11:12:59 +0000     5305 bytes  src/cameras/PerspectiveCamera.js</tspan>
+<tspan x="10" y="5658">339.  2017-04-22 11:12:59 +0000     2495 bytes  src/cameras/StereoCamera.js</tspan>
+<tspan x="10" y="5674">340.  2017-04-22 11:12:59 +0000     4349 bytes  src/constants.js</tspan>
+<tspan x="10" y="5690">341.  2017-04-22 11:12:59 +0000     8357 bytes  src/core/BufferAttribute.js</tspan>
+<tspan x="10" y="5706">342.  2017-04-22 11:12:59 +0000    20691 bytes  src/core/BufferGeometry.js</tspan>
+<tspan x="10" y="5722">343.  2017-04-22 11:12:59 +0000     1039 bytes  src/core/Clock.js</tspan>
+<tspan x="10" y="5738">344.  2017-04-22 11:12:59 +0000     5040 bytes  src/core/DirectGeometry.js</tspan>
+<tspan x="10" y="5754">345.  2017-04-22 11:12:59 +0000     1561 bytes  src/core/EventDispatcher.js</tspan>
+<tspan x="10" y="5770">346.  2017-04-22 11:12:59 +0000     1257 bytes  src/core/Face3.js</tspan>
+<tspan x="10" y="5786">347.  2017-04-22 11:12:59 +0000    27868 bytes  src/core/Geometry.js</tspan>
+<tspan x="10" y="5802">348.  2017-04-22 11:12:59 +0000      672 bytes  src/core/InstancedBufferAttribute.js</tspan>
+<tspan x="10" y="5818">349.  2017-04-22 11:12:59 +0000     1141 bytes  src/core/InstancedBufferGeometry.js</tspan>
+<tspan x="10" y="5834">350.  2017-04-22 11:12:59 +0000      686 bytes  src/core/InstancedInterleavedBuffer.js</tspan>
+<tspan x="10" y="5850">351.  2017-04-22 11:12:59 +0000     1786 bytes  src/core/InterleavedBuffer.js</tspan>
+<tspan x="10" y="5866">352.  2017-04-22 11:12:59 +0000     2283 bytes  src/core/InterleavedBufferAttribute.js</tspan>
+<tspan x="10" y="5882">353.  2017-04-22 11:12:59 +0000      525 bytes  src/core/Layers.js</tspan>
+<tspan x="10" y="5898">354.  2017-04-22 11:12:59 +0000    13445 bytes  src/core/Object3D.js</tspan>
+<tspan x="10" y="5914">355.  2017-04-22 11:12:59 +0000     2666 bytes  src/core/Raycaster.js</tspan>
+<tspan x="10" y="5930">356.  2017-04-22 11:12:59 +0000      397 bytes  src/core/Uniform.js</tspan>
+<tspan x="10" y="5946">357.  2017-04-22 11:12:59 +0000      846 bytes  src/extras/SceneUtils.js</tspan>
+<tspan x="10" y="5962">358.  2017-04-22 11:12:59 +0000    17123 bytes  src/extras/ShapeUtils.js</tspan>
+<tspan x="10" y="5978">359.  2017-04-22 11:12:59 +0000     7626 bytes  src/extras/core/Curve.js</tspan>
+<tspan x="10" y="5994">360.  2017-04-22 11:12:59 +0000     4952 bytes  src/extras/core/CurvePath.js</tspan>
+<tspan x="10" y="6010">361.  2017-04-22 11:12:59 +0000     3545 bytes  src/extras/core/Font.js</tspan>
+<tspan x="10" y="6026">362.  2017-04-22 11:12:59 +0000     1260 bytes  src/extras/core/Interpolations.js</tspan>
+<tspan x="10" y="6042">363.  2017-04-22 11:12:59 +0000      499 bytes  src/extras/core/Path.js</tspan>
+<tspan x="10" y="6058">364.  2017-04-22 11:12:59 +0000     3021 bytes  src/extras/core/PathPrototype.js</tspan>
+<tspan x="10" y="6074">365.  2017-04-22 11:12:59 +0000     1123 bytes  src/extras/core/Shape.js</tspan>
+<tspan x="10" y="6090">366.  2017-04-22 11:12:59 +0000     6031 bytes  src/extras/core/ShapePath.js</tspan>
+<tspan x="10" y="6106">367.  2017-04-22 11:12:59 +0000      347 bytes  src/extras/curves/ArcCurve.js</tspan>
+<tspan x="10" y="6122">368.  2017-04-22 11:12:59 +0000     4402 bytes  src/extras/curves/CatmullRomCurve3.js</tspan>
+<tspan x="10" y="6138">369.  2017-04-22 11:12:59 +0000      662 bytes  src/extras/curves/CubicBezierCurve.js</tspan>
+<tspan x="10" y="6154">370.  2017-04-22 11:12:59 +0000      712 bytes  src/extras/curves/CubicBezierCurve3.js</tspan>
+<tspan x="10" y="6170">371.  2017-04-22 11:12:59 +0000     1720 bytes  src/extras/curves/EllipseCurve.js</tspan>
+<tspan x="10" y="6186">372.  2017-04-22 11:12:59 +0000      785 bytes  src/extras/curves/LineCurve.js</tspan>
+<tspan x="10" y="6202">373.  2017-04-22 11:12:59 +0000      558 bytes  src/extras/curves/LineCurve3.js</tspan>
+<tspan x="10" y="6218">374.  2017-04-22 11:12:59 +0000      653 bytes  src/extras/curves/QuadraticBezierCurve.js</tspan>
+<tspan x="10" y="6234">375.  2017-04-22 11:12:59 +0000      701 bytes  src/extras/curves/QuadraticBezierCurve3.js</tspan>
+<tspan x="10" y="6250">376.  2017-04-22 11:12:59 +0000     1080 bytes  src/extras/curves/SplineCurve.js</tspan>
+<tspan x="10" y="6266">377.  2017-04-22 11:12:59 +0000      496 bytes  src/extras/objects/ImmediateRenderObject.js</tspan>
+<tspan x="10" y="6282">378.  2017-04-22 11:12:59 +0000     6295 bytes  src/extras/objects/MorphBlendMesh.js</tspan>
+<tspan x="10" y="6298">379.  2017-04-22 11:12:59 +0000     4954 bytes  src/geometries/BoxGeometry.js</tspan>
+<tspan x="10" y="6314">380.  2017-04-22 11:12:59 +0000     2667 bytes  src/geometries/CircleGeometry.js</tspan>
+<tspan x="10" y="6330">381.  2017-04-22 11:12:59 +0000     1493 bytes  src/geometries/ConeGeometry.js</tspan>
+<tspan x="10" y="6346">382.  2017-04-22 11:12:59 +0000     6747 bytes  src/geometries/CylinderGeometry.js</tspan>
+<tspan x="10" y="6362">383.  2017-04-22 11:12:59 +0000     2218 bytes  src/geometries/DodecahedronGeometry.js</tspan>
+<tspan x="10" y="6378">384.  2017-04-22 11:12:59 +0000     2475 bytes  src/geometries/EdgesGeometry.js</tspan>
+<tspan x="10" y="6394">385.  2017-04-22 11:12:59 +0000    18363 bytes  src/geometries/ExtrudeGeometry.js</tspan>
+<tspan x="10" y="6410">386.  2017-04-22 11:12:59 +0000     1689 bytes  src/geometries/Geometries.js</tspan>
+<tspan x="10" y="6426">387.  2017-04-22 11:12:59 +0000     1706 bytes  src/geometries/IcosahedronGeometry.js</tspan>
+<tspan x="10" y="6442">388.  2017-04-22 11:12:59 +0000     4013 bytes  src/geometries/LatheGeometry.js</tspan>
+<tspan x="10" y="6458">389.  2017-04-22 11:12:59 +0000     1363 bytes  src/geometries/OctahedronGeometry.js</tspan>
+<tspan x="10" y="6474">390.  2017-04-22 11:12:59 +0000     3061 bytes  src/geometries/ParametricGeometry.js</tspan>
+<tspan x="10" y="6490">391.  2017-04-22 11:12:59 +0000     2703 bytes  src/geometries/PlaneGeometry.js</tspan>
+<tspan x="10" y="6506">392.  2017-04-22 11:12:59 +0000     6875 bytes  src/geometries/PolyhedronGeometry.js</tspan>
+<tspan x="10" y="6522">393.  2017-04-22 11:12:59 +0000     3537 bytes  src/geometries/RingGeometry.js</tspan>
+<tspan x="10" y="6538">394.  2017-04-22 11:12:59 +0000     3583 bytes  src/geometries/ShapeGeometry.js</tspan>
+<tspan x="10" y="6554">395.  2017-04-22 11:12:59 +0000     3763 bytes  src/geometries/SphereGeometry.js</tspan>
+<tspan x="10" y="6570">396.  2017-04-22 11:12:59 +0000     1323 bytes  src/geometries/TetrahedronGeometry.js</tspan>
+<tspan x="10" y="6586">397.  2017-04-22 11:12:59 +0000     2061 bytes  src/geometries/TextGeometry.js</tspan>
+<tspan x="10" y="6602">398.  2017-04-22 11:12:59 +0000     3306 bytes  src/geometries/TorusGeometry.js</tspan>
+<tspan x="10" y="6618">399.  2017-04-22 11:12:59 +0000     5001 bytes  src/geometries/TorusKnotGeometry.js</tspan>
+<tspan x="10" y="6634">400.  2017-04-22 11:12:59 +0000     4939 bytes  src/geometries/TubeGeometry.js</tspan>
+<tspan x="10" y="6650">401.  2017-04-22 11:12:59 +0000     3808 bytes  src/geometries/WireframeGeometry.js</tspan>
+<tspan x="10" y="6666">402.  2017-04-22 11:12:59 +0000     3098 bytes  src/helpers/ArrowHelper.js</tspan>
+<tspan x="10" y="6682">403.  2017-04-22 11:12:59 +0000     1080 bytes  src/helpers/AxisHelper.js</tspan>
+<tspan x="10" y="6698">404.  2017-04-22 11:12:59 +0000     2516 bytes  src/helpers/BoxHelper.js</tspan>
+<tspan x="10" y="6714">405.  2017-04-22 11:12:59 +0000     4685 bytes  src/helpers/CameraHelper.js</tspan>
+<tspan x="10" y="6730">406.  2017-04-22 11:12:59 +0000     2251 bytes  src/helpers/DirectionalLightHelper.js</tspan>
+<tspan x="10" y="6746">407.  2017-04-22 11:12:59 +0000     2567 bytes  src/helpers/FaceNormalsHelper.js</tspan>
+<tspan x="10" y="6762">408.  2017-04-22 11:12:59 +0000     1585 bytes  src/helpers/GridHelper.js</tspan>
+<tspan x="10" y="6778">409.  2017-04-22 11:12:59 +0000     2202 bytes  src/helpers/HemisphereLightHelper.js</tspan>
+<tspan x="10" y="6794">410.  2017-04-22 11:12:59 +0000     1843 bytes  src/helpers/PointLightHelper.js</tspan>
+<tspan x="10" y="6810">411.  2017-04-22 11:12:59 +0000     2292 bytes  src/helpers/PolarGridHelper.js</tspan>
+<tspan x="10" y="6826">412.  2017-04-22 11:12:59 +0000     2922 bytes  src/helpers/RectAreaLightHelper.js</tspan>
+<tspan x="10" y="6842">413.  2017-04-22 11:12:59 +0000     3004 bytes  src/helpers/SkeletonHelper.js</tspan>
+<tspan x="10" y="6858">414.  2017-04-22 11:12:59 +0000     2208 bytes  src/helpers/SpotLightHelper.js</tspan>
+<tspan x="10" y="6874">415.  2017-04-22 11:12:59 +0000     3367 bytes  src/helpers/VertexNormalsHelper.js</tspan>
+<tspan x="10" y="6890">416.  2017-04-22 11:12:59 +0000      392 bytes  src/lights/AmbientLight.js</tspan>
+<tspan x="10" y="6906">417.  2017-04-22 11:12:59 +0000      866 bytes  src/lights/DirectionalLight.js</tspan>
+<tspan x="10" y="6922">418.  2017-04-22 11:12:59 +0000      456 bytes  src/lights/DirectionalLightShadow.js</tspan>
+<tspan x="10" y="6938">419.  2017-04-22 11:12:59 +0000      780 bytes  src/lights/HemisphereLight.js</tspan>
+<tspan x="10" y="6954">420.  2017-04-22 11:12:59 +0000     1360 bytes  src/lights/Light.js</tspan>
+<tspan x="10" y="6970">421.  2017-04-22 11:12:59 +0000     1017 bytes  src/lights/LightShadow.js</tspan>
+<tspan x="10" y="6986">422.  2017-04-22 11:12:59 +0000     1436 bytes  src/lights/PointLight.js</tspan>
+<tspan x="10" y="7002">423.  2017-04-22 11:12:59 +0000     1129 bytes  src/lights/RectAreaLight.js</tspan>
+<tspan x="10" y="7018">424.  2017-04-22 11:12:59 +0000     1714 bytes  src/lights/SpotLight.js</tspan>
+<tspan x="10" y="7034">425.  2017-04-22 11:12:59 +0000      882 bytes  src/lights/SpotLightShadow.js</tspan>
+<tspan x="10" y="7050">426.  2017-04-22 11:12:59 +0000      900 bytes  src/loaders/AnimationLoader.js</tspan>
+<tspan x="10" y="7066">427.  2017-04-22 11:12:59 +0000      779 bytes  src/loaders/AudioLoader.js</tspan>
+<tspan x="10" y="7082">428.  2017-04-22 11:12:59 +0000     2296 bytes  src/loaders/BufferGeometryLoader.js</tspan>
+<tspan x="10" y="7098">429.  2017-04-22 11:12:59 +0000      549 bytes  src/loaders/Cache.js</tspan>
+<tspan x="10" y="7114">430.  2017-04-22 11:12:59 +0000     2716 bytes  src/loaders/CompressedTextureLoader.js</tspan>
+<tspan x="10" y="7130">431.  2017-04-22 11:12:59 +0000     1179 bytes  src/loaders/CubeTextureLoader.js</tspan>
+<tspan x="10" y="7146">432.  2017-04-22 11:12:59 +0000     2141 bytes  src/loaders/DataTextureLoader.js</tspan>
+<tspan x="10" y="7162">433.  2017-04-22 11:12:59 +0000     4451 bytes  src/loaders/FileLoader.js</tspan>
+<tspan x="10" y="7178">434.  2017-04-22 11:12:59 +0000      965 bytes  src/loaders/FontLoader.js</tspan>
+<tspan x="10" y="7194">435.  2017-04-22 11:12:59 +0000     1656 bytes  src/loaders/ImageLoader.js</tspan>
+<tspan x="10" y="7210">436.  2017-04-22 11:12:59 +0000    12297 bytes  src/loaders/JSONLoader.js</tspan>
+<tspan x="10" y="7226">437.  2017-04-22 11:12:59 +0000     8567 bytes  src/loaders/Loader.js</tspan>
+<tspan x="10" y="7242">438.  2017-04-22 11:12:59 +0000     1024 bytes  src/loaders/LoadingManager.js</tspan>
+<tspan x="10" y="7258">439.  2017-04-22 11:12:59 +0000     6021 bytes  src/loaders/MaterialLoader.js</tspan>
+<tspan x="10" y="7274">440.  2017-04-22 11:12:59 +0000    17692 bytes  src/loaders/ObjectLoader.js</tspan>
+<tspan x="10" y="7290">441.  2017-04-22 11:12:59 +0000     1258 bytes  src/loaders/TextureLoader.js</tspan>
+<tspan x="10" y="7306">442.  2017-04-22 11:12:59 +0000     1065 bytes  src/materials/LineBasicMaterial.js</tspan>
+<tspan x="10" y="7322">443.  2017-04-22 11:12:59 +0000     1093 bytes  src/materials/LineDashedMaterial.js</tspan>
+<tspan x="10" y="7338">444.  2017-04-22 11:12:59 +0000     8745 bytes  src/materials/Material.js</tspan>
+<tspan x="10" y="7354">445.  2017-04-22 11:12:59 +0000      936 bytes  src/materials/Materials.js</tspan>
+<tspan x="10" y="7370">446.  2017-04-22 11:12:59 +0000     2675 bytes  src/materials/MeshBasicMaterial.js</tspan>
+<tspan x="10" y="7386">447.  2017-04-22 11:12:59 +0000     1824 bytes  src/materials/MeshDepthMaterial.js</tspan>
+<tspan x="10" y="7402">448.  2017-04-22 11:12:59 +0000     3017 bytes  src/materials/MeshLambertMaterial.js</tspan>
+<tspan x="10" y="7418">449.  2017-04-22 11:12:59 +0000     2026 bytes  src/materials/MeshNormalMaterial.js</tspan>
+<tspan x="10" y="7434">450.  2017-04-22 11:12:59 +0000     3989 bytes  src/materials/MeshPhongMaterial.js</tspan>
+<tspan x="10" y="7450">451.  2017-04-22 11:12:59 +0000     1036 bytes  src/materials/MeshPhysicalMaterial.js</tspan>
+<tspan x="10" y="7466">452.  2017-04-22 11:12:59 +0000     4039 bytes  src/materials/MeshStandardMaterial.js</tspan>
+<tspan x="10" y="7482">453.  2017-04-22 11:12:59 +0000      790 bytes  src/materials/MeshToonMaterial.js</tspan>
+<tspan x="10" y="7498">454.  2017-04-22 11:12:59 +0000     1046 bytes  src/materials/PointsMaterial.js</tspan>
+<tspan x="10" y="7514">455.  2017-04-22 11:12:59 +0000      448 bytes  src/materials/RawShaderMaterial.js</tspan>
+<tspan x="10" y="7530">456.  2017-04-22 11:12:59 +0000     3143 bytes  src/materials/ShaderMaterial.js</tspan>
+<tspan x="10" y="7546">457.  2017-04-22 11:12:59 +0000     1127 bytes  src/materials/ShadowMaterial.js</tspan>
+<tspan x="10" y="7562">458.  2017-04-22 11:12:59 +0000      976 bytes  src/materials/SpriteMaterial.js</tspan>
+<tspan x="10" y="7578">459.  2017-04-22 11:12:59 +0000     3905 bytes  src/math/Box2.js</tspan>
+<tspan x="10" y="7594">460.  2017-04-22 11:12:59 +0000     9772 bytes  src/math/Box3.js</tspan>
+<tspan x="10" y="7610">461.  2017-04-22 11:12:59 +0000    11844 bytes  src/math/Color.js</tspan>
+<tspan x="10" y="7626">462.  2017-04-22 11:12:59 +0000     1097 bytes  src/math/Cylindrical.js</tspan>
+<tspan x="10" y="7642">463.  2017-04-22 11:12:59 +0000     5529 bytes  src/math/Euler.js</tspan>
+<tspan x="10" y="7658">464.  2017-04-22 11:12:59 +0000     4012 bytes  src/math/Frustum.js</tspan>
+<tspan x="10" y="7674">465.  2017-04-22 11:12:59 +0000     4784 bytes  src/math/Interpolant.js</tspan>
+<tspan x="10" y="7690">466.  2017-04-22 11:12:59 +0000     2272 bytes  src/math/Line3.js</tspan>
+<tspan x="10" y="7706">467.  2017-04-22 11:12:59 +0000     2819 bytes  src/math/Math.js</tspan>
+<tspan x="10" y="7722">468.  2017-04-22 11:12:59 +0000     5976 bytes  src/math/Matrix3.js</tspan>
+<tspan x="10" y="7738">469.  2017-04-22 11:12:59 +0000    20098 bytes  src/math/Matrix4.js</tspan>
+<tspan x="10" y="7754">470.  2017-04-22 11:12:59 +0000     4641 bytes  src/math/Plane.js</tspan>
+<tspan x="10" y="7770">471.  2017-04-22 11:12:59 +0000    11211 bytes  src/math/Quaternion.js</tspan>
+<tspan x="10" y="7786">472.  2017-04-22 11:12:59 +0000    11004 bytes  src/math/Ray.js</tspan>
+<tspan x="10" y="7802">473.  2017-04-22 11:12:59 +0000     3102 bytes  src/math/Sphere.js</tspan>
+<tspan x="10" y="7818">474.  2017-04-22 11:12:59 +0000     1521 bytes  src/math/Spherical.js</tspan>
+<tspan x="10" y="7834">475.  2017-04-22 11:12:59 +0000     5232 bytes  src/math/Triangle.js</tspan>
+<tspan x="10" y="7850">476.  2017-04-22 11:12:59 +0000     6626 bytes  src/math/Vector2.js</tspan>
+<tspan x="10" y="7866">477.  2017-04-22 11:12:59 +0000    12379 bytes  src/math/Vector3.js</tspan>
+<tspan x="10" y="7882">478.  2017-04-22 11:12:59 +0000    10895 bytes  src/math/Vector4.js</tspan>
+<tspan x="10" y="7898">479.  2017-04-22 11:12:59 +0000     3194 bytes  src/math/interpolants/CubicInterpolant.js</tspan>
+<tspan x="10" y="7914">480.  2017-04-22 11:12:59 +0000      615 bytes  src/math/interpolants/DiscreteInterpolant.js</tspan>
+<tspan x="10" y="7930">481.  2017-04-22 11:12:59 +0000      842 bytes  src/math/interpolants/LinearInterpolant.js</tspan>
+<tspan x="10" y="7946">482.  2017-04-22 11:12:59 +0000      940 bytes  src/math/interpolants/QuaternionLinearInterpolan\</tspan>
+<tspan x="10" y="7962">t.js</tspan>
+<tspan x="10" y="7978">483.  2017-04-22 11:12:59 +0000      386 bytes  src/objects/Bone.js</tspan>
+<tspan x="10" y="7994">484.  2017-04-22 11:12:59 +0000      284 bytes  src/objects/Group.js</tspan>
+<tspan x="10" y="8010">485.  2017-04-22 11:12:59 +0000     2785 bytes  src/objects/LOD.js</tspan>
+<tspan x="10" y="8026">486.  2017-04-22 11:12:59 +0000     2561 bytes  src/objects/LensFlare.js</tspan>
+<tspan x="10" y="8042">487.  2017-04-22 11:12:59 +0000     5046 bytes  src/objects/Line.js</tspan>
+<tspan x="10" y="8058">488.  2017-04-22 11:12:59 +0000      346 bytes  src/objects/LineLoop.js</tspan>
+<tspan x="10" y="8074">489.  2017-04-22 11:12:59 +0000      361 bytes  src/objects/LineSegments.js</tspan>
+<tspan x="10" y="8090">490.  2017-04-22 11:12:59 +0000     8052 bytes  src/objects/Mesh.js</tspan>
+<tspan x="10" y="8106">491.  2017-04-22 11:12:59 +0000     3225 bytes  src/objects/Points.js</tspan>
+<tspan x="10" y="8122">492.  2017-04-22 11:12:59 +0000     2831 bytes  src/objects/Skeleton.js</tspan>
+<tspan x="10" y="8138">493.  2017-04-22 11:12:59 +0000     3995 bytes  src/objects/SkinnedMesh.js</tspan>
+<tspan x="10" y="8154">494.  2017-04-22 11:12:59 +0000     1444 bytes  src/objects/Sprite.js</tspan>
+<tspan x="10" y="8170">495.  2017-04-22 11:12:59 +0000     1729 bytes  src/polyfills.js</tspan>
+<tspan x="10" y="8186">496.  2017-04-22 11:12:59 +0000     4068 bytes  src/renderers/WebGL2Renderer.js</tspan>
+<tspan x="10" y="8202">497.  2017-04-22 11:12:59 +0000     2281 bytes  src/renderers/WebGLRenderTarget.js</tspan>
+<tspan x="10" y="8218">498.  2017-04-22 11:12:59 +0000      579 bytes  src/renderers/WebGLRenderTargetCube.js</tspan>
+<tspan x="10" y="8234">499.  2017-04-22 11:12:59 +0000    70541 bytes  src/renderers/WebGLRenderer.js</tspan>
+<tspan x="10" y="8250">500.  2017-04-22 11:12:59 +0000    12238 bytes  src/renderers/shaders/ShaderChunk.js</tspan>
+<tspan x="10" y="8266">501.  2017-04-22 11:12:59 +0000       78 bytes  src/renderers/shaders/ShaderChunk/alphamap_fragm\</tspan>
+<tspan x="10" y="8282">ent.glsl</tspan>
+<tspan x="10" y="8298">502.  2017-04-22 11:12:59 +0000       58 bytes  src/renderers/shaders/ShaderChunk/alphamap_pars_\</tspan>
+<tspan x="10" y="8314">fragment.glsl</tspan>
+<tspan x="10" y="8330">503.  2017-04-22 11:12:59 +0000       70 bytes  src/renderers/shaders/ShaderChunk/alphatest_frag\</tspan>
+<tspan x="10" y="8346">ment.glsl</tspan>
+<tspan x="10" y="8362">504.  2017-04-22 11:12:59 +0000      506 bytes  src/renderers/shaders/ShaderChunk/aomap_fragment\</tspan>
+<tspan x="10" y="8378">.glsl</tspan>
+<tspan x="10" y="8394">505.  2017-04-22 11:12:59 +0000       82 bytes  src/renderers/shaders/ShaderChunk/aomap_pars_fra\</tspan>
+<tspan x="10" y="8410">gment.glsl</tspan>
+<tspan x="10" y="8426">506.  2017-04-22 11:12:59 +0000       38 bytes  src/renderers/shaders/ShaderChunk/begin_vertex.g\</tspan>
+<tspan x="10" y="8442">lsl</tspan>
+<tspan x="10" y="8458">507.  2017-04-22 11:12:59 +0000       37 bytes  src/renderers/shaders/ShaderChunk/beginnormal_ve\</tspan>
+<tspan x="10" y="8474">rtex.glsl</tspan>
+<tspan x="10" y="8490">508.  2017-04-22 11:12:59 +0000    16067 bytes  src/renderers/shaders/ShaderChunk/bsdfs.glsl</tspan>
+<tspan x="10" y="8506">509.  2017-04-22 11:12:59 +0000     1041 bytes  src/renderers/shaders/ShaderChunk/bumpmap_pars_f\</tspan>
+<tspan x="10" y="8522">ragment.glsl</tspan>
+<tspan x="10" y="8538">510.  2017-04-22 11:12:59 +0000      490 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
+<tspan x="10" y="8554">s_fragment.glsl</tspan>
+<tspan x="10" y="8570">511.  2017-04-22 11:12:59 +0000      178 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
+<tspan x="10" y="8586">s_pars_fragment.glsl</tspan>
+<tspan x="10" y="8602">512.  2017-04-22 11:12:59 +0000      111 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
+<tspan x="10" y="8618">s_pars_vertex.glsl</tspan>
+<tspan x="10" y="8634">513.  2017-04-22 11:12:59 +0000      118 bytes  src/renderers/shaders/ShaderChunk/clipping_plane\</tspan>
+<tspan x="10" y="8650">s_vertex.glsl</tspan>
+<tspan x="10" y="8666">514.  2017-04-22 11:12:59 +0000       54 bytes  src/renderers/shaders/ShaderChunk/color_fragment\</tspan>
+<tspan x="10" y="8682">.glsl</tspan>
+<tspan x="10" y="8698">515.  2017-04-22 11:12:59 +0000       48 bytes  src/renderers/shaders/ShaderChunk/color_pars_fra\</tspan>
+<tspan x="10" y="8714">gment.glsl</tspan>
+<tspan x="10" y="8730">516.  2017-04-22 11:12:59 +0000       47 bytes  src/renderers/shaders/ShaderChunk/color_pars_ver\</tspan>
+<tspan x="10" y="8746">tex.glsl</tspan>
+<tspan x="10" y="8762">517.  2017-04-22 11:12:59 +0000       50 bytes  src/renderers/shaders/ShaderChunk/color_vertex.g\</tspan>
+<tspan x="10" y="8778">lsl</tspan>
+<tspan x="10" y="8794">518.  2017-04-22 11:12:59 +0000     2300 bytes  src/renderers/shaders/ShaderChunk/common.glsl</tspan>
+<tspan x="10" y="8810">519.  2017-04-22 11:12:59 +0000     4325 bytes  src/renderers/shaders/ShaderChunk/cube_uv_reflec\</tspan>
+<tspan x="10" y="8826">tion_fragment.glsl</tspan>
+<tspan x="10" y="8842">520.  2017-04-22 11:12:59 +0000      113 bytes  src/renderers/shaders/ShaderChunk/defaultnormal_\</tspan>
+<tspan x="10" y="8858">vertex.glsl</tspan>
+<tspan x="10" y="8874">521.  2017-04-22 11:12:59 +0000      139 bytes  src/renderers/shaders/ShaderChunk/displacementma\</tspan>
+<tspan x="10" y="8890">p_pars_vertex.glsl</tspan>
+<tspan x="10" y="8906">522.  2017-04-22 11:12:59 +0000      140 bytes  src/renderers/shaders/ShaderChunk/displacementma\</tspan>
+<tspan x="10" y="8922">p_vertex.glsl</tspan>
+<tspan x="10" y="8938">523.  2017-04-22 11:12:59 +0000       86 bytes  src/renderers/shaders/ShaderChunk/dithering_frag\</tspan>
+<tspan x="10" y="8954">ment.glsl</tspan>
+<tspan x="10" y="8970">524.  2017-04-22 11:12:59 +0000      585 bytes  src/renderers/shaders/ShaderChunk/dithering_pars\</tspan>
+<tspan x="10" y="8986">_fragment.glsl</tspan>
+<tspan x="10" y="9002">525.  2017-04-22 11:12:59 +0000      200 bytes  src/renderers/shaders/ShaderChunk/emissivemap_fr\</tspan>
 <tspan x="10" y="9018">agment.glsl</tspan>
-<tspan x="10" y="9034">523.  2017-04-17 21:40:43 +0000      210 bytes  src/renderers/shaders/ShaderChunk/envmap_pars_ve\</tspan>
-<tspan x="10" y="9050">rtex.glsl</tspan>
-<tspan x="10" y="9066">524.  2017-04-17 21:40:43 +0000      494 bytes  src/renderers/shaders/ShaderChunk/envmap_vertex.\</tspan>
-<tspan x="10" y="9082">glsl</tspan>
-<tspan x="10" y="9098">525.  2017-04-17 21:40:43 +0000      291 bytes  src/renderers/shaders/ShaderChunk/fog_fragment.g\</tspan>
-<tspan x="10" y="9114">lsl</tspan>
-<tspan x="10" y="9130">526.  2017-04-17 21:40:43 +0000      187 bytes  src/renderers/shaders/ShaderChunk/fog_pars_fragm\</tspan>
-<tspan x="10" y="9146">ent.glsl</tspan>
-<tspan x="10" y="9162">527.  2017-04-17 21:40:43 +0000       50 bytes  src/renderers/shaders/ShaderChunk/fog_pars_verte\</tspan>
-<tspan x="10" y="9178">x.glsl</tspan>
-<tspan x="10" y="9194">528.  2017-04-17 21:40:43 +0000       48 bytes  src/renderers/shaders/ShaderChunk/fog_vertex.gls\</tspan>
-<tspan x="10" y="9210">l</tspan>
-<tspan x="10" y="9226">529.  2017-04-17 21:40:43 +0000      407 bytes  src/renderers/shaders/ShaderChunk/gradientmap_pa\</tspan>
-<tspan x="10" y="9242">rs_fragment.glsl</tspan>
-<tspan x="10" y="9258">530.  2017-04-17 21:40:43 +0000      195 bytes  src/renderers/shaders/ShaderChunk/lightmap_fragm\</tspan>
-<tspan x="10" y="9274">ent.glsl</tspan>
-<tspan x="10" y="9290">531.  2017-04-17 21:40:43 +0000       91 bytes  src/renderers/shaders/ShaderChunk/lightmap_pars_\</tspan>
-<tspan x="10" y="9306">fragment.glsl</tspan>
-<tspan x="10" y="9322">532.  2017-04-17 21:40:43 +0000     2245 bytes  src/renderers/shaders/ShaderChunk/lights_lambert\</tspan>
-<tspan x="10" y="9338">_vertex.glsl</tspan>
-<tspan x="10" y="9354">533.  2017-04-17 21:40:43 +0000     7838 bytes  src/renderers/shaders/ShaderChunk/lights_pars.gl\</tspan>
-<tspan x="10" y="9370">sl</tspan>
-<tspan x="10" y="9386">534.  2017-04-17 21:40:43 +0000      192 bytes  src/renderers/shaders/ShaderChunk/lights_phong_f\</tspan>
-<tspan x="10" y="9402">ragment.glsl</tspan>
-<tspan x="10" y="9418">535.  2017-04-17 21:40:43 +0000     2507 bytes  src/renderers/shaders/ShaderChunk/lights_phong_p\</tspan>
-<tspan x="10" y="9434">ars_fragment.glsl</tspan>
-<tspan x="10" y="9450">536.  2017-04-17 21:40:43 +0000      569 bytes  src/renderers/shaders/ShaderChunk/lights_physica\</tspan>
-<tspan x="10" y="9466">l_fragment.glsl</tspan>
-<tspan x="10" y="9482">537.  2017-04-17 21:40:43 +0000     4396 bytes  src/renderers/shaders/ShaderChunk/lights_physica\</tspan>
-<tspan x="10" y="9498">l_pars_fragment.glsl</tspan>
-<tspan x="10" y="9514">538.  2017-04-17 21:40:43 +0000     4241 bytes  src/renderers/shaders/ShaderChunk/lights_templat\</tspan>
-<tspan x="10" y="9530">e.glsl</tspan>
-<tspan x="10" y="9546">539.  2017-04-17 21:40:43 +0000      128 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_fr\</tspan>
-<tspan x="10" y="9562">agment.glsl</tspan>
-<tspan x="10" y="9578">540.  2017-04-17 21:40:43 +0000      129 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_pa\</tspan>
-<tspan x="10" y="9594">rs_fragment.glsl</tspan>
-<tspan x="10" y="9610">541.  2017-04-17 21:40:43 +0000      128 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_pa\</tspan>
-<tspan x="10" y="9626">rs_vertex.glsl</tspan>
-<tspan x="10" y="9642">542.  2017-04-17 21:40:43 +0000      249 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_ve\</tspan>
-<tspan x="10" y="9658">rtex.glsl</tspan>
-<tspan x="10" y="9674">543.  2017-04-17 21:40:43 +0000      142 bytes  src/renderers/shaders/ShaderChunk/map_fragment.g\</tspan>
-<tspan x="10" y="9690">lsl</tspan>
-<tspan x="10" y="9706">544.  2017-04-17 21:40:43 +0000       48 bytes  src/renderers/shaders/ShaderChunk/map_pars_fragm\</tspan>
-<tspan x="10" y="9722">ent.glsl</tspan>
-<tspan x="10" y="9738">545.  2017-04-17 21:40:43 +0000      190 bytes  src/renderers/shaders/ShaderChunk/map_particle_f\</tspan>
-<tspan x="10" y="9754">ragment.glsl</tspan>
-<tspan x="10" y="9770">546.  2017-04-17 21:40:43 +0000       76 bytes  src/renderers/shaders/ShaderChunk/map_particle_p\</tspan>
-<tspan x="10" y="9786">ars_fragment.glsl</tspan>
-<tspan x="10" y="9802">547.  2017-04-17 21:40:43 +0000      162 bytes  src/renderers/shaders/ShaderChunk/metalnessmap_f\</tspan>
-<tspan x="10" y="9818">ragment.glsl</tspan>
-<tspan x="10" y="9834">548.  2017-04-17 21:40:43 +0000       65 bytes  src/renderers/shaders/ShaderChunk/metalnessmap_p\</tspan>
-<tspan x="10" y="9850">ars_fragment.glsl</tspan>
-<tspan x="10" y="9866">549.  2017-04-17 21:40:43 +0000      325 bytes  src/renderers/shaders/ShaderChunk/morphnormal_ve\</tspan>
-<tspan x="10" y="9882">rtex.glsl</tspan>
-<tspan x="10" y="9898">550.  2017-04-17 21:40:43 +0000      163 bytes  src/renderers/shaders/ShaderChunk/morphtarget_pa\</tspan>
-<tspan x="10" y="9914">rs_vertex.glsl</tspan>
-<tspan x="10" y="9930">551.  2017-04-17 21:40:43 +0000      662 bytes  src/renderers/shaders/ShaderChunk/morphtarget_ve\</tspan>
-<tspan x="10" y="9946">rtex.glsl</tspan>
-<tspan x="10" y="9962">552.  2017-04-17 21:40:43 +0000      119 bytes  src/renderers/shaders/ShaderChunk/normal_flip.gl\</tspan>
-<tspan x="10" y="9978">sl</tspan>
-<tspan x="10" y="9994">553.  2017-04-17 21:40:43 +0000      587 bytes  src/renderers/shaders/ShaderChunk/normal_fragmen\</tspan>
-<tspan x="10" y="10010">t.glsl</tspan>
-<tspan x="10" y="10026">554.  2017-04-17 21:40:43 +0000      700 bytes  src/renderers/shaders/ShaderChunk/normalmap_pars\</tspan>
-<tspan x="10" y="10042">_fragment.glsl</tspan>
-<tspan x="10" y="10058">555.  2017-04-17 21:40:43 +0000     1449 bytes  src/renderers/shaders/ShaderChunk/packing.glsl</tspan>
-<tspan x="10" y="10074">556.  2017-04-17 21:40:43 +0000      193 bytes  src/renderers/shaders/ShaderChunk/premultiplied_\</tspan>
-<tspan x="10" y="10090">alpha_fragment.glsl</tspan>
-<tspan x="10" y="10106">557.  2017-04-17 21:40:43 +0000      192 bytes  src/renderers/shaders/ShaderChunk/project_vertex\</tspan>
-<tspan x="10" y="10122">.glsl</tspan>
-<tspan x="10" y="10138">558.  2017-04-17 21:40:43 +0000      162 bytes  src/renderers/shaders/ShaderChunk/roughnessmap_f\</tspan>
-<tspan x="10" y="10154">ragment.glsl</tspan>
-<tspan x="10" y="10170">559.  2017-04-17 21:40:43 +0000       65 bytes  src/renderers/shaders/ShaderChunk/roughnessmap_p\</tspan>
-<tspan x="10" y="10186">ars_fragment.glsl</tspan>
-<tspan x="10" y="10202">560.  2017-04-17 21:40:43 +0000     7712 bytes  src/renderers/shaders/ShaderChunk/shadowmap_pars\</tspan>
-<tspan x="10" y="10218">_fragment.glsl</tspan>
-<tspan x="10" y="10234">561.  2017-04-17 21:40:43 +0000      570 bytes  src/renderers/shaders/ShaderChunk/shadowmap_pars\</tspan>
-<tspan x="10" y="10250">_vertex.glsl</tspan>
-<tspan x="10" y="10266">562.  2017-04-17 21:40:43 +0000      625 bytes  src/renderers/shaders/ShaderChunk/shadowmap_vert\</tspan>
-<tspan x="10" y="10282">ex.glsl</tspan>
-<tspan x="10" y="10298">563.  2017-04-17 21:40:43 +0000     1230 bytes  src/renderers/shaders/ShaderChunk/shadowmask_par\</tspan>
-<tspan x="10" y="10314">s_fragment.glsl</tspan>
-<tspan x="10" y="10330">564.  2017-04-17 21:40:43 +0000      216 bytes  src/renderers/shaders/ShaderChunk/skinbase_verte\</tspan>
-<tspan x="10" y="10346">x.glsl</tspan>
-<tspan x="10" y="10362">565.  2017-04-17 21:40:43 +0000     1001 bytes  src/renderers/shaders/ShaderChunk/skinning_pars_\</tspan>
-<tspan x="10" y="10378">vertex.glsl</tspan>
-<tspan x="10" y="10394">566.  2017-04-17 21:40:43 +0000      358 bytes  src/renderers/shaders/ShaderChunk/skinning_verte\</tspan>
-<tspan x="10" y="10410">x.glsl</tspan>
-<tspan x="10" y="10426">567.  2017-04-17 21:40:43 +0000      350 bytes  src/renderers/shaders/ShaderChunk/skinnormal_ver\</tspan>
-<tspan x="10" y="10442">tex.glsl</tspan>
-<tspan x="10" y="10458">568.  2017-04-17 21:40:43 +0000      179 bytes  src/renderers/shaders/ShaderChunk/specularmap_fr\</tspan>
-<tspan x="10" y="10474">agment.glsl</tspan>
-<tspan x="10" y="10490">569.  2017-04-17 21:40:43 +0000       63 bytes  src/renderers/shaders/ShaderChunk/specularmap_pa\</tspan>
-<tspan x="10" y="10506">rs_fragment.glsl</tspan>
-<tspan x="10" y="10522">570.  2017-04-17 21:40:43 +0000       91 bytes  src/renderers/shaders/ShaderChunk/tonemapping_fr\</tspan>
-<tspan x="10" y="10538">agment.glsl</tspan>
-<tspan x="10" y="10554">571.  2017-04-17 21:40:43 +0000     1189 bytes  src/renderers/shaders/ShaderChunk/tonemapping_pa\</tspan>
-<tspan x="10" y="10570">rs_fragment.glsl</tspan>
-<tspan x="10" y="10586">572.  2017-04-17 21:40:43 +0000       80 bytes  src/renderers/shaders/ShaderChunk/uv2_pars_fragm\</tspan>
-<tspan x="10" y="10602">ent.glsl</tspan>
-<tspan x="10" y="10618">573.  2017-04-17 21:40:43 +0000      101 bytes  src/renderers/shaders/ShaderChunk/uv2_pars_verte\</tspan>
-<tspan x="10" y="10634">x.glsl</tspan>
-<tspan x="10" y="10650">574.  2017-04-17 21:40:43 +0000       73 bytes  src/renderers/shaders/ShaderChunk/uv2_vertex.gls\</tspan>
-<tspan x="10" y="10666">l</tspan>
-<tspan x="10" y="10682">575.  2017-04-17 21:40:43 +0000      253 bytes  src/renderers/shaders/ShaderChunk/uv_pars_fragme\</tspan>
-<tspan x="10" y="10698">nt.glsl</tspan>
-<tspan x="10" y="10714">576.  2017-04-17 21:40:43 +0000      282 bytes  src/renderers/shaders/ShaderChunk/uv_pars_vertex\</tspan>
-<tspan x="10" y="10730">.glsl</tspan>
-<tspan x="10" y="10746">577.  2017-04-17 21:40:43 +0000      281 bytes  src/renderers/shaders/ShaderChunk/uv_vertex.glsl</tspan>
-<tspan x="10" y="10762">578.  2017-04-17 21:40:43 +0000      278 bytes  src/renderers/shaders/ShaderChunk/worldpos_verte\</tspan>
-<tspan x="10" y="10778">x.glsl</tspan>
-<tspan x="10" y="10794">579.  2017-04-17 21:40:43 +0000     4275 bytes  src/renderers/shaders/ShaderLib.js</tspan>
-<tspan x="10" y="10810">580.  2017-04-17 21:40:43 +0000      258 bytes  src/renderers/shaders/ShaderLib/cube_frag.glsl</tspan>
-<tspan x="10" y="10826">581.  2017-04-17 21:40:43 +0000      183 bytes  src/renderers/shaders/ShaderLib/cube_vert.glsl</tspan>
-<tspan x="10" y="10842">582.  2017-04-17 21:40:43 +0000      723 bytes  src/renderers/shaders/ShaderLib/depth_frag.glsl</tspan>
-<tspan x="10" y="10858">583.  2017-04-17 21:40:43 +0000      507 bytes  src/renderers/shaders/ShaderLib/depth_vert.glsl</tspan>
-<tspan x="10" y="10874">584.  2017-04-17 21:40:43 +0000      278 bytes  src/renderers/shaders/ShaderLib/distanceRGBA_fra\</tspan>
-<tspan x="10" y="10890">g.glsl</tspan>
-<tspan x="10" y="10906">585.  2017-04-17 21:40:43 +0000      409 bytes  src/renderers/shaders/ShaderLib/distanceRGBA_ver\</tspan>
-<tspan x="10" y="10922">t.glsl</tspan>
-<tspan x="10" y="10938">586.  2017-04-17 21:40:43 +0000      457 bytes  src/renderers/shaders/ShaderLib/equirect_frag.gl\</tspan>
-<tspan x="10" y="10954">sl</tspan>
-<tspan x="10" y="10970">587.  2017-04-17 21:40:43 +0000      183 bytes  src/renderers/shaders/ShaderLib/equirect_vert.gl\</tspan>
-<tspan x="10" y="10986">sl</tspan>
-<tspan x="10" y="11002">588.  2017-04-17 21:40:43 +0000      792 bytes  src/renderers/shaders/ShaderLib/linedashed_frag.\</tspan>
-<tspan x="10" y="11018">glsl</tspan>
-<tspan x="10" y="11034">589.  2017-04-17 21:40:43 +0000      511 bytes  src/renderers/shaders/ShaderLib/linedashed_vert.\</tspan>
-<tspan x="10" y="11050">glsl</tspan>
-<tspan x="10" y="11066">590.  2017-04-17 21:40:43 +0000     1516 bytes  src/renderers/shaders/ShaderLib/meshbasic_frag.g\</tspan>
-<tspan x="10" y="11082">lsl</tspan>
-<tspan x="10" y="11098">591.  2017-04-17 21:40:43 +0000      826 bytes  src/renderers/shaders/ShaderLib/meshbasic_vert.g\</tspan>
-<tspan x="10" y="11114">lsl</tspan>
-<tspan x="10" y="11130">592.  2017-04-17 21:40:43 +0000     2052 bytes  src/renderers/shaders/ShaderLib/meshlambert_frag\</tspan>
-<tspan x="10" y="11146">.glsl</tspan>
-<tspan x="10" y="11162">593.  2017-04-17 21:40:43 +0000     1033 bytes  src/renderers/shaders/ShaderLib/meshlambert_vert\</tspan>
-<tspan x="10" y="11178">.glsl</tspan>
-<tspan x="10" y="11194">594.  2017-04-17 21:40:43 +0000     1843 bytes  src/renderers/shaders/ShaderLib/meshphong_frag.g\</tspan>
-<tspan x="10" y="11210">lsl</tspan>
-<tspan x="10" y="11226">595.  2017-04-17 21:40:43 +0000     1192 bytes  src/renderers/shaders/ShaderLib/meshphong_vert.g\</tspan>
+<tspan x="10" y="9034">526.  2017-04-22 11:12:59 +0000       64 bytes  src/renderers/shaders/ShaderChunk/emissivemap_pa\</tspan>
+<tspan x="10" y="9050">rs_fragment.glsl</tspan>
+<tspan x="10" y="9066">527.  2017-04-22 11:12:59 +0000       54 bytes  src/renderers/shaders/ShaderChunk/encodings_frag\</tspan>
+<tspan x="10" y="9082">ment.glsl</tspan>
+<tspan x="10" y="9098">528.  2017-04-22 11:12:59 +0000     3249 bytes  src/renderers/shaders/ShaderChunk/encodings_pars\</tspan>
+<tspan x="10" y="9114">_fragment.glsl</tspan>
+<tspan x="10" y="9130">529.  2017-04-22 11:12:59 +0000     1653 bytes  src/renderers/shaders/ShaderChunk/envmap_fragmen\</tspan>
+<tspan x="10" y="9146">t.glsl</tspan>
+<tspan x="10" y="9162">530.  2017-04-22 11:12:59 +0000      588 bytes  src/renderers/shaders/ShaderChunk/envmap_pars_fr\</tspan>
+<tspan x="10" y="9178">agment.glsl</tspan>
+<tspan x="10" y="9194">531.  2017-04-22 11:12:59 +0000      210 bytes  src/renderers/shaders/ShaderChunk/envmap_pars_ve\</tspan>
+<tspan x="10" y="9210">rtex.glsl</tspan>
+<tspan x="10" y="9226">532.  2017-04-22 11:12:59 +0000      494 bytes  src/renderers/shaders/ShaderChunk/envmap_vertex.\</tspan>
+<tspan x="10" y="9242">glsl</tspan>
+<tspan x="10" y="9258">533.  2017-04-22 11:12:59 +0000      291 bytes  src/renderers/shaders/ShaderChunk/fog_fragment.g\</tspan>
+<tspan x="10" y="9274">lsl</tspan>
+<tspan x="10" y="9290">534.  2017-04-22 11:12:59 +0000      187 bytes  src/renderers/shaders/ShaderChunk/fog_pars_fragm\</tspan>
+<tspan x="10" y="9306">ent.glsl</tspan>
+<tspan x="10" y="9322">535.  2017-04-22 11:12:59 +0000       50 bytes  src/renderers/shaders/ShaderChunk/fog_pars_verte\</tspan>
+<tspan x="10" y="9338">x.glsl</tspan>
+<tspan x="10" y="9354">536.  2017-04-22 11:12:59 +0000       48 bytes  src/renderers/shaders/ShaderChunk/fog_vertex.gls\</tspan>
+<tspan x="10" y="9370">l</tspan>
+<tspan x="10" y="9386">537.  2017-04-22 11:12:59 +0000      407 bytes  src/renderers/shaders/ShaderChunk/gradientmap_pa\</tspan>
+<tspan x="10" y="9402">rs_fragment.glsl</tspan>
+<tspan x="10" y="9418">538.  2017-04-22 11:12:59 +0000      195 bytes  src/renderers/shaders/ShaderChunk/lightmap_fragm\</tspan>
+<tspan x="10" y="9434">ent.glsl</tspan>
+<tspan x="10" y="9450">539.  2017-04-22 11:12:59 +0000       91 bytes  src/renderers/shaders/ShaderChunk/lightmap_pars_\</tspan>
+<tspan x="10" y="9466">fragment.glsl</tspan>
+<tspan x="10" y="9482">540.  2017-04-22 11:12:59 +0000     2245 bytes  src/renderers/shaders/ShaderChunk/lights_lambert\</tspan>
+<tspan x="10" y="9498">_vertex.glsl</tspan>
+<tspan x="10" y="9514">541.  2017-04-22 11:12:59 +0000     7838 bytes  src/renderers/shaders/ShaderChunk/lights_pars.gl\</tspan>
+<tspan x="10" y="9530">sl</tspan>
+<tspan x="10" y="9546">542.  2017-04-22 11:12:59 +0000      192 bytes  src/renderers/shaders/ShaderChunk/lights_phong_f\</tspan>
+<tspan x="10" y="9562">ragment.glsl</tspan>
+<tspan x="10" y="9578">543.  2017-04-22 11:12:59 +0000     2549 bytes  src/renderers/shaders/ShaderChunk/lights_phong_p\</tspan>
+<tspan x="10" y="9594">ars_fragment.glsl</tspan>
+<tspan x="10" y="9610">544.  2017-04-22 11:12:59 +0000      569 bytes  src/renderers/shaders/ShaderChunk/lights_physica\</tspan>
+<tspan x="10" y="9626">l_fragment.glsl</tspan>
+<tspan x="10" y="9642">545.  2017-04-22 11:12:59 +0000     4506 bytes  src/renderers/shaders/ShaderChunk/lights_physica\</tspan>
+<tspan x="10" y="9658">l_pars_fragment.glsl</tspan>
+<tspan x="10" y="9674">546.  2017-04-22 11:12:59 +0000     4241 bytes  src/renderers/shaders/ShaderChunk/lights_templat\</tspan>
+<tspan x="10" y="9690">e.glsl</tspan>
+<tspan x="10" y="9706">547.  2017-04-22 11:12:59 +0000      128 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_fr\</tspan>
+<tspan x="10" y="9722">agment.glsl</tspan>
+<tspan x="10" y="9738">548.  2017-04-22 11:12:59 +0000      129 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_pa\</tspan>
+<tspan x="10" y="9754">rs_fragment.glsl</tspan>
+<tspan x="10" y="9770">549.  2017-04-22 11:12:59 +0000      128 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_pa\</tspan>
+<tspan x="10" y="9786">rs_vertex.glsl</tspan>
+<tspan x="10" y="9802">550.  2017-04-22 11:12:59 +0000      249 bytes  src/renderers/shaders/ShaderChunk/logdepthbuf_ve\</tspan>
+<tspan x="10" y="9818">rtex.glsl</tspan>
+<tspan x="10" y="9834">551.  2017-04-22 11:12:59 +0000      142 bytes  src/renderers/shaders/ShaderChunk/map_fragment.g\</tspan>
+<tspan x="10" y="9850">lsl</tspan>
+<tspan x="10" y="9866">552.  2017-04-22 11:12:59 +0000       48 bytes  src/renderers/shaders/ShaderChunk/map_pars_fragm\</tspan>
+<tspan x="10" y="9882">ent.glsl</tspan>
+<tspan x="10" y="9898">553.  2017-04-22 11:12:59 +0000      190 bytes  src/renderers/shaders/ShaderChunk/map_particle_f\</tspan>
+<tspan x="10" y="9914">ragment.glsl</tspan>
+<tspan x="10" y="9930">554.  2017-04-22 11:12:59 +0000       76 bytes  src/renderers/shaders/ShaderChunk/map_particle_p\</tspan>
+<tspan x="10" y="9946">ars_fragment.glsl</tspan>
+<tspan x="10" y="9962">555.  2017-04-22 11:12:59 +0000      252 bytes  src/renderers/shaders/ShaderChunk/metalnessmap_f\</tspan>
+<tspan x="10" y="9978">ragment.glsl</tspan>
+<tspan x="10" y="9994">556.  2017-04-22 11:12:59 +0000       65 bytes  src/renderers/shaders/ShaderChunk/metalnessmap_p\</tspan>
+<tspan x="10" y="10010">ars_fragment.glsl</tspan>
+<tspan x="10" y="10026">557.  2017-04-22 11:12:59 +0000      325 bytes  src/renderers/shaders/ShaderChunk/morphnormal_ve\</tspan>
+<tspan x="10" y="10042">rtex.glsl</tspan>
+<tspan x="10" y="10058">558.  2017-04-22 11:12:59 +0000      163 bytes  src/renderers/shaders/ShaderChunk/morphtarget_pa\</tspan>
+<tspan x="10" y="10074">rs_vertex.glsl</tspan>
+<tspan x="10" y="10090">559.  2017-04-22 11:12:59 +0000      662 bytes  src/renderers/shaders/ShaderChunk/morphtarget_ve\</tspan>
+<tspan x="10" y="10106">rtex.glsl</tspan>
+<tspan x="10" y="10122">560.  2017-04-22 11:12:59 +0000      119 bytes  src/renderers/shaders/ShaderChunk/normal_flip.gl\</tspan>
+<tspan x="10" y="10138">sl</tspan>
+<tspan x="10" y="10154">561.  2017-04-22 11:12:59 +0000      587 bytes  src/renderers/shaders/ShaderChunk/normal_fragmen\</tspan>
+<tspan x="10" y="10170">t.glsl</tspan>
+<tspan x="10" y="10186">562.  2017-04-22 11:12:59 +0000      700 bytes  src/renderers/shaders/ShaderChunk/normalmap_pars\</tspan>
+<tspan x="10" y="10202">_fragment.glsl</tspan>
+<tspan x="10" y="10218">563.  2017-04-22 11:12:59 +0000     1449 bytes  src/renderers/shaders/ShaderChunk/packing.glsl</tspan>
+<tspan x="10" y="10234">564.  2017-04-22 11:12:59 +0000      193 bytes  src/renderers/shaders/ShaderChunk/premultiplied_\</tspan>
+<tspan x="10" y="10250">alpha_fragment.glsl</tspan>
+<tspan x="10" y="10266">565.  2017-04-22 11:12:59 +0000      192 bytes  src/renderers/shaders/ShaderChunk/project_vertex\</tspan>
+<tspan x="10" y="10282">.glsl</tspan>
+<tspan x="10" y="10298">566.  2017-04-22 11:12:59 +0000      252 bytes  src/renderers/shaders/ShaderChunk/roughnessmap_f\</tspan>
+<tspan x="10" y="10314">ragment.glsl</tspan>
+<tspan x="10" y="10330">567.  2017-04-22 11:12:59 +0000       65 bytes  src/renderers/shaders/ShaderChunk/roughnessmap_p\</tspan>
+<tspan x="10" y="10346">ars_fragment.glsl</tspan>
+<tspan x="10" y="10362">568.  2017-04-22 11:12:59 +0000     7712 bytes  src/renderers/shaders/ShaderChunk/shadowmap_pars\</tspan>
+<tspan x="10" y="10378">_fragment.glsl</tspan>
+<tspan x="10" y="10394">569.  2017-04-22 11:12:59 +0000      570 bytes  src/renderers/shaders/ShaderChunk/shadowmap_pars\</tspan>
+<tspan x="10" y="10410">_vertex.glsl</tspan>
+<tspan x="10" y="10426">570.  2017-04-22 11:12:59 +0000      625 bytes  src/renderers/shaders/ShaderChunk/shadowmap_vert\</tspan>
+<tspan x="10" y="10442">ex.glsl</tspan>
+<tspan x="10" y="10458">571.  2017-04-22 11:12:59 +0000     1230 bytes  src/renderers/shaders/ShaderChunk/shadowmask_par\</tspan>
+<tspan x="10" y="10474">s_fragment.glsl</tspan>
+<tspan x="10" y="10490">572.  2017-04-22 11:12:59 +0000      216 bytes  src/renderers/shaders/ShaderChunk/skinbase_verte\</tspan>
+<tspan x="10" y="10506">x.glsl</tspan>
+<tspan x="10" y="10522">573.  2017-04-22 11:12:59 +0000      962 bytes  src/renderers/shaders/ShaderChunk/skinning_pars_\</tspan>
+<tspan x="10" y="10538">vertex.glsl</tspan>
+<tspan x="10" y="10554">574.  2017-04-22 11:12:59 +0000      358 bytes  src/renderers/shaders/ShaderChunk/skinning_verte\</tspan>
+<tspan x="10" y="10570">x.glsl</tspan>
+<tspan x="10" y="10586">575.  2017-04-22 11:12:59 +0000      350 bytes  src/renderers/shaders/ShaderChunk/skinnormal_ver\</tspan>
+<tspan x="10" y="10602">tex.glsl</tspan>
+<tspan x="10" y="10618">576.  2017-04-22 11:12:59 +0000      179 bytes  src/renderers/shaders/ShaderChunk/specularmap_fr\</tspan>
+<tspan x="10" y="10634">agment.glsl</tspan>
+<tspan x="10" y="10650">577.  2017-04-22 11:12:59 +0000       63 bytes  src/renderers/shaders/ShaderChunk/specularmap_pa\</tspan>
+<tspan x="10" y="10666">rs_fragment.glsl</tspan>
+<tspan x="10" y="10682">578.  2017-04-22 11:12:59 +0000       91 bytes  src/renderers/shaders/ShaderChunk/tonemapping_fr\</tspan>
+<tspan x="10" y="10698">agment.glsl</tspan>
+<tspan x="10" y="10714">579.  2017-04-22 11:12:59 +0000     1189 bytes  src/renderers/shaders/ShaderChunk/tonemapping_pa\</tspan>
+<tspan x="10" y="10730">rs_fragment.glsl</tspan>
+<tspan x="10" y="10746">580.  2017-04-22 11:12:59 +0000       80 bytes  src/renderers/shaders/ShaderChunk/uv2_pars_fragm\</tspan>
+<tspan x="10" y="10762">ent.glsl</tspan>
+<tspan x="10" y="10778">581.  2017-04-22 11:12:59 +0000      101 bytes  src/renderers/shaders/ShaderChunk/uv2_pars_verte\</tspan>
+<tspan x="10" y="10794">x.glsl</tspan>
+<tspan x="10" y="10810">582.  2017-04-22 11:12:59 +0000       73 bytes  src/renderers/shaders/ShaderChunk/uv2_vertex.gls\</tspan>
+<tspan x="10" y="10826">l</tspan>
+<tspan x="10" y="10842">583.  2017-04-22 11:12:59 +0000      253 bytes  src/renderers/shaders/ShaderChunk/uv_pars_fragme\</tspan>
+<tspan x="10" y="10858">nt.glsl</tspan>
+<tspan x="10" y="10874">584.  2017-04-22 11:12:59 +0000      282 bytes  src/renderers/shaders/ShaderChunk/uv_pars_vertex\</tspan>
+<tspan x="10" y="10890">.glsl</tspan>
+<tspan x="10" y="10906">585.  2017-04-22 11:12:59 +0000      281 bytes  src/renderers/shaders/ShaderChunk/uv_vertex.glsl</tspan>
+<tspan x="10" y="10922">586.  2017-04-22 11:12:59 +0000      278 bytes  src/renderers/shaders/ShaderChunk/worldpos_verte\</tspan>
+<tspan x="10" y="10938">x.glsl</tspan>
+<tspan x="10" y="10954">587.  2017-04-22 11:12:59 +0000     4277 bytes  src/renderers/shaders/ShaderLib.js</tspan>
+<tspan x="10" y="10970">588.  2017-04-22 11:12:59 +0000      258 bytes  src/renderers/shaders/ShaderLib/cube_frag.glsl</tspan>
+<tspan x="10" y="10986">589.  2017-04-22 11:12:59 +0000      183 bytes  src/renderers/shaders/ShaderLib/cube_vert.glsl</tspan>
+<tspan x="10" y="11002">590.  2017-04-22 11:12:59 +0000      723 bytes  src/renderers/shaders/ShaderLib/depth_frag.glsl</tspan>
+<tspan x="10" y="11018">591.  2017-04-22 11:12:59 +0000      507 bytes  src/renderers/shaders/ShaderLib/depth_vert.glsl</tspan>
+<tspan x="10" y="11034">592.  2017-04-22 11:12:59 +0000      278 bytes  src/renderers/shaders/ShaderLib/distanceRGBA_fra\</tspan>
+<tspan x="10" y="11050">g.glsl</tspan>
+<tspan x="10" y="11066">593.  2017-04-22 11:12:59 +0000      409 bytes  src/renderers/shaders/ShaderLib/distanceRGBA_ver\</tspan>
+<tspan x="10" y="11082">t.glsl</tspan>
+<tspan x="10" y="11098">594.  2017-04-22 11:12:59 +0000      457 bytes  src/renderers/shaders/ShaderLib/equirect_frag.gl\</tspan>
+<tspan x="10" y="11114">sl</tspan>
+<tspan x="10" y="11130">595.  2017-04-22 11:12:59 +0000      183 bytes  src/renderers/shaders/ShaderLib/equirect_vert.gl\</tspan>
+<tspan x="10" y="11146">sl</tspan>
+<tspan x="10" y="11162">596.  2017-04-22 11:12:59 +0000      792 bytes  src/renderers/shaders/ShaderLib/linedashed_frag.\</tspan>
+<tspan x="10" y="11178">glsl</tspan>
+<tspan x="10" y="11194">597.  2017-04-22 11:12:59 +0000      511 bytes  src/renderers/shaders/ShaderLib/linedashed_vert.\</tspan>
+<tspan x="10" y="11210">glsl</tspan>
+<tspan x="10" y="11226">598.  2017-04-22 11:12:59 +0000     1516 bytes  src/renderers/shaders/ShaderLib/meshbasic_frag.g\</tspan>
 <tspan x="10" y="11242">lsl</tspan>
-<tspan x="10" y="11258">596.  2017-04-17 21:40:43 +0000     2102 bytes  src/renderers/shaders/ShaderLib/meshphysical_fra\</tspan>
-<tspan x="10" y="11274">g.glsl</tspan>
-<tspan x="10" y="11290">597.  2017-04-17 21:40:43 +0000     1176 bytes  src/renderers/shaders/ShaderLib/meshphysical_ver\</tspan>
-<tspan x="10" y="11306">t.glsl</tspan>
-<tspan x="10" y="11322">598.  2017-04-17 21:40:43 +0000      530 bytes  src/renderers/shaders/ShaderLib/normal_frag.glsl</tspan>
-<tspan x="10" y="11338">599.  2017-04-17 21:40:43 +0000      981 bytes  src/renderers/shaders/ShaderLib/normal_vert.glsl</tspan>
-<tspan x="10" y="11354">600.  2017-04-17 21:40:43 +0000      782 bytes  src/renderers/shaders/ShaderLib/points_frag.glsl</tspan>
-<tspan x="10" y="11370">601.  2017-04-17 21:40:43 +0000      585 bytes  src/renderers/shaders/ShaderLib/points_vert.glsl</tspan>
-<tspan x="10" y="11386">602.  2017-04-17 21:40:43 +0000      267 bytes  src/renderers/shaders/ShaderLib/shadow_frag.glsl</tspan>
-<tspan x="10" y="11402">603.  2017-04-17 21:40:43 +0000      161 bytes  src/renderers/shaders/ShaderLib/shadow_vert.glsl</tspan>
-<tspan x="10" y="11418">604.  2017-04-17 21:40:43 +0000     2872 bytes  src/renderers/shaders/UniformsLib.js</tspan>
-<tspan x="10" y="11434">605.  2017-04-17 21:40:43 +0000     1036 bytes  src/renderers/shaders/UniformsUtils.js</tspan>
-<tspan x="10" y="11450">606.  2017-04-17 21:40:43 +0000     1345 bytes  src/renderers/webgl/WebGLBufferRenderer.js</tspan>
-<tspan x="10" y="11466">607.  2017-04-17 21:40:43 +0000     2843 bytes  src/renderers/webgl/WebGLCapabilities.js</tspan>
-<tspan x="10" y="11482">608.  2017-04-17 21:40:43 +0000     3139 bytes  src/renderers/webgl/WebGLClipping.js</tspan>
-<tspan x="10" y="11498">609.  2017-04-17 21:40:43 +0000     1557 bytes  src/renderers/webgl/WebGLExtensions.js</tspan>
-<tspan x="10" y="11514">610.  2017-04-17 21:40:43 +0000     2412 bytes  src/renderers/webgl/WebGLGeometries.js</tspan>
-<tspan x="10" y="11530">611.  2017-04-17 21:40:43 +0000     1493 bytes  src/renderers/webgl/WebGLIndexedBufferRenderer.j\</tspan>
-<tspan x="10" y="11546">s</tspan>
-<tspan x="10" y="11562">612.  2017-04-17 21:40:43 +0000     1759 bytes  src/renderers/webgl/WebGLLights.js</tspan>
-<tspan x="10" y="11578">613.  2017-04-17 21:40:43 +0000     5322 bytes  src/renderers/webgl/WebGLObjects.js</tspan>
-<tspan x="10" y="11594">614.  2017-04-17 21:40:43 +0000    18172 bytes  src/renderers/webgl/WebGLProgram.js</tspan>
-<tspan x="10" y="11610">615.  2017-04-17 21:40:43 +0000     8130 bytes  src/renderers/webgl/WebGLPrograms.js</tspan>
-<tspan x="10" y="11626">616.  2017-04-17 21:40:43 +0000      476 bytes  src/renderers/webgl/WebGLProperties.js</tspan>
-<tspan x="10" y="11642">617.  2017-04-17 21:40:43 +0000      955 bytes  src/renderers/webgl/WebGLShader.js</tspan>
-<tspan x="10" y="11658">618.  2017-04-17 21:40:43 +0000    11577 bytes  src/renderers/webgl/WebGLShadowMap.js</tspan>
-<tspan x="10" y="11674">619.  2017-04-17 21:40:43 +0000    17933 bytes  src/renderers/webgl/WebGLState.js</tspan>
-<tspan x="10" y="11690">620.  2017-04-17 21:40:43 +0000    22867 bytes  src/renderers/webgl/WebGLTextures.js</tspan>
-<tspan x="10" y="11706">621.  2017-04-17 21:40:43 +0000    11229 bytes  src/renderers/webgl/WebGLUniforms.js</tspan>
-<tspan x="10" y="11722">622.  2017-04-17 21:40:43 +0000    10650 bytes  src/renderers/webgl/plugins/LensFlarePlugin.js</tspan>
-<tspan x="10" y="11738">623.  2017-04-17 21:40:43 +0000     8817 bytes  src/renderers/webgl/plugins/SpritePlugin.js</tspan>
-<tspan x="10" y="11754">624.  2017-04-17 21:40:43 +0000      617 bytes  src/scenes/Fog.js</tspan>
-<tspan x="10" y="11770">625.  2017-04-17 21:40:43 +0000      595 bytes  src/scenes/FogExp2.js</tspan>
-<tspan x="10" y="11786">626.  2017-04-17 21:40:43 +0000     1146 bytes  src/scenes/Scene.js</tspan>
-<tspan x="10" y="11802">627.  2017-04-17 21:40:43 +0000      469 bytes  src/textures/CanvasTexture.js</tspan>
-<tspan x="10" y="11818">628.  2017-04-17 21:40:43 +0000      874 bytes  src/textures/CompressedTexture.js</tspan>
-<tspan x="10" y="11834">629.  2017-04-17 21:40:43 +0000      856 bytes  src/textures/CubeTexture.js</tspan>
-<tspan x="10" y="11850">630.  2017-04-17 21:40:43 +0000      848 bytes  src/textures/DataTexture.js</tspan>
-<tspan x="10" y="11866">631.  2017-04-17 21:40:43 +0000     1284 bytes  src/textures/DepthTexture.js</tspan>
-<tspan x="10" y="11882">632.  2017-04-17 21:40:43 +0000     5800 bytes  src/textures/Texture.js</tspan>
-<tspan x="10" y="11898">633.  2017-04-17 21:40:43 +0000      652 bytes  src/textures/VideoTexture.js</tspan>
-<tspan x="10" y="11914">634.  2017-04-17 21:40:43 +0000      502 bytes  src/utils.js</tspan>
+<tspan x="10" y="11258">599.  2017-04-22 11:12:59 +0000      826 bytes  src/renderers/shaders/ShaderLib/meshbasic_vert.g\</tspan>
+<tspan x="10" y="11274">lsl</tspan>
+<tspan x="10" y="11290">600.  2017-04-22 11:12:59 +0000     2118 bytes  src/renderers/shaders/ShaderLib/meshlambert_frag\</tspan>
+<tspan x="10" y="11306">.glsl</tspan>
+<tspan x="10" y="11322">601.  2017-04-22 11:12:59 +0000     1033 bytes  src/renderers/shaders/ShaderLib/meshlambert_vert\</tspan>
+<tspan x="10" y="11338">.glsl</tspan>
+<tspan x="10" y="11354">602.  2017-04-22 11:12:59 +0000     1909 bytes  src/renderers/shaders/ShaderLib/meshphong_frag.g\</tspan>
+<tspan x="10" y="11370">lsl</tspan>
+<tspan x="10" y="11386">603.  2017-04-22 11:12:59 +0000     1192 bytes  src/renderers/shaders/ShaderLib/meshphong_vert.g\</tspan>
+<tspan x="10" y="11402">lsl</tspan>
+<tspan x="10" y="11418">604.  2017-04-22 11:12:59 +0000     2168 bytes  src/renderers/shaders/ShaderLib/meshphysical_fra\</tspan>
+<tspan x="10" y="11434">g.glsl</tspan>
+<tspan x="10" y="11450">605.  2017-04-22 11:12:59 +0000     1176 bytes  src/renderers/shaders/ShaderLib/meshphysical_ver\</tspan>
+<tspan x="10" y="11466">t.glsl</tspan>
+<tspan x="10" y="11482">606.  2017-04-22 11:12:59 +0000      530 bytes  src/renderers/shaders/ShaderLib/normal_frag.glsl</tspan>
+<tspan x="10" y="11498">607.  2017-04-22 11:12:59 +0000      981 bytes  src/renderers/shaders/ShaderLib/normal_vert.glsl</tspan>
+<tspan x="10" y="11514">608.  2017-04-22 11:12:59 +0000      782 bytes  src/renderers/shaders/ShaderLib/points_frag.glsl</tspan>
+<tspan x="10" y="11530">609.  2017-04-22 11:12:59 +0000      585 bytes  src/renderers/shaders/ShaderLib/points_vert.glsl</tspan>
+<tspan x="10" y="11546">610.  2017-04-22 11:12:59 +0000      267 bytes  src/renderers/shaders/ShaderLib/shadow_frag.glsl</tspan>
+<tspan x="10" y="11562">611.  2017-04-22 11:12:59 +0000      161 bytes  src/renderers/shaders/ShaderLib/shadow_vert.glsl</tspan>
+<tspan x="10" y="11578">612.  2017-04-22 11:12:59 +0000     2872 bytes  src/renderers/shaders/UniformsLib.js</tspan>
+<tspan x="10" y="11594">613.  2017-04-22 11:12:59 +0000     1036 bytes  src/renderers/shaders/UniformsUtils.js</tspan>
+<tspan x="10" y="11610">614.  2017-04-22 11:12:59 +0000     2872 bytes  src/renderers/webgl/WebGLAttributes.js</tspan>
+<tspan x="10" y="11626">615.  2017-04-22 11:12:59 +0000     1324 bytes  src/renderers/webgl/WebGLBufferRenderer.js</tspan>
+<tspan x="10" y="11642">616.  2017-04-22 11:12:59 +0000     2843 bytes  src/renderers/webgl/WebGLCapabilities.js</tspan>
+<tspan x="10" y="11658">617.  2017-04-22 11:12:59 +0000     3140 bytes  src/renderers/webgl/WebGLClipping.js</tspan>
+<tspan x="10" y="11674">618.  2017-04-22 11:12:59 +0000     1557 bytes  src/renderers/webgl/WebGLExtensions.js</tspan>
+<tspan x="10" y="11690">619.  2017-04-22 11:12:59 +0000     3588 bytes  src/renderers/webgl/WebGLGeometries.js</tspan>
+<tspan x="10" y="11706">620.  2017-04-22 11:12:59 +0000     1510 bytes  src/renderers/webgl/WebGLIndexedBufferRenderer.j\</tspan>
+<tspan x="10" y="11722">s</tspan>
+<tspan x="10" y="11738">621.  2017-04-22 11:12:59 +0000     1713 bytes  src/renderers/webgl/WebGLLights.js</tspan>
+<tspan x="10" y="11754">622.  2017-04-22 11:12:59 +0000      697 bytes  src/renderers/webgl/WebGLObjects.js</tspan>
+<tspan x="10" y="11770">623.  2017-04-22 11:12:59 +0000    18223 bytes  src/renderers/webgl/WebGLProgram.js</tspan>
+<tspan x="10" y="11786">624.  2017-04-22 11:12:59 +0000     7987 bytes  src/renderers/webgl/WebGLPrograms.js</tspan>
+<tspan x="10" y="11802">625.  2017-04-22 11:12:59 +0000      498 bytes  src/renderers/webgl/WebGLProperties.js</tspan>
+<tspan x="10" y="11818">626.  2017-04-22 11:12:59 +0000     2664 bytes  src/renderers/webgl/WebGLRenderLists.js</tspan>
+<tspan x="10" y="11834">627.  2017-04-22 11:12:59 +0000      956 bytes  src/renderers/webgl/WebGLShader.js</tspan>
+<tspan x="10" y="11850">628.  2017-04-22 11:12:59 +0000    11682 bytes  src/renderers/webgl/WebGLShadowMap.js</tspan>
+<tspan x="10" y="11866">629.  2017-04-22 11:12:59 +0000    17719 bytes  src/renderers/webgl/WebGLState.js</tspan>
+<tspan x="10" y="11882">630.  2017-04-22 11:12:59 +0000    22836 bytes  src/renderers/webgl/WebGLTextures.js</tspan>
+<tspan x="10" y="11898">631.  2017-04-22 11:12:59 +0000    11442 bytes  src/renderers/webgl/WebGLUniforms.js</tspan>
+<tspan x="10" y="11914">632.  2017-04-22 11:12:59 +0000    10666 bytes  src/renderers/webgl/plugins/LensFlarePlugin.js</tspan>
+<tspan x="10" y="11930">633.  2017-04-22 11:12:59 +0000     8834 bytes  src/renderers/webgl/plugins/SpritePlugin.js</tspan>
+<tspan x="10" y="11946">634.  2017-04-22 11:12:59 +0000      617 bytes  src/scenes/Fog.js</tspan>
+<tspan x="10" y="11962">635.  2017-04-22 11:12:59 +0000      595 bytes  src/scenes/FogExp2.js</tspan>
+<tspan x="10" y="11978">636.  2017-04-22 11:12:59 +0000     1135 bytes  src/scenes/Scene.js</tspan>
+<tspan x="10" y="11994">637.  2017-04-22 11:12:59 +0000      469 bytes  src/textures/CanvasTexture.js</tspan>
+<tspan x="10" y="12010">638.  2017-04-22 11:12:59 +0000      874 bytes  src/textures/CompressedTexture.js</tspan>
+<tspan x="10" y="12026">639.  2017-04-22 11:12:59 +0000      856 bytes  src/textures/CubeTexture.js</tspan>
+<tspan x="10" y="12042">640.  2017-04-22 11:12:59 +0000      847 bytes  src/textures/DataTexture.js</tspan>
+<tspan x="10" y="12058">641.  2017-04-22 11:12:59 +0000     1284 bytes  src/textures/DepthTexture.js</tspan>
+<tspan x="10" y="12074">642.  2017-04-22 11:12:59 +0000     5871 bytes  src/textures/Texture.js</tspan>
+<tspan x="10" y="12090">643.  2017-04-22 11:12:59 +0000      652 bytes  src/textures/VideoTexture.js</tspan>
+<tspan x="10" y="12106">644.  2017-04-22 11:12:59 +0000      469 bytes  src/utils.js</tspan>
 </text>
 </svg>
