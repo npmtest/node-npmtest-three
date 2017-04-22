@@ -1,4 +1,7 @@
-# test coverage for  [three (v0.84.0)](http://threejs.org/)  [![npm package](https://img.shields.io/npm/v/npmtest-three.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-three) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-three.svg)](https://travis-ci.org/npmtest/node-npmtest-three)
+# npmtest-three
+
+#### basic test coverage for  [three (v0.85.0)](http://threejs.org/)  [![npm package](https://img.shields.io/npm/v/npmtest-three.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-three) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-three.svg)](https://travis-ci.org/npmtest/node-npmtest-three)
+
 #### JavaScript 3D library
 
 [![NPM](https://nodei.co/npm/three.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/three)
@@ -41,10 +44,12 @@
     "dependencies": {},
     "description": "JavaScript 3D library",
     "devDependencies": {
+        "electron": "^1.6.1",
         "eslint": "^3.10.1",
         "eslint-config-mdcs": "^4.2.2",
-        "rollup": "^0.36.3",
-        "rollup-watch": "^2.5.0",
+        "qunitjs": "^2.1.1",
+        "rollup": "^0.41.4",
+        "rollup-watch": "^3.2.2",
         "uglify-js": "^2.6.0"
     },
     "directories": {
@@ -53,14 +58,15 @@
         "test": "test"
     },
     "dist": {
-        "shasum": "95be85a55a0fa002aa625ed559130957dcffd918",
-        "tarball": "https://registry.npmjs.org/three/-/three-0.84.0.tgz"
+        "shasum": "2efb33e8a449778fb8c71ac959e41bb81ef087d7",
+        "tarball": "https://registry.npmjs.org/three/-/three-0.85.0.tgz"
     },
     "eslintConfig": {
         "extends": "mdcs"
     },
     "files": [
         "package.json",
+        "bower.json",
         "LICENSE",
         "README.md",
         "build/three.js",
@@ -70,7 +76,7 @@
         "examples/js",
         "examples/fonts"
     ],
-    "gitHead": "3d8e0d43c6b79468a585cb37c63c3692a58125dc",
+    "gitHead": "f5b9e5a3b3305677271b0f5a0b77d1723fdef967",
     "homepage": "http://threejs.org/",
     "jsnext:main": "build/three.module.js",
     "keywords": [
@@ -102,12 +108,15 @@
     "scripts": {
         "build": "rollup -c",
         "build-closure": "rollup -c && java -jar utils/build/compiler/closure-compiler-v20160713.jar --warning_level=VERBOSE --jscomp_off=globalThis --jscomp_off=checkTypes --externs utils/build/externs.js --language_in=ECMASCRIPT5_STRICT --js build/three.js --js_output_file build/three.min.js",
+        "build-test": "rollup -c test/rollup.unit.config.js",
         "build-uglify": "rollup -c && uglifyjs build/three.js -cm --preamble \"// threejs.org/license\" > build/three.min.js",
-        "dev": "rollup -c -w",
+        "dev": "rollup -c -w -m inline",
+        "editor": "electron ./editor/main.js",
         "lint": "eslint src",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "rollup -c test/rollup.unit.config.js -w"
     },
-    "version": "0.84.0"
+    "version": "0.85.0",
+    "bin": {}
 }
 ```
 
